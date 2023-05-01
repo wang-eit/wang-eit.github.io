@@ -1,0 +1,291 @@
+*{margin: 0px; padding: 0px;}
+a{
+	text-decoration: none;
+}
+.KTZ{
+	width: 100%;
+	height: 90px;
+	/* border: 1px solid  red; */
+	float: right;
+	margin-top: 80px;
+	
+	/* margin-right: 0px; */
+	/* background-color: antiquewhite; */
+}
+
+.KTZ_DFLG_logo_div{
+	width: 25%;
+	height: 90px;
+	/* border: 1px solid  blue; */
+	float: left;
+	margin-left: 200px;
+}
+
+/* .KTZ_DFLG_logo_div img{
+	width: 343px ;
+	height: 54px;
+} */
+.KTZ_DFLG_logo{
+	width: 343px ;
+	height: 54px;
+	float: right;
+	margin-top: 10px;
+	/* style="width: 343px; height 108px;" */
+	
+}
+.KTZ_Team{
+	width: 40%;
+	height: 90px;
+	position: relative;
+	/*  */
+	/* float: left; */
+	/* border: 1px solid  blue; */
+	/* margin-right: 300px; */
+	margin:0px auto;
+	
+}
+.KTZ_Team_span {
+	/* color: #002D72; */
+	/* position: relative; */
+	/* width: 40%;
+	height: 90px; */
+	display: block;
+	width: 100%;
+	height: 100%;
+	font-family: wfont_9c456d_be04bd1a521447cf962bd12cec7b48ac,wf_be04bd1a521447cf962bd12ce,orig_quadon_medium;
+	font-size: 40px;
+	color: #002D72;
+	/* float: left; */
+	font-weight: normal;
+	/* border: 1px solid  green; */
+	margin:0px auto;
+	text-align: center;
+	/* margin-top: 10px; */
+	/* margin-left: 50%; */
+}
+
+
+
+.team_bg{
+	background-color: #F4F8FB;
+	/* position: relative; */
+	width: 70%;
+	height: 130px;
+	/* position: sticky; */
+	/* float: right; */
+	float:left;
+	margin-top: 50px;
+	margin-left: 15%;
+	box-shadow: 4px 4px 8px rgba(0,0,0,.6);
+}
+
+.team_des{
+	width: 90%;
+	height: 130px;
+	margin: 0 auto;
+	margin-top: 12px;
+	
+	
+}
+
+.team_des h2{
+	font-size:22px; 
+	line-height:1.2em;
+}
+.team_des span{
+font-size:22px;
+font-weight:normal;
+font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0ec3bcc,orig_gentona_book;
+
+
+}
+
+
+.team_img{
+	width: 80%;
+	height: 350px;
+	float: left;
+	
+	background-image:  url(../img/dflg_1.jpeg);
+	background-repeat: no-repeat;
+	/* background-size: 100% 100% ; */
+	/* background-size: ; */
+	/* background-position: auto; */
+	margin-top: 45px;
+	margin-left: 25%;
+}
+
+
+.team_img:hover{
+	/* color: #2676e3; */
+	width: 80%;
+	height: 350px;
+	float: left;
+	
+	background-image:  url(../img/dflg_2.png);
+	background-repeat: no-repeat;
+	/* background-size: 100% 100% ; */
+	/* background-position: auto; */
+	margin-top: 45px;
+	margin-left: 25%;
+}
+
+
+
+.team_des_pi{
+	width: 100%;
+	height: 500px;
+	float: left;
+	margin-top: 45px;
+	/* border: 1px solid  green; */
+}
+.team_pi{
+	width: 60%;
+	height: 500px;
+	margin: 0 auto;
+	/* border: 1px solid  green; */
+}
+
+.pi_img{
+	width: 35%;
+	height: 500px;
+	float: left;
+	
+	background-image:  url(../img/wang.gif);
+	background-repeat: no-repeat;
+	margin-top: 20px;
+}
+
+.pi_des{
+	width: 60%;
+	height: 350px;
+	float: right;
+	/* border: 1px solid  green; */
+	margin-top: 35px;
+}
+
+
+
+.pi_des_span1 {
+	color:#002D72;
+	font-size:26px;
+	font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0ec3bcc,orig_gentona_book;
+	letter-spacing:0.03em;
+	line-height:1.2em;
+}
+.pi_des_span2{
+	color:#353131;
+	font-size:22px;
+	font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0ec3bcc,orig_gentona_book;
+	letter-spacing:0.03em;
+	line-height:1.2em;
+}
+.pi_ct{
+	width: 60%;
+	height: 50px;
+	float: right;
+	/* border: 1px solid  green; */
+	margin-top: 35px;
+}
+.pi_ct1{
+	width: 20%;
+	height: 40px;
+	float: left;
+	/* border: 1px solid  green; */
+	/* margin-top: 35px; */
+}
+
+.pi_ct2{
+	width: 20%;
+	height: 40px;
+	float: left;
+	/* border: 1px solid  green; */
+	/* margin-top: 35px; */
+}
+
+.team_phd_std{
+	width: 100%;
+	height: 60px;
+	/* border: 1px solid  black; */
+	/* float: left; */
+	float: left;
+	margin-top: 15px;
+}
+
+
+.phd_pos_ms{
+	width: 100%;
+	height: 1800px;
+	float:left;
+	/* border: 1px solid  green; */
+}
+.phd_pos_ms_bj{
+	width: 60%;
+	height: 1800px;
+	margin: 0 auto;
+	/* border: 1px solid  green; */
+}
+.assistent_researcher{
+	width: 360px;
+	height: 600px;
+	/* border: 1px solid  green; */
+}
+
+.pi_des_span3{
+	width: 360px;
+	color:#353131;
+	font-size:22px;
+	font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0ec3bcc,orig_gentona_book;
+	letter-spacing:0.03em;
+	line-height:1.3em;
+	/* border: 1px solid  green; */
+	text-align: center;
+}
+
+
+.under_re_bj{
+	width: 100%;
+	height: 260px;
+	/* border: 1px solid  black; */
+	/* float: left; */
+	float: left;
+	margin-top: 15px;
+}
+.under_researchers{
+	width: 60%;
+	height: 260px;
+	margin: 0 auto;
+	/* border: 1px solid  green; */
+}
+
+.team_join_bj{
+	width: 100%;
+	height: 360px;
+	border: 1px solid  black;
+	background-color: #F5F5F5;
+	/* float: left; */
+	float: left;
+	margin-top: 15px;
+}
+
+.team_join_us{
+	width: 60%;
+	height: 360px;
+	margin: 0 auto;
+	/* border: 1px solid  green; */
+}
+
+.team_alumni_bj{
+	width: 100%;
+	height: 260px;
+	/* border: 1px solid  black; */
+	/* float: left; */
+	float: left;
+	margin-top: 15px;
+}
+.team_alumni{
+	width: 60%;
+	height: 260px;
+	margin: 0 auto;
+	/* border: 1px solid  green; */
+}
