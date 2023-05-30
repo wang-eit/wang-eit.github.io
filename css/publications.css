@@ -33,14 +33,54 @@ a{
 	
 }
 
+
+
+.max_back{
+	width: 100%;
+	height: 620px;
+	min-width: 1000px;
+	/* border: 1px solid  black; */
+	float: right;
+	margin-top: 20px;
+	overflow: scroll;
+	
+	
+}
+
+
+
 .pub_1_bj{
 	
-	width: 100%;
-	height: 300px;
+	width: 95%;
+	height: 200px;
 	min-width: 1000px;
 	/* border: 1px solid  red; */
 	float: right;
 	margin-top: 20px;
+	display: block;
+	
+}
+
+.pub_2_bj{
+	
+	width: 95%;
+	height: 100px;
+	min-width: 1000px;
+	/* border: 1px solid  red; */
+	float: right;
+	margin-top: 20px;
+	display: block;
+	
+}
+.pub_3_bj{
+	
+	width: 95%;
+	/* height: 60px; */
+	min-width: 1000px;
+	/* border: 1px solid  red; */
+	float: right;
+	margin-top: 40px;
+	display: block;
 	
 }
 
@@ -52,5 +92,135 @@ a{
 	/* border: 1px solid  red; */
 	/* float: right; */
 	margin: 0 auto;
+	/* display: inherit; */
 	
 }
+.pub_1_des{
+	width: 70%;
+	height: 100%;
+	/* min-width: 1000px; */
+	/* border: 1px solid  red; */
+	float: left;
+	/* margin: 0 auto; */
+	/* display: inherit; */
+}
+.pub_1_img{
+	
+	width: 25%;
+	height: 100%;
+	/* min-width: 1000px; */
+	background-image:  url(../artical_img/adma202209074-fig-0008-m.jpg);
+	background-repeat: no-repeat;
+	background-size: 95% 70%;
+	background-position:left center ;
+	/* border: 1px solid  red; */
+	float: right;
+	/* display: inherit; */
+}
+
+.pub_2_img{
+	
+	width: 25%;
+	height: 100%;
+	/* min-width: 1000px; */
+	background-image:  url(../artical_img/anie202214117-fig-0004-m.jpg);
+	background-repeat: no-repeat;
+	background-size: 95% 100%;
+	background-position:left center ;
+	/* border: 1px solid  red; */
+	float: right;
+	/* display: inherit; */
+}
+
+.pub_3_img{
+	
+	width: 25%;
+	height: 100%;
+	/* min-width: 1000px; */
+	background-image:  url(../artical_img/1-s2.0-S2590238522006506-fx1_lrg.jpg);
+	background-repeat: no-repeat;
+	background-size: 95% 100%;
+	background-position:left center ;
+	/* border: 1px solid  red; */
+	float: right;
+	/* display: inherit; */
+}
+
+.pub_4_img{
+	
+	width: 25%;
+	height: 100%;
+	/* min-width: 1000px; */
+	background-image:  url(../artical_img/1-s2.0-S2095809922007664-gr2_lrg.jpg);
+	background-repeat: no-repeat;
+	background-size: 95% 100%;
+	background-position:left center ;
+	/* border: 1px solid  red; */
+	float: right;
+	/* display: inherit; */
+}
+
+
+.pub_5_img{
+	
+	width: 25%;
+	height: 100%;
+	/* min-width: 1000px; */
+	background-image:  url(../artical_img/adma202207234-fig-0004-m.jpg);
+	background-repeat: no-repeat;
+	background-size: 95% 100%;
+	background-position:left center ;
+	/* border: 1px solid  red; */
+	float: right;
+	/* display: inherit; */
+}
+
+
+.qie_pian{
+	width: 100%;
+	height: 100%; 
+}
+#con div{ 
+	/* width: 100%;
+	height: 100%;  */
+	
+	/* border:10px solid orange; */
+	/* border: 1px solid  red; */
+	/* 让内容区域都隐藏起来 */ 
+	/* display: none;  */
+} 
+#con .active{ 
+	/* 让class名是active的元素显示出来 */ 
+	/* width: 100%;
+	height: 300px;  */
+	/* float: left; */
+	display: block; 
+} 
+
+.hide {
+	display: none;
+}
+
+#btn {
+	width: 80%;
+	height: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	/* background: #CCC; */
+	margin-left: 9%;
+	/* margin-top: 100px; */
+
+}
+
+#btn button{
+	border: 0px solid  red;
+	font-size: 18px;
+	padding: 5px 20px 5px 20px;
+	text-decoration: none;
+}
+
+.on{ 
+	/* 让class名是on的元素，文字变成红色 */ 
+color: red; 
+} 

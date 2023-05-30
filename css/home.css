@@ -111,6 +111,7 @@ a{
 	float: left;
 	/* border: 1px solid  blue; */
 	margin-right: 300px;
+	margin-left: 250px;
 	
 }
 .KTZ_DFLG_wang_span {
@@ -138,9 +139,9 @@ a{
 	width: 100%;
 	height: 400px;
 	min-width: 1800px;
-	background-image: url(../img/bg12.png);
+	background-image: url(../img/7.jpg);
 	background-repeat: no-repeat;
-	background-size: 100% 200% ;
+	background-size: 100% 500% ;
 	background-position: auto;
 	/* border: 1px solid  black; */
 	float: left;
