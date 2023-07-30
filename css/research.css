@@ -5,7 +5,7 @@ a{
 
 .res_sta_bj{
 	width: 100%;
-	height: 200px;
+	height: 300px;
 	/* border: 1px solid  black; */
 	/* background-color: #F5F5F5; */
 	/* float: left; */
@@ -23,7 +23,7 @@ a{
 	margin-top: 20px;
 }
 .res_sta_bj_z{
-	width: 70%;
+	width: 1300px;
 	height: 100%;
 	/* border: 1px solid  black; */
 	/* float: left; */
@@ -45,12 +45,16 @@ a{
 
 .res_title_bj{
 	width: 100%;
+	min-width: 1300px;
 	height: 30px;
 	/* border: 1px solid  black; */
 	/* float: left; */
-	margin-top: 15px;
-	margin: 0 auto;
+	margin-top: 25px;
+	/* margin: 0 auto; */
 }
+
+
+
 
 .res_title{
 	width: 70%;
@@ -77,8 +81,9 @@ a{
 }
 
 .res_doc1_bj{
-	width: 100%;
-	height: 630px;
+	width: 1300px;
+	/* min-width: 1300px; */
+	height: auto;
 	/* border: 1px solid  black; */
 	/* float: left; */
 	/* margin-top: 150px; */
@@ -87,8 +92,8 @@ a{
 
 
 .res_baterry_bj{
-	width: 70%;
-	height: 630px;
+	width: 100%;
+	height: auto;
 	/* display: block; */
 	/* border: 1px solid  black; */
 	/* float: left; */
@@ -97,19 +102,20 @@ a{
 }
 
 .res_baterry_left{
-	width: 49%;
+	width: 100%;
 	height: 100%;
 	float: left;
 	/* border: 1px solid  black; */
 }
-.res_baterry_right{
-	width: 50%;
-	height: 100%;
-	/* display: inline-block; */
-	float: right;
-	/* float: left; */
+
+.res_baterry_left img{
+
+	display: block;
+	margin: 0 auto;
 	/* border: 1px solid red; */
 }
+
+
 .res_baterry_img_des{
 	width: 100%;
 	height: 15%;
@@ -122,8 +128,8 @@ a{
 	font-family: 'PT Sans', sans-serif;
 	font-size: 9pt;
 	line-height: 1.2;
-	margin-top: 0px;
-	font-style: italic;
+	margin-top: 10px;
+	/* font-style: italic; */
 	font-variant: normal;
 }
 
@@ -133,11 +139,4 @@ a{
 	pointer-events: all;
 	text-align: center;
 	position: relative;
-}
-.res_baterry_pub{
-	margin-top: 25px;
-	width: 100%;
-	height: 35%;
-	display: block;
-	/* border: 1px solid red; */
 }

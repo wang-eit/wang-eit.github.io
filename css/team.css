@@ -6,7 +6,7 @@ a{
 	width: 100%;
 	height: 90px;
 	/* border: 1px solid  red; */
-	float: right;
+	/* float: right; */
 	margin-top: 80px;
 	
 	/* margin-right: 0px; */
@@ -34,9 +34,9 @@ a{
 	
 }
 .KTZ_Team{
-	width: 40%;
+	/* width: 40%; */
 	height: 90px;
-	position: relative;
+	display: flex;
 	/*  */
 	/* float: left; */
 	/* border: 1px solid  blue; */
@@ -45,38 +45,34 @@ a{
 	
 }
 .KTZ_Team_span {
-	/* color: #002D72; */
-	/* position: relative; */
-	/* width: 40%;
-	height: 90px; */
 	display: block;
 	width: 100%;
 	height: 100%;
-	font-family: wfont_9c456d_be04bd1a521447cf962bd12cec7b48ac,wf_be04bd1a521447cf962bd12ce,orig_quadon_medium;
+	font-family: 'PT Sans', sans-serif;
 	font-size: 40px;
-	color: #002D72;
-	/* float: left; */
+	/* color: rgba(33,33,33,1); */
+	color: rgb(51, 51, 51);
+	font-variant: normal;
 	font-weight: normal;
 	/* border: 1px solid  green; */
 	margin:0px auto;
 	text-align: center;
-	/* margin-top: 10px; */
-	/* margin-left: 50%; */
+
 }
 
 
 
 .team_bg{
 	background-color: #F4F8FB;
-	/* position: relative; */
-	width: 70%;
+	width: 1200px;
 	height: 130px;
-	/* position: sticky; */
-	/* float: right; */
-	float:left;
-	margin-top: 50px;
-	margin-left: 15%;
+
+	display: flex;
+	margin-top: 150px;
 	box-shadow: 4px 4px 8px rgba(0,0,0,.6);
+	left: 0;
+	right: 0;
+	margin: auto;
 }
 
 .team_des{
@@ -102,17 +98,23 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 
 
 .team_img{
-	width: 80%;
+	width: 800px;
 	height: 350px;
-	float: left;
-	
+	/* float: left; */
+	/* margin-top: 45px; */
 	background-image:  url(../img/dflg_1.jpeg);
 	background-repeat: no-repeat;
+	/* display: flex; */
 	/* background-size: 100% 100% ; */
 	/* background-size: ; */
 	/* background-position: auto; */
-	margin-top: 45px;
-	margin-left: 25%;
+	
+	position: relative;
+	top: 45px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
 }
 
 
@@ -134,25 +136,33 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 
 .team_des_pi{
 	width: 100%;
+	/* min-width: 1920px; */
 	height: 500px;
-	float: left;
+	/* float: left; */
 	margin-top: 45px;
+	position: relative;
 	/* border: 1px solid  green; */
+	/* display: flex; */
 }
 .team_pi{
-	width: 60%;
-	height: 500px;
-	margin: 0 auto;
+	width: 1000px;
+	height: auto;
+
+	position: relative;
+	top: 45px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	/* margin: 0 auto; */
 	/* border: 1px solid  green; */
 }
 
 .pi_img{
-	width: 23%;
+	width: 240px;
 	height: 350px;
 	float: left;
-	
-	
-	margin-top: 40px;
+	/* margin-top: 20px; */
 	/* border: 1px solid  black; */
 	
 }
@@ -178,39 +188,56 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 }
 .pi_img_email2{
 	width: 70%;
-	/* height: 70%; */
+	height: 45px;
 	/* border: 1px solid  red; */
 	margin-top: 10px;
 	float: left;
+	font-family: 'PT Sans', sans-serif;
+	padding: 15px;
+	margin: 0 auto;
+}
+.pi_img_email2  img{
+	position: absolute;
+	margin: 0 auto;
+	/* border: 1px solid  green; */
 }
 
-
+.pi_img_email2 a{
+	position: absolute;
+	margin-left: 30px;
+	font-family: 'PT Sans', sans-serif;
+	color: rgba(33,33,33,1);
+	font-size:15px;
+	/* border: 1px solid  green; */
+}
 
 .pi_des{
 	width: 70%;
 	height: 350px;
-	float: right;
-	/* border: 1px solid  green; */
-	margin-top: 35px;
+	position: relative;
 	/* float: right; */
-	margin-left: 5%;
+	
+	margin-top: 55px;
+	/* float: right; */
+	margin-left: 250px;
 }
 
 
 
 .pi_des_span1 {
-	color:#002D72;
+	/* color:#002D72; */
 	font-size:26px;
-	font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0ec3bcc,orig_gentona_book;
+	font-family: 'PT Sans', sans-serif;
 	letter-spacing:0.03em;
+	font-weight: bolder;
 	line-height:1.2em;
 }
 .pi_des_span2{
 	color:#353131;
 	font-size:16px;
-	font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0ec3bcc,orig_gentona_book;
+	font-family: 'PT Sans', sans-serif;
 	letter-spacing:0.03em;
-	line-height:1.2em;
+	line-height:1.8em;
 }
 .pi_ct{
 	width: 60%;
@@ -239,6 +266,7 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 	width: 100%;
 	height: 60px;
 	/* border: 1px solid  black; */
+	position: block;
 	/* float: left; */
 	float: left;
 	margin-top: 15px;
@@ -246,31 +274,102 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 
 
 .phd_pos_ms{
-	width: 100%;
-	height: 1800px;
-	float:left;
-	/* border: 1px solid  green; */
-}
-.phd_pos_ms_bj{
-	width: 60%;
-	height: 1800px;
+	width: 1300px;
+	height: auto;
+	/* float:left; */
+	display: block ;
+	/* float: left; */
 	margin: 0 auto;
 	/* border: 1px solid  green; */
 }
-.assistent_researcher{
-	width: 360px;
-	height: 600px;
-	/* border: 1px solid  green; */
+.posdoc_bj{
+	width: 1300px;
+	height: auto;
+	margin: 0 auto;
+	/* border: 1px solid  red; */
+	display: flex;
+}
+.posdoc_bj_des{
+	width: 260px;
+	height: 300px;
+	/* border: 1px solid  black; */
+	text-align:center;
+}
+.posdoc_bj_des img{
+	
+	/* margin-top: -70px; */
+	position:relative；
+}
+.posdoc_bj_des  p{
+	width: 100%;
+	color:#353131;
+	font-size:12px;
 }
 
+.phd_bj{
+	
+	width: 1200px;
+	height: auto;
+	/* float:left; */
+	position: block;
+	display: flex;
+	float: left ;
+	margin: 0 auto;
+	/* border: 1px solid  rgb(32, 38, 202); */
+}
+.phd_researcher{
+	width: 260px;
+	height: 300px;
+	/* border: 1px solid  black; */
+	text-align:center;
+}
+.phd_researcher p{
+	width: 100%;
+	color:#353131;
+	font-size:12px;
+}
+
+
+
+
+.assistent_bj{
+	
+	width: 1200px;
+	height: auto;
+	/* float:left; */
+	position: block;
+	display: flex;
+	float: left ;
+	margin: 0 auto;
+	/* border: 1px solid  rgb(32, 38, 202); */
+}
+.assistent_researcher{
+	width: 260px;
+	height: 300px;
+	/* border: 1px solid  black; */
+	text-align:center;
+}
+.assistent_researcher p{
+	width: 100%;
+	color:#353131;
+	font-size:12px;
+}
+
+
+
+
+
+
+
+
 .pi_des_span3{
-	width: 360px;
+	width: 100%;
 	color:#353131;
 	font-size:22px;
-	font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0ec3bcc,orig_gentona_book;
+	/* font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0ec3bcc,orig_gentona_book; */
 	letter-spacing:0.03em;
 	line-height:1.3em;
-	/* border: 1px solid  green; */
+	border: 1px solid  green;
 	text-align: center;
 }
 

@@ -180,15 +180,7 @@ a{
 	width: 100%;
 	height: 100%; 
 }
-#con div{ 
-	/* width: 100%;
-	height: 100%;  */
-	
-	/* border:10px solid orange; */
-	/* border: 1px solid  red; */
-	/* 让内容区域都隐藏起来 */ 
-	/* display: none;  */
-} 
+
 #con .active{ 
 	/* 让class名是active的元素显示出来 */ 
 	/* width: 100%;

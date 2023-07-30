@@ -1,6 +1,5 @@
 /**
  * @desc 一个轮播插件 
- * @author Mxsyx (zsimline@163.com)
  * @version 1.0.0
  */
 
