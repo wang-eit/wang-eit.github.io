@@ -104,115 +104,38 @@ a{
 	/* margin: 0 auto; */
 	/* display: inherit; */
 }
-.pub_1_img{
-	
-	width: 25%;
-	height: 100%;
-	/* min-width: 1000px; */
-	background-image:  url(../artical_img/adma202209074-fig-0008-m.jpg);
-	background-repeat: no-repeat;
-	background-size: 95% 70%;
-	background-position:left center ;
-	/* border: 1px solid  red; */
-	float: right;
-	/* display: inherit; */
-}
-
-.pub_2_img{
-	
-	width: 25%;
-	height: 100%;
-	/* min-width: 1000px; */
-	background-image:  url(../artical_img/anie202214117-fig-0004-m.jpg);
-	background-repeat: no-repeat;
-	background-size: 95% 100%;
-	background-position:left center ;
-	/* border: 1px solid  red; */
-	float: right;
-	/* display: inherit; */
-}
-
-.pub_3_img{
-	
-	width: 25%;
-	height: 100%;
-	/* min-width: 1000px; */
-	background-image:  url(../artical_img/1-s2.0-S2590238522006506-fx1_lrg.jpg);
-	background-repeat: no-repeat;
-	background-size: 95% 100%;
-	background-position:left center ;
-	/* border: 1px solid  red; */
-	float: right;
-	/* display: inherit; */
-}
-
-.pub_4_img{
-	
-	width: 25%;
-	height: 100%;
-	/* min-width: 1000px; */
-	background-image:  url(../artical_img/1-s2.0-S2095809922007664-gr2_lrg.jpg);
-	background-repeat: no-repeat;
-	background-size: 95% 100%;
-	background-position:left center ;
-	/* border: 1px solid  red; */
-	float: right;
-	/* display: inherit; */
-}
-
-
-.pub_5_img{
-	
-	width: 25%;
-	height: 100%;
-	/* min-width: 1000px; */
-	background-image:  url(../artical_img/adma202207234-fig-0004-m.jpg);
-	background-repeat: no-repeat;
-	background-size: 95% 100%;
-	background-position:left center ;
-	/* border: 1px solid  red; */
-	float: right;
-	/* display: inherit; */
-}
-
-
-.qie_pian{
-	width: 100%;
-	height: 100%; 
-}
-
-#con .active{ 
-	/* 让class名是active的元素显示出来 */ 
-	/* width: 100%;
-	height: 300px;  */
-	/* float: left; */
-	display: block; 
-} 
-
-.hide {
-	display: none;
-}
 
 #btn {
-	width: 80%;
+	width: 60%;
 	height: 20px;
 	display: flex;
 	align-items: center;
 	justify-content: space-around;
 	/* background: #CCC; */
-	margin-left: 9%;
+	margin-left: 19%;
 	/* margin-top: 100px; */
 
 }
 
 #btn button{
-	border: 0px solid  red;
+	/* border: 0px solid  red; */
 	font-size: 18px;
 	padding: 5px 20px 5px 20px;
 	text-decoration: none;
+
+	/* background-color:cornflowerblue;按钮背景颜色 */
+	border-radius: 5px;/*让按钮变得圆滑一点*/
+	border-width: 0;/*消去按钮丑的边框*/
+	outline: none;/*取消轮廓*/
+			/* font-family: KaiTi;字体设置为楷体 */
+			/* font-size: 17px;设置字体大小 */
+			/* text-align: center;字体居中 */
+	cursor: pointer;/*设置鼠标箭头手势*/
+
+
 }
 
 .on{ 
-	/* 让class名是on的元素，文字变成红色 */ 
-color: red; 
+color:#2676e3;
+font-weight: bolder;
 } 

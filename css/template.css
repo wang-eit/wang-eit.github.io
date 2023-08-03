@@ -1,0 +1,118 @@
+#template {
+  margin-top: 100px;
+  position: relative;
+  height: auto;
+  width: 1200px;
+  margin: 0 auto;
+}
+#template #allRec {
+  list-style-type: decimal;
+  font-size: 23px;
+}
+#template #allRec #RecLi {
+  margin-top: 45px;
+  width: 1200px;
+  height: 200px;
+  position: absolurete;
+}
+#template #allRec #RecLi .Recdiv {
+  width: 850px;
+  height: 200px;
+  float: left;
+  position: absolute;
+}
+#template #allRec #RecLi .Recdiv h2 {
+  height: 50px;
+  margin-top: 10px;
+  font-size: 18px;
+  text-decoration: underline;
+}
+#template #allRec #RecLi .Recdiv h5 {
+  height: 20px;
+  margin-top: 5px;
+  font: 1em sans-serif;
+  font-style: italic;
+  font-size: 15px;
+}
+#template #allRec #RecLi .Recdiv h5 b {
+  font-weight: bolder;
+}
+#template #allRec #RecLi .Recdiv p {
+  margin-top: 20px;
+  height: 120px;
+  text-indent: 20px;
+  font-size: 18px;
+  font-weight: 300;
+  overflow: hidden;
+}
+#template #allRec #RecLi .Recdiv a {
+  font-size: 18px;
+  font-weight: 500;
+}
+#template #allRec #RecLi img {
+  width: 340px;
+  height: 200px;
+  float: right;
+  margin: 0 auto;
+}
+#template #hide {
+  display: none;
+}
+#template #allpub {
+  list-style-type: decimal;
+  font-size: 23px;
+  text-decoration: underline;
+}
+#template #allpub li {
+  margin-top: 45px;
+  margin-left: 150px;
+  width: 1000px;
+  height: 30px;
+  position: absolurete;
+}
+#template #allpub li div {
+  width: 100%;
+  height: 30px;
+  float: left;
+  position: absolute;
+}
+#template #allpub li div h2 {
+  height: auto;
+  margin-top: 5px;
+  font-size: 16px;
+  text-decoration: underline;
+}
+#template #allpub li div h5 {
+  height: 20px;
+  margin-top: 10px;
+  font: 1em sans-serif;
+  font-style: italic;
+  font-size: 15px;
+}
+#template #allpub li div h5 b {
+  font-weight: bolder;
+}
+#template #allpub li div a {
+  font-size: 18px;
+  font-weight: 500;
+}
+#btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 18px;
+  padding: 5px 20px 5px 20px;
+  border-radius: 5px;
+  /*让按钮变得圆滑一点*/
+  border-width: 0;
+  /*消去按钮丑的边框*/
+  cursor: pointer;
+  /*设置鼠标箭头手势*/
+}
+#btn .on {
+  color: #2676e3;
+  font-weight: bolder;
+}
+#btn :hover {
+  background-color: antiquewhite;
+}
