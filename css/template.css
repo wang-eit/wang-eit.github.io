@@ -25,7 +25,6 @@
   height: 50px;
   margin-top: 10px;
   font-size: 18px;
-  text-decoration: underline;
 }
 #template #allRec #RecLi .Recdiv h5 {
   height: 20px;
@@ -80,7 +79,6 @@
   height: auto;
   margin-top: 5px;
   font-size: 16px;
-  text-decoration: underline;
 }
 #template #allpub li div h5 {
   height: 20px;

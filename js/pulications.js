@@ -6,7 +6,7 @@ var recentPubs={
             abstract:"Nickel-rich (Ni≥90 %) layered cathodes are critical materials for achieving higher-energy-density and lower-cost next-generation Li-ion batteries (LIBs). However, their bulk and interface structural instabilities significantly impair their electrochemical performance, thus hindering their widespread adoption in commercial LIBs. Exploiting Ti and Mo diffusion chemistry ...",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`Y Sun†, <b>C Wang†</b>, W Huang, G Zhao, L Duan, Q Liu, S Wang, A Fraser, H Guo, X Sun
+            totalAuthor:[`Y Sun†, <b>C Wang†</b>, W Huang, G Zhao, L Duan, Q Liu, S Wang, A Fraser, H Guo, X Sun, 
             Angewandte Chemie International Edition, 2023`],
             publink:"https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202300962",
         },
@@ -16,7 +16,7 @@ var recentPubs={
             abstract:"All-solid-state batteries have piqued global research interest because of their unprecedented safety and high energy density. Significant advances have been made in achieving high room-temperature ionic conductivity and good air stability of solid-state electrolytes (SSEs), mitigating the challenges at the electrode–electrolyte interface, and developing feasible manufacturing processes...",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`<b>C. Wang</b>, JT Kim, C Wang, X Sun - Advanced Materials, 2023 `],
+            totalAuthor:[`<b>C. Wang</b>, JT Kim, C Wang, X Sun, Advanced Materials, 2023 `],
             publink:"https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202209074",
         },
         {
@@ -25,7 +25,7 @@ var recentPubs={
             abstract:"Cu−Li batteries leveraging the two‐electron redox property of Cu can offer high energy density and low cost. However, Cu−Li batteries are plagued by limited solubility and a shuttle effect of Cu ions in traditional electrolytes, which leads to low energy density and poor cycling stability. In this work, we rationally design a solid‐state sandwich electrolyte for solid‐state Cu−Li batteries,...",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`H Wang†, <b>C Wang†</b>, M Zheng, J Liang, M Yang, X Feng, X Ren, DYW Yu, Y Li, X Sun
+            totalAuthor:[`H Wang†, <b>C Wang†</b>, M Zheng, J Liang, M Yang, X Feng, X Ren, DYW Yu, Y Li, X Sun, 
             Angewandte Chemie International Edition, 2023`],
             publink:"https://doi.org/10.1002/anie.202214117",
         },
@@ -36,7 +36,7 @@ var recentPubs={
             abstract:"Widespread adoption of lithium-sulfur batteries (LSBs) remains inhibited, given their unrealized energy densities, drastic capacity fade, and severe self-discharge stemming from the polysulfide shuttle effect. Although countless endeavors have attempted to overcome this key bottleneck...",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`J-T Kim†, X. Hao†, <b>C. Wang*</b>, and X. Sun*. Matter, 2023`],
+            totalAuthor:[`J-T Kim†, X. Hao†, <b>C. Wang*</b>, and X. Sun*, Matter, 2023`],
             publink:"https://doi.org/10.1016/j.matt.2022.11.019",
         },
 
@@ -49,7 +49,7 @@ var recentPubs={
             hazards when misused (ie, overcharged)...`,
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`<b>C. Wang</b>, X Sun - Engineering, 2023`],
+            totalAuthor:[`<b>C. Wang</b>, X Sun, Engineering, 2023`],
             publink:"https://doi.org/10.1016/j.eng.2022.10.008",
         },
         {
@@ -67,7 +67,7 @@ var recentPubs={
             abstract:"The safety of lithium-ion batteries has caused notable concerns about their widespread adoption in electric vehicles. A nascent but promising approach to enhancing battery safety is using solid-state electrolytes (SSEs) to develop all-solid-state batteries, which exhibit unrivaled safety and superior energy density. A new family of SSEs based on halogen chemistry has ...",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`<b>C. Wang</b>, J Liang, JT Kim, X Sun
+            totalAuthor:[`<b>C. Wang</b>, J Liang, JT Kim, X Sun,
             Science Advances, 2022`],
             publink:"https://www.science.org/doi/full/10.1126/sciadv.adc9516",
         },
@@ -115,7 +115,7 @@ var recentPubs={
             publink:"https://pubs.rsc.org/en/content/articlehtml/2021/xx/d1ee00551k",
         },
         {
-            imagesrc:"artical_img/anie202300962-fig-5001-m.jpg",
+            imagesrc:"artical_img/aenm202100210-fig-0005-m.jpg",
             titles:"Deciphering Interfacial Chemical and Electrochemical Reaction Mechanism of Sulfide-based All-Solid-State Batteries",
             abstract:"Large interfacial resistance resulting from interfacial reactions is widely acknowledged as one of the main challenges in sulfide electrolytes (SEs)-based all-solid-state lithium batteries (ASSLBs). However, the root cause of the large interfacial resistance between the SEs and typical layered oxide cathodes...",
             equalContributions:["changhongwang","changhongwang"],
