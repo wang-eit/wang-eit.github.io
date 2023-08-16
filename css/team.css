@@ -147,9 +147,12 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 	height: 90%;
 	background-image:  url(https://static.wixstatic.com/media/fb7874_56851f847d434677961a93be7ef26bd3~mv2.jpg/v1/crop/x_0,y_24,w_1200,h_1753/fill/w_366,h_535,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/changhong-wang.jpg);
 	background-repeat: no-repeat;
-	background-size: 90% 100%;
+	background-size: 100% 120%;
 	background-position: center;
 	margin-top: 10px;
+	border-radius:60%;
+	background-position-y: 9%;
+	
 	/* border: 1px solid  black; */
 }
 
