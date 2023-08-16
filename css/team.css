@@ -252,8 +252,9 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 	width: 1030px;
 	height: auto;
 	/* float:left; */
-	display: block ;
+	/* display: block ; */
 	/* float: left; */
+	/* position: relative; */
 	margin: 0 auto;
 	/* border: 1px solid  green; */
 }
