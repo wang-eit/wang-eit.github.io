@@ -22,21 +22,6 @@
 	<link rel="stylesheet" href="css/reset.css">
 	<script src="js/pulications.js"></script>
 
-	<!-- <script>
-		window.onload = function () {
-		  // 轮播选项
-		  const options = {
-			id: 'lb-1',              // 轮播盒ID
-			speed: 600,              // 轮播速度(ms)
-			delay: 3000,             // 轮播延迟(ms)
-			direction: 'left',       // 图片滑动方向
-			moniterKeyEvent: true,   // 是否监听键盘事件
-			moniterTouchEvent: true  // 是否监听屏幕滑动事件
-		  }            
-		  const lb = new Lb(options);
-		  lb.start();
-		}
-		</script> -->
 
 </head>
 
@@ -182,7 +167,7 @@
 		   </li> -->
 		</ol>
 
-		<ol id="hide">
+		<ol id="hide" reversed>
 		   <!-- <li>
 			   <div>
 				   <h2> 孙学良，李晓娜，梁剑文，王长虹，黄欢，卢世刚，张立，赵尚骞，锂二次电池固态电解质材料、电极及电池，2019</h2>
@@ -194,46 +179,7 @@
 		</ol>
 	   
    </div>
-
-	<!-- <script>
-		//获取到id名是btn的元素。 
-		var btn = document.getElementById("btn");
-		//获取到btn里面标签名是button的元素，也就是获取到3个按钮。 
-		var obtn = btn.getElementsByTagName("button");
-		//获取到id名是con的元素。 
-		var con = document.getElementById("con");
-		console.log(con);
-		//获取到con里面标签名是div的元素，也就是获取到3个内容。 
-		// var ocon = con.getElementsByTagName("div"); 
-		var ocon = con.children
-		// var ocon = con.getElementById("qie_huan");
-
-
-		console.log(obtn.length);
-		console.log(ocon.length);
-		console.log(ocon);
-		for (var i = 0; i < obtn.length; i++) {
-			//给每个按钮定义了一个index属性，这个index是属于obtn[i]的属性和方法。 
-			obtn[i].index = i;
-			// 点击按钮 
-			obtn[i].onclick = function () {
-				for (var j = 0; j < obtn.length; j++) {
-					// 去掉所有按钮的class名。 
-					obtn[j].className = "";
-					//隐藏所有内容区域。 
-					ocon[j].className = "hide";
-				}
-				// 给当前点击的这个按钮加上class名是on 
-
-				console.log(this.index);
-				this.className = "on";
-				//当前索引对应的内容展示出来。 
-				ocon[this.index].className = 'active';
-				// this.className = 'active'; 
-			}
-
-		} 
-	</script> -->
+	
 	<!-- <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> -->
 		
 	<div class="pv_num">

@@ -28,6 +28,8 @@ a{
 	/* border: 1px solid  green; */
 	float: right;
 	margin-right: 0px;
+	/* position: relative; */
+	/* display: block; */
 	/* background-color: lavenderblush; */
 	/* background-image: url(../img/bg_banner.jpg); */
 	background-repeat: no-repeat;

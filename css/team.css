@@ -7,7 +7,15 @@
 	/* float: left; */
 	/* border: 1px solid  blue; */
 	/* margin-right: 300px; */
-	margin:0px auto;
+	 /* background-image:  url(../img/7.jpg); */
+	/* background-repeat: no-repeat; */
+	/* display: flex; */
+	/* background-size: 1920px 1080px ; */
+	/* background-position-y: 43%; */
+	/* margin:0px auto; */
+	/* margin:0px auto; */
+	/* background-position: auto; */
+	text-align: center; 
 	
 }
 .KTZ_Team_span {
@@ -17,12 +25,12 @@
 	font-family: 'PT Sans', sans-serif;
 	font-size: 40px;
 	/* color: rgba(33,33,33,1); */
-	color: rgb(51, 51, 51);
+	/* color: rgb(51, 51, 51); */
 	font-variant: normal;
 	font-weight: normal;
+	padding-top: 32px;
 	/* border: 1px solid  green; */
-	margin:0px auto;
-	text-align: center;
+	
 
 }
 
@@ -103,7 +111,7 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 .team_des_pi{
 	width: 100%;
 	/* min-width: 1920px; */
-	height: 500px;
+	height: 450px;
 	/* float: left; */
 	margin-top: 85px;
 	position: relative;
@@ -112,10 +120,10 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 }
 .team_pi{
 	width: 1000px;
-	height: auto;
+	height: 100%;
 
 	position: relative;
-	top: 45px;
+	/* top: 45px; */
 	bottom: 0;
 	left: 0;
 	right: 0;
@@ -128,20 +136,20 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 	width: 240px;
 	height: 350px;
 	float: left;
+	
 	/* margin-top: 20px; */
 	/* border: 1px solid  black; */
+	text-align: center;
 	
 }
 
 .pi_img_img{
 	height: 90%;
-	/* float: left; */
-	
-	/* background-image:  url(../img/wang.gif); */
 	background-image:  url(https://static.wixstatic.com/media/fb7874_56851f847d434677961a93be7ef26bd3~mv2.jpg/v1/crop/x_0,y_24,w_1200,h_1753/fill/w_366,h_535,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/changhong-wang.jpg);
 	background-repeat: no-repeat;
 	background-size: 90% 100%;
 	background-position: center;
+	margin-top: 10px;
 	/* border: 1px solid  black; */
 }
 
@@ -154,7 +162,7 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 }
 .pi_img_email2{
 	width: 70%;
-	height: 45px;
+	height: 25px;
 	/* border: 1px solid  red; */
 	margin-top: 10px;
 	float: left;
@@ -170,6 +178,7 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 
 .pi_img_email2 a {
 	position: absolute;
+	
 	margin-left: 30px;
 	font-family: 'PT Sans', sans-serif;
 	color: rgba(33,33,33,1);
@@ -186,15 +195,30 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 	/* border: 1px solid  green; */
 }
 
+.pi_img_email3{
+	width: 70%;
+	height: 45px;
+	/* border: 1px solid  red; */
+
+}
+.pi_img_email3 a {
+	float: left;
+	
+	padding-left: 40px;
+
+}
+
+
 .pi_des{
 	width: 70%;
-	height: 350px;
+	height: auto;
 	position: relative;
 	/* float: right; */
 	
-	margin-top: 55px;
+	/* margin-top: 55px; */
 	/* float: right; */
-	margin-left: 250px;
+	margin-left: 270px;
+	/* border: 1px solid  green; */
 }
 
 
@@ -244,7 +268,7 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 	position: block;
 	/* float: left; */
 	float: left;
-	margin-top: 150px;
+	/* margin-top: 150px; */
 }
 
 
@@ -345,7 +369,7 @@ font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0
 	/* font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0ec3bcc,orig_gentona_book; */
 	letter-spacing:0.03em;
 	line-height:1.3em;
-	border: 1px solid  green;
+	/* border: 1px solid  green; */
 	text-align: center;
 }
 

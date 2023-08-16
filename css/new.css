@@ -1,10 +1,26 @@
-
-
-
-.news_bilibili{
-	/* width: 260px;
-	height: 300px; */
-	/* border: 1px solid  black; */
-    margin-top: 50px;
-	text-align:center;
+.new_item {
+  width: 1200px;
+  height: auto;
+  top: 50px;
+  margin: 0 auto;
+  position: relative;
+  font-family: 'PT Sans', sans-serif;
+  color: #37474f;
+}
+.new_item ol {
+  width: 100%;
+  height: auto;
+  font-size: 18px;
+  text-align: left;
+  font-style: italic;
+  position: relative;
+}
+.new_item ol li {
+  padding-top: 20px;
+  position: relative;
+}
+.new_item ol li span {
+  font-style: normal;
+  font-size: 22px;
+  font-weight: bolder;
 }
