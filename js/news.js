@@ -1,8 +1,46 @@
 var recentNews={
     allnews: [
+
+
+        { 
+            title:"⇰ Posdoc. : Guantai Hu join Wang research group.",
+            time:"Posted on Aug. 1, 2023.",
+            desc:"Welcome Guantai Hu.",
+        },
+
+        { 
+            title:"⇰ Ph.D. : Zhimin Zhou join Wang research group.",
+            time:"Posted on July 24, 2023.",
+            desc:"Welcome Zhimin Zhou.",
+        },
+
+        { 
+            title:"⇰ R.A. : Ziqing Wang join Wang research group.",
+            time:"Posted on July 17, 2023.",
+            desc:"Welcome Ziqing Wang.",
+        },
+
+        { 
+            title:"⇰ Posdoc. : Pushun Lu join Wang research group.",
+            time:"Posted on July 10, 2023.",
+            desc:"Welcome Pushun Lu.",
+        },
+
+        { 
+            title:"⇰ Posdoc. : Jiaxu Zhang join Wang research group.",
+            time:"Posted on July 7, 2023.",
+            desc:"Welcome Jiaxu Zhang.",
+        },
+
+        { 
+            title:"⇰ Ph.D. : Shutao Zhang join Wang research group.",
+            time:"Posted on June 25, 2023.",
+            desc:"Welcome Shutao Zhang.",
+        },
+
         { 
             title:"⇰ Ph.D. : Shengjie Xia join Wang research group.",
-            time:"Posted on June 25, 2023.",
+            time:"Posted on May 29, 2023.",
             desc:"Welcome Shengjie Xia.",
         },
     

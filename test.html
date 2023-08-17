@@ -1,37 +1,100 @@
-<div class="pub_1_bj">
+<!DOCTYPE html>
 
-			<div class="pub_1">
-				<div class="pub_1_des">
-					<p class="font_8" style="font-size:18px; line-height:1.5em;color:#002D72;">
-						1. Progress and Prospects of Inorganic Solid-State Electrolyte-Based All-Solid-State Pouch Cells
-					</p>
+<html>
+  <head>
+    <title>title</title>
+    <link></link>
+    <style>
+    </style>
+    <script src="js/reso.js"></script>
+  </head>
+  <body>
 
-					<p
-						style="font-size:14px; line-height:1.5em; margin-left:40px;font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0ec3bcc,orig_gentona_book;">
-						<span style="font-weight:bold;">C. Wang</span>, J-T Kim, C. Wang, and ,X. Sun*,&nbsp;
-						<span style="font-style:italic;">Advanced Materials, </span>2023 &nbsp;(In press)&nbsp;</span> </span>
-					</p>
-					<br />
-					<p
-						style="font-size:16px; line-height:1.5em; margin-left:40px;font-family:wfont_bca82c_12489e6e47cf4389ba0ec3bccde9edd9,wf_12489e6e47cf4389ba0ec3bcc,orig_gentona_book;">
-						&nbsp;
-						All-solid-state batteries have piqued global research interest because of their unprecedented safety
-						and high energy density.
-						Significant advances have been made in achieving high room-temperature ionic conductivity and good air
-						stability of solid-state
-						electrolytes (SSEs), mitigating the challenges at the electrode-electrolyte interface, and developing
-						feasible manufacturing processes.
-						Along with the advances in fundamental study, all-solid-state pouch cells using inorganic SSEs have
-						been widely demonstrated,...
-						<a href="https://onlinelibrary.wiley.com/doi/10.1002/adma.202209074">
-							[read more]
-						</a>
-					</p>
-				</div>
+    <div style="margin: 300px">
+      <div id="div1">
+          <!--<span>div1</span>-->
+          <!--<span>div11</span>-->
+          <!--<span>div111</span>-->
+          <!--<input type="text" id="input1" placeholder="请输入用户名" onchange="foo()">-->
+          <input type="text" id="input1" placeholder="请输入用户名" onblur="clean()"  >
 
-				<div class="pub_1_img">
+           <input type="password" id="input2" placeholder="请输入密码">
 
-				</div>
-			</div>
+          <!--<input type="checkbox" id="ck1" name="name" value="zhangsan">zhangsan-->
+          <!--<input type="checkbox" name="name" value="lisi">lisi-->
+          <!--<input type="checkbox" name="name" value="wangwu">wangwu-->
+          <input type="button" value="登录" onclick="login()">
+          <input type="button" value="点击" onclick="funName(this)">
 
-		</div>
+        </div>
+      <!--<div class="div2">-->
+          <!--<span>div2</span>-->
+          <!--<span>div22</span>-->
+      <!--</div>-->
+        <!--<div class="div2">-->
+          <!--<span>div2</span>-->
+          <!--<span>div22</span>-->
+      <!--</div>-->
+    </div>
+    <!-- <script>
+        function funName(ths) {
+            console.log("已被点击");//这个this是window的对象
+            console.log(this);
+            console.log(this.value);
+            ths.value="已点击"
+        }
+      function foo(){
+          var input1=document.getElementById("input1");
+        console.log(input1.value);
+          alert(input1.value);
+          confirm("输入的内容："+input1.value)
+      }
+      function clean() {
+          var clenalert=document.getElementById("alert");
+          if (clenalert){
+               clenalert.remove()
+          }
+
+
+      }
+      function login() {
+          var input1=document.getElementById("input1");
+          var input2=document.getElementById("input2");
+          if(input1.value && input1.value.length>6 && input1.value.length<12){
+              alert("输入符合要求")
+          }else {
+              var add = document.createElement("p");
+              add.innerHTML = "<span id='alert'>输入内容应该是大于6且小于12个字符</span>";
+              var div1 = document.getElementById("div1");
+              div1.appendChild(add);
+          }
+          console.log("输入的用户名是：",input1.value,"输入的密码是：",input2.value);
+          alert("输入的用户名是：" + input1.value + "密码:" + input2.value)
+
+      }
+      function demo1() {
+          var name="zhangsan";
+            console.log(name)
+      }
+      function demo2() {
+          const names="zhangsan2";
+            console.log(names)
+      }
+      function demo3() {
+          let names="zhangsan3";
+            console.log(names)
+      }
+      function demo4(ths) {
+          console.log(ths.value)
+          if(ths.value && ths.value.length>6 && ths.value.length<12){
+              alert(ths.value)
+          }else {
+              alert("输入内容应该是大于6且小于12个字符")
+          }
+      }
+
+
+    </script> -->
+  </body>
+
+</html>

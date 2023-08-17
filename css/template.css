@@ -43,10 +43,13 @@
   font-size: 18px;
   font-weight: 300;
   overflow: hidden;
+  font-family: 'Times New Roman', Times, serif;
 }
 #template #allRec #RecLi .Recdiv a {
   font-size: 18px;
+  font-style: italic;
   font-weight: 500;
+  color: darkorchid;
 }
 #template #allRec #RecLi img {
   width: 340px;

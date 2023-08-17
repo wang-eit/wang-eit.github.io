@@ -121,8 +121,13 @@ a{
 	height: 15%;
 	display: block;
 	/* float: ; */
-	/* border: 1px solid  black; */
+	/* border
+	: 1px solid  black; */
 }
+
+
+
+
 .res_wx_des{
 	color: rgba(33,33,33,1);
 	font-family: 'PT Sans', sans-serif;

@@ -1304,6 +1304,7 @@ window.onload = function (){
 
             aNode.href =recActicals[j].publink;
             aNode.append("[read more]");
+            aNode.target = "_blank";
             // h2Node.append("● ");
             pNode.append(recActicals[j].abstract);
             imgNode.src=recActicals[j].imagesrc;
