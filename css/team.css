@@ -54,7 +54,7 @@
 	height: 130px;
 	margin: 0 auto;
 	margin-top: 12px;
-	
+	/* border: 1px solid  green; */
 	
 }
 
@@ -214,7 +214,7 @@ font-weight:normal;
 
 
 .pi_des{
-	width: 70%;
+	width: 75%;
 	height: auto;
 	position: relative;
 	/* float: right; */
