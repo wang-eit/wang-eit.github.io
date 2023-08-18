@@ -1,8 +1,40 @@
 #positons_ {
   width: 1200px;
   top: 100px;
-  height: 800px;
+  height: 1230px;
   position: relative;
   margin: 0 auto;
   font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+}
+#positons_ h5 {
+  color: crimson;
+}
+#positons_ h2 {
+  font-weight: bolder;
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+#positons_ ol {
+  list-style-type: decimal;
+  margin-top: 30px;
+}
+#positons_ ol li {
+  list-style-position: inside;
+  text-indent: 40px;
+}
+#positons_ ol:nth-child(4) {
+  margin-bottom: 30px;
+}
+#positons_ p {
+  margin-bottom: 30px;
+}
+#positons_ p span {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  background-color: aqua;
+}
+#positons_ p b {
+  font-weight: bolder;
+  font-style: italic;
 }
