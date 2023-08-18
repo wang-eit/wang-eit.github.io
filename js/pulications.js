@@ -11,17 +11,20 @@ var recentPubs={
         //     correspondingAuthor:["xueliangsun","xueliangsun"],
         //     totalAuthor:[`H`],
         //     publink:"https://d",
+        //     year:"2023",
         // },
+        
 
-        // {
-        //     imagesrc:"",
-        //     titles:"A",
-        //     abstract:", e,...",
-        //     equalContributions:["changhongwang","changhongwang"],
-        //     correspondingAuthor:["xueliangsun","xueliangsun"],
-        //     totalAuthor:[`H`],
-        //     publink:"https://d",
-        // },
+        {
+            imagesrc:"artical_img/aenm202300815-fig-0001-m.jpg",
+            titles:"In-situ formed three-dimensional lithium metal anode in sulfide-based all-solid-state batteries",
+            abstract:"Constructing a 3D lithium metal anode has been demonstrated to be the most effective strategy to address its dendrite issue in liquid batteries. However, this promising approach has proved challenging to inherit in all-solid-state Li metal batteries (ASSLMBs) because of the rigidity of inorganic...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`H. Duan†,<b>C Wang†</b>, R. Yu‡, X. Sun. <b>Advanced Energy Materials</b>, 2023, 13, 2300815.`],
+            publink:"https://doi.org/10.1002/aenm.202300815",
+            year:"2023",
+        },
 
         {
             imagesrc:"artical_img/anie202300962-fig-5001-m.jpg",
@@ -1462,8 +1465,26 @@ window.onload = function (){
         var allActicals = recentPubs.allarticals;
         // 获取数据
         var pantents = recentPubs.patents;
+        let years = ["2023","2022","2021","2020","2019","2018","2017","2016","2015","2014","2013"];
+        let m = 0;
+        var rect_year= "2024";
+        var rect_next_year = "2023";
 
         for (let j = 0; j < recActicals.length; j++) {
+
+
+            if (recActicals[j].year!=rect_year & recActicals[j].year==rect_next_year){
+                let divNode_line = document.createElement('div');
+                divNode_line.append(recActicals[j].year);
+                divNode_line.className = "line";
+                allol[0].append(divNode_line);
+                rect_year = rect_year*1-1+"";
+                rect_next_year = rect_next_year*1-1+"";
+            }else{
+                // rect_year = rect_year*1-1+"";
+                // rect_next_year = rect_next_year*1-1+"";
+            }
+
             // 创建节点
             let liNode = document.createElement('li');
             let divNode = document.createElement('div');
@@ -1490,9 +1511,27 @@ window.onload = function (){
             liNode.append(divNode,imgNode);
             console.log(0);
             allol[0].append(liNode);
+
+            
+
+
         }
 
+        rect_year= "2024";
+        rect_next_year = "2023";
+
         for (let k = 0; k < allActicals.length; k++) {
+            if (allActicals[k].year!=rect_year & allActicals[k].year==rect_next_year){
+                let divNode_line = document.createElement('div');
+                divNode_line.append(allActicals[k].year);
+                divNode_line.className = "line";
+                allol[1].append(divNode_line);
+                rect_year = rect_year*1-1+"";
+                rect_next_year = rect_next_year*1-1+"";
+            }else{
+                // rect_year = rect_year*1-1+"";
+                // rect_next_year = rect_next_year*1-1+"";
+            }
             // 创建节点
             let liNode = document.createElement('li');
             let divNode = document.createElement('div');
@@ -1554,6 +1593,7 @@ window.onload = function (){
     function navPathDatabind(){
     // 获取页面导航的元素对象
     var allDiv = document.querySelector('#template');
+    var highlight = document.querySelector('#high_light');
     var allol = allDiv.getElementsByTagName("ol");
 
     //获取到id名是btn的元素。 
@@ -1583,6 +1623,11 @@ window.onload = function (){
                 allol[this.index].id = 'allRec';
             }else{
                 allol[this.index].id = 'allpub';
+            }
+            if(this.index==2){
+                highlight.id = "hiden"
+            }else{
+                highlight.id = "high_light"
             }
             
         }
