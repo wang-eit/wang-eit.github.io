@@ -13,6 +13,21 @@ var recentPubs={
         //     publink:"https://d",
         //     year:"2023",
         // },
+
+
+        {
+            imagesrc:"artical_img/20230822092838.png",
+            titles:"New Insights into Aliovalent Substituted Halide Solid Electrolytes for Cobalt-Free All-Solid-State Batteries",
+            abstract:"Halide solid electrolytes (SEs) have garnered significant attention due to their decent ionic conductivity and exceptional high-voltage stability. However, their structure-to-property relationship remains enigmatic. In this work, we synthesize a range of ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`<b>C Wang†</b>,S Wang†,X Liu,a Y Wu,R Yu,H Duan,Jung Tae Kim,H Huang
+            ,J Wang*, Y Mo*, X Sun*,<b>Energy & Enviromental Science</b>, 2023`],
+            publink:"",
+            year:"2023",
+        },
+
+
         
 
         {
@@ -21,7 +36,7 @@ var recentPubs={
             abstract:"Constructing a 3D lithium metal anode has been demonstrated to be the most effective strategy to address its dendrite issue in liquid batteries. However, this promising approach has proved challenging to inherit in all-solid-state Li metal batteries (ASSLMBs) because of the rigidity of inorganic...",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`H. Duan†,<b>C Wang†</b>, R. Yu‡, X. Sun. <b>Advanced Energy Materials</b>, 2023, 13, 2300815.`],
+            totalAuthor:[`H. Duan†,<b>C Wang†</b>, R. Yu†, X. Sun. <b>Advanced Energy Materials</b>, 2023, 13, 2300815.`],
             publink:"https://doi.org/10.1002/aenm.202300815",
             year:"2023",
         },
