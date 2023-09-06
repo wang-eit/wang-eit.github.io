@@ -13,6 +13,19 @@ var recentPubs={
         //     publink:"https://d",
         //     year:"2023",
         // },
+        {
+            imagesrc:"artical_img/nc962.png",
+            titles:"Manipulating Li2S2/Li2S Mixed Discharge Products of All-Solid-State Lithium-Sulfur Batteries for Improved Cycle Life",
+            abstract:"",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`Jung Tae Kim, Adwitiya Rao, H Nie, Y Hu, W Li, F Zhao, S Deng, X Hao, J Fu, J Luo, H Duan, <b>C Wang*</b>, Chandra Veer Singh*, X Sun*,
+            <b>Nature Communications</b>, 2023`],
+            publink:"#",
+            year:"2023",
+        },
+
+
 
 
         {
