@@ -1,4 +1,5 @@
 var recentPubs={
+    // 一作和通讯
     articals: [
 
 
@@ -16,12 +17,12 @@ var recentPubs={
         {
             imagesrc:"artical_img/nc962.png",
             titles:"Manipulating Li2S2/Li2S Mixed Discharge Products of All-Solid-State Lithium-Sulfur Batteries for Improved Cycle Life",
-            abstract:"",
+            abstract:"All-solid-state lithium-sulfur batteries offer a compelling opportunity for next-generation energy storage, due to their high theoretical energy density, low cost, and improved safety. However, their widespread adoption is hindered by an inadequate understanding of their discharge products. ",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`Jung Tae Kim, Adwitiya Rao, H Nie, Y Hu, W Li, F Zhao, S Deng, X Hao, J Fu, J Luo, H Duan, <b>C Wang*</b>, Chandra Veer Singh*, X Sun*,
             <b>Nature Communications</b>, 2023`],
-            publink:"#",
+            publink:"https://www.nature.com/articles/s41467-023-42109-5",
             year:"2023",
         },
 
@@ -36,7 +37,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C Wang†</b>,S Wang†,X Liu,a Y Wu,R Yu,H Duan,Jung Tae Kim,H Huang
             ,J Wang*, Y Mo*, X Sun*,<b>Energy & Enviromental Science</b>, 2023`],
-            publink:"",
+            publink:"https://pubs.rsc.org/en/content/articlehtml/2012/4y/d3ee01119d",
             year:"2023",
         },
 
@@ -414,7 +415,41 @@ var recentPubs={
 
 
     ],
+    // 合作文章
     allarticals: [
+        {
+            "titles": "Towards practically accessible high-voltage solid-state lithium batteries: From fundamental understanding to engineering design. ",
+            "totalAuthor": `X. Yang*, Q. Yin, <b>C. Wang</b>, K. Doyle-Davis, X. Sun*, X. Li*. <b>Progress in Materials Science</b>. 2023`,
+            "publink": "https://www.sciencedirect.com/science/article/pii/S0079642523001251?via%3Dihub=",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2023",
+        },
+        {
+            "titles": "Bilayer Zwitterionic Metal-Organic Framework for Selective All-Solid-State Superionic Conduction in Lithium Metal Batteries。 ",
+            "totalAuthor": `Y. Ouyang, W. Gong, Q. Zhang*, J. Wang, S. Guo, Y. Xiao, D. Li, <b>C. Wang</b>, X. Sun, C. Wang*, S. Huang*. <b>Advanced Materials</b>. 2023`,
+            "publink": "https://onlinelibrary.wiley.com/doi/10.1002/adma.202304685",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2023",
+        },
+
         {
             "titles": "Environmental Stability of Sulfide Solid-State Electrolytes for All-Solid-State Batteries. ",
             "totalAuthor": `J. Liang, X. Li, <b>C. Wang</b>, Jung Tae Kim, J. Wang, R. Yang, X. Sun. <b>Energy Materials Advances</b>. 2023`,
@@ -1487,9 +1522,9 @@ window.onload = function (){
         // 获取页面导航的元素对象
         var allDiv = document.querySelector('#template');
         var allol = allDiv.getElementsByTagName("ol");
-        // 获取数据
+        // 获取数据，一作和通讯
         var recActicals = recentPubs.articals;
-        // 获取数据
+        // 获取数据, 合作文章
         var allActicals = recentPubs.allarticals;
         // 获取数据
         var pantents = recentPubs.patents;
