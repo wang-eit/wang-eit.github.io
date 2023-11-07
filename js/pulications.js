@@ -422,7 +422,7 @@ var recentPubs={
         {
             "titles": "Halide Heterogeneous Structure Boosting Ionic Diffusion and High-Voltage Stability of Sodium Superionic Conductors. ",
             "totalAuthor": `J. Fu, S. Wang, D. Wu, J. Luo, <b>C. Wang</b>, J. Liang, X. Lin, Y. Hu, S. Zhang, F. Zhao, W. Li, M. Li, H. Duan, Y. Zhao, M. Gu*, T.-K. Sham*, Y. Mo*, X. Sun*. <b>Advanced Materials</b>. 2023`,
-            "publink": "https://www.sciencedirect.com/science/article/pii/S0079642523001251?via%3Dihub=",
+            "publink": " https://doi.org/10.1002/adma.202308012",
             "abstract": "",
             "equalContributions": [
                 "changhongwang",
