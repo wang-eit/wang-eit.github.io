@@ -420,6 +420,24 @@ var recentPubs={
 
 
         {
+            "titles": "Ultra-Thin and High-Voltage-Stable Bi-phasic Solid Polymer Electrolytes for High-Energy-Density Li Metal Batteries. ",
+            "totalAuthor": `Y. Gong, <b>C. Wang</b>, M. Xin, S. Chen, P. Xu, D. Li, J. Liu, Y. Wang, H. Xie*, X. Sun*, Y. Liu*. <b>Nano Energy</b>. 2023`,
+            "publink": "https://doi.org/10.1016/j.nanoen.2023.109054",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2023",
+        },
+
+
+        {
             "titles": "Halide Heterogeneous Structure Boosting Ionic Diffusion and High-Voltage Stability of Sodium Superionic Conductors. ",
             "totalAuthor": `J. Fu, S. Wang, D. Wu, J. Luo, <b>C. Wang</b>, J. Liang, X. Lin, Y. Hu, S. Zhang, F. Zhao, W. Li, M. Li, H. Duan, Y. Zhao, M. Gu*, T.-K. Sham*, Y. Mo*, X. Sun*. <b>Advanced Materials</b>. 2023`,
             "publink": " https://doi.org/10.1002/adma.202308012",
