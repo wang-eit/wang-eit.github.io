@@ -418,6 +418,23 @@ var recentPubs={
     // 合作文章
     allarticals: [
 
+        {
+            "titles": "Ultra-Thin and High-Voltage-Stable Bi-phasic Solid Polymer Electrolytes for High-Energy-Density Li Metal Batteries. ",
+            "totalAuthor": `X. Lin, Y. Zhao, <b>C. Wang</b>, J. Luo, J. Fu, B. Xiao, Y. Gao, W. Li, S. Zhang, J. Xu, F. Yang, X. Hao, H. Duan, Y. Sun, J. Guo, Y. Huang, X. Sun*. <b>Angew. Chem. Int. Ed.</b>. 2023`,
+            "publink": "https://doi.org/10.1016/j.nanoen.2023.109054",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2023",
+        },
+
 
         {
             "titles": "Ultra-Thin and High-Voltage-Stable Bi-phasic Solid Polymer Electrolytes for High-Energy-Density Li Metal Batteries. ",
