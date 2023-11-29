@@ -2,6 +2,15 @@ var recentPubs={
     // 一作和通讯
     articals: [
 
+        
+        // {
+        //     "titles": "Ultra-Thin and High-Voltage-Stable Bi-phasic Solid Polymer Electrolytes for High-Energy-Density Li Metal Batteries. ",
+        //     "totalAuthor": `X. Lin, Y. Zhao, <b>C. Wang</b>, J. Luo, J. Fu, B. Xiao, Y. Gao, W. Li, S. Zhang, J. Xu, F. Yang, X. Hao, H. Duan, Y. Sun, J. Guo, Y. Huang, X. Sun*. <b>Angew. Chem. Int. Ed.</b>. 2023`,
+        //     "imagesrc": "",
+        //     "year":"2023",
+        // },
+
+
 
 
         // {
@@ -14,6 +23,20 @@ var recentPubs={
         //     publink:"https://d",
         //     year:"2023",
         // },
+
+        {
+            imagesrc:"artical_img/na_20231129100910.png",
+            titles:"A Dual Anion Chemistry-Based Superionic Glass Enabling Long-Cycling All-Solid-State Sodium-Ion Batteries",
+            abstract:"Glassy Na-ion solid-state electrolytes (GNSSEs) are an important group of amorphous SSEs. However, the insufficient ionic conductivity of state-of-the-art GNSSEs at room temperature lessens their promise in the development of all-solid-state Na-ion batteries (ASSNIBs) with high energy density and improved safety.",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`X. Lin†, Y. Zhao†, <b>C. Wang†</b>, J. Luo, J. Fu, B. Xiao, Y. Gao, W. Li, S. Zhang, J. Xu, F. Yang, X. Hao, H. Duan, Y. Sun, J. Guo, Y. Huang, X. Sun*,
+            <b>Angew. Chem. Int. Ed.</b>, 2023`],
+            publink:"https://doi.org/10.1002/anie.202314181",
+            year:"2023",
+        },
+
+
         {
             imagesrc:"artical_img/nc962.png",
             titles:"Manipulating Li2S2/Li2S Mixed Discharge Products of All-Solid-State Lithium-Sulfur Batteries for Improved Cycle Life",
@@ -418,22 +441,7 @@ var recentPubs={
     // 合作文章
     allarticals: [
 
-        {
-            "titles": "Ultra-Thin and High-Voltage-Stable Bi-phasic Solid Polymer Electrolytes for High-Energy-Density Li Metal Batteries. ",
-            "totalAuthor": `X. Lin, Y. Zhao, <b>C. Wang</b>, J. Luo, J. Fu, B. Xiao, Y. Gao, W. Li, S. Zhang, J. Xu, F. Yang, X. Hao, H. Duan, Y. Sun, J. Guo, Y. Huang, X. Sun*. <b>Angew. Chem. Int. Ed.</b>. 2023`,
-            "publink": "https://doi.org/10.1016/j.nanoen.2023.109054",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": "",
-            "year":"2023",
-        },
+        
 
 
         {
