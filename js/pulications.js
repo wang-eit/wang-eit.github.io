@@ -441,7 +441,25 @@ var recentPubs={
     // 合作文章
     allarticals: [
 
-        
+        {
+            "titles": "Interface Welding via Thermal Pulse Sintering to Enable 4.6 V Solid-State Batteries. ",
+            "totalAuthor": `X. Yao, S. Chen, <b>C. Wang</b>, T. Chen, J. Li, S. Xue, Z. Deng, W. Zhao, B. Nan, Y. Zhao, K. Yang, Y. Song, F. Pan, L. Yang*, X. Sun*. <b> Advanced Energy Materials</b>. 2023`,
+            "publink": "https://doi.org/10.1002/aenm.202303422",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2023",
+        },
+
+
+
 
 
         {
