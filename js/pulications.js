@@ -13,16 +13,16 @@ var recentPubs={
 
 
 
-        // {
-        //     imagesrc:"",
-        //     titles:"A",
-        //     abstract:", e,...",
-        //     equalContributions:["changhongwang","changhongwang"],
-        //     correspondingAuthor:["xueliangsun","xueliangsun"],
-        //     totalAuthor:[`H`],
-        //     publink:"https://d",
-        //     year:"2023",
-        // },
+        {
+            imagesrc:"artical_img/EES-20240131.png",
+            titles:"Recent Progress on Metal-Organic Framework/Polymer Composite Electrolytes for Solid-State Lithium Metal Batteries: Ion Transport Regulation and Interface Engineering",
+            abstract:"Solid-state lithium metal batteries (SSLMBs) offer enhanced safety and higher energy density compared to liquid electrolyte batteries, but the insufficient ionic conductivity of solid-state electrolytes (SSEs) and poor electrode/electrolyte interfaces restrict their performance. Metal-organic framework (MOF)/polymer composite electrolytes. ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`B. Li, <b>C. Wang*</b>, R. Yu*, J. Han, S. Jiang, C. Zhang, S. He*,<b>Energy & Enviromental Science</b>, 2023`],
+            publink:"",
+            year:"2023",
+        },
 
         {
             imagesrc:"artical_img/na_20231129100910.png",
@@ -678,22 +678,22 @@ var recentPubs={
             "imagesrc": "",
             "year":"2022",
         },
-        {
-            "titles": "Unveiling micro internal short circuit mechanism in a 60 Ah high-energy-density Li-ion pouch cell. ",
-            "totalAuthor": `X Qi, B Liu, J Pang, F Yun, R Wang, Y Cui, <b>C. Wang</b>, K Doyle-Davis, C. Xing, S. Fang, W. Quan, B. Li, Q. Zhang, S. Wu, S. Liu, J. Wang, X. Sun.<b> Nano Energy</b>, 2021`,
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": "",
-            "year":"2021",
-        },
+        // {
+        //     "titles": "Unveiling micro internal short circuit mechanism in a 60 Ah high-energy-density Li-ion pouch cell. ",
+        //     "totalAuthor": `X Qi, B Liu, J Pang, F Yun, R Wang, Y Cui, <b>C. Wang</b>, K Doyle-Davis, C. Xing, S. Fang, W. Quan, B. Li, Q. Zhang, S. Wu, S. Liu, J. Wang, X. Sun.<b> Nano Energy</b>, 2021`,
+        //     "publink": "javascript:;",
+        //     "abstract": "",
+        //     "equalContributions": [
+        //         "changhongwang",
+        //         "changhongwang"
+        //     ],
+        //     "correspondingAuthor": [
+        //         "xueliangsun",
+        //         "xueliangsun"
+        //     ],
+        //     "imagesrc": "",
+        //     "year":"2021",
+        // },
         {
             "titles": "Origin of High Electrochemical Stability of Multi-Metal Chloride Solid Electrolytes for High Energy All-Solid-State Lithium-Ion Batteries. ",
             "totalAuthor": `G. Xu, L. Luo, J. Liang, S. Zhao, R. Yang, <b>C. Wang</b>, T.Yu, L. Wang, W. Xiao, J. Wang, J. Yu, X. Sun. <b>Nano Energy</b>, 2021`,
