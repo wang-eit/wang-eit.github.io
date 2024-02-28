@@ -10,7 +10,26 @@ var recentPubs={
         //     "year":"2023",
         // },
 
-
+        // {
+        //     imagesrc:"artical_img/EES-20240131.png",
+        //     titles:"Recent progress on metal–organic framework/polymer composite electrolytes for solid-state lithium metal batteries: ion transport regulation and interface engineering",
+        //     abstract:"Solid-state lithium metal batteries (SSLMBs) offer enhanced safety and higher energy density compared to liquid electrolyte batteries, but the insufficient ionic conductivity of solid-state electrolytes (SSEs) and their poor electrode/electrolyte interface restrict their performance. In this case, metal–organic framework (MOF)/polymer composite electrolytes with high ionic conductivity ...",
+        //     equalContributions:["changhongwang","changhongwang"],
+        //     correspondingAuthor:["xueliangsun","xueliangsun"],
+        //     totalAuthor:[`B. Li, <b>C. Wang*</b>, R. Yu*, J. Han, S. Jiang, C. Zhang, S. He*,<b>Energy & Enviromental Science</b>, 2023`],
+        //     publink:"",
+        //     year:"2023",
+        // },
+        {
+            imagesrc:"artical_img/j-lu-2024-1.jpg",
+            titles:"Materials and chemistry design for low-temperature all-solid-state batteries",
+            abstract:"All-solid-state batteries have been recognized as a promising technology to address the energy density limits and safety issues of conventional Li-ion batteries that employ organic liquid electrolytes. Over the past years, remarkable progress has been achieved at moderate and high temperatures, while the low-temperature operation of all-solid-state batteries emerges as a critical challenge that restricts their wide temperature application ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`P. Lu, Z. Zhou, Z. Xiao, J. Lu, J. Zhang, G. Hu, W. Yan, S. Xia, S. Zhang, Z. Wang, H. Li, <b>C. Wang*</b>, F. Wu*, X. Sun*, <b>Joule</b>, 2024`],
+            publink:"https://doi.org/10.1016/j.joule.2024.01.027",
+            year:"2024",
+        },
 
 
         {
@@ -20,7 +39,7 @@ var recentPubs={
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`B. Li, <b>C. Wang*</b>, R. Yu*, J. Han, S. Jiang, C. Zhang, S. He*,<b>Energy & Enviromental Science</b>, 2023`],
-            publink:"",
+            publink:"https://doi.org/10.1039/D3EE02705H",
             year:"2023",
         },
 
@@ -38,7 +57,7 @@ var recentPubs={
 
 
         {
-            imagesrc:"artical_img/nc962.png",
+            imagesrc:"artical_img/nc9622.png",
             titles:"Manipulating Li2S2/Li2S Mixed Discharge Products of All-Solid-State Lithium-Sulfur Batteries for Improved Cycle Life",
             abstract:"All-solid-state lithium-sulfur batteries offer a compelling opportunity for next-generation energy storage, due to their high theoretical energy density, low cost, and improved safety. However, their widespread adoption is hindered by an inadequate understanding of their discharge products. ",
             equalContributions:["changhongwang","changhongwang"],
@@ -1611,10 +1630,10 @@ window.onload = function (){
         var allActicals = recentPubs.allarticals;
         // 获取数据
         var pantents = recentPubs.patents;
-        let years = ["2023","2022","2021","2020","2019","2018","2017","2016","2015","2014","2013"];
+        let years = ["2024","2023","2022","2021","2020","2019","2018","2017","2016","2015","2014","2013"];
         let m = 0;
-        var rect_year= "2024";
-        var rect_next_year = "2023";
+        var rect_year= "2025";
+        var rect_next_year = "2024";
 
         for (let j = 0; j < recActicals.length; j++) {
 
