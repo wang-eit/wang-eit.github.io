@@ -30,9 +30,7 @@ a{
 	margin-top: 15px;
 	margin: 0 auto;
 }
-.res_sta_doc{
-	/* border: 1px solid  black; */
-}
+
 
 .res_sta_doc_sp{
 		color: rgba(33,33,33,1);
@@ -42,6 +40,7 @@ a{
 	    line-height: 1.6667;
 	    margin-top: 12px;
 }
+
 
 .res_title_bj{
 	width: 100%;

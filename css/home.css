@@ -24,6 +24,7 @@ a{
 
 .header_bg{
 	width: 100%;
+	/* max-width: 2000px; */
 	height: 160px;
 	/* border: 1px solid  green; */
 	float: right;
