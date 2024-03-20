@@ -460,6 +460,25 @@ var recentPubs={
     // 合作文章
     allarticals: [
 
+
+        {
+            "titles": "Unravelling the safety improving and failure mechanisms of a 56.5 Ah high-energy–density Li-ion cell containing solid-state electrolyte ",
+            "totalAuthor": `W. Zhang, X. Qi*, M. Liu, B. Liu, Y. Hu, J. Ye, R. Wang, B. Li, C. Wang, Q. Huang, B. Yu, R. Yang, B. Gou, J. Wang*, R. Xu*. <b> Chemical Engineering Journal</b>. 2024`,
+            "publink": "https://doi.org/10.1016/j.cej.2024.150458",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2024",
+        },
+
+
         {
             "titles": "Interface Welding via Thermal Pulse Sintering to Enable 4.6 V Solid-State Batteries. ",
             "totalAuthor": `X. Yao, S. Chen, <b>C. Wang</b>, T. Chen, J. Li, S. Xue, Z. Deng, W. Zhao, B. Nan, Y. Zhao, K. Yang, Y. Song, F. Pan, L. Yang*, X. Sun*. <b> Advanced Energy Materials</b>. 2023`,
@@ -1682,8 +1701,8 @@ window.onload = function (){
 
         }
 
-        rect_year= "2024";
-        rect_next_year = "2023";
+        rect_year= "2025";
+        rect_next_year = "2024";
 
         for (let k = 0; k < allActicals.length; k++) {
             if (allActicals[k].year!=rect_year & allActicals[k].year==rect_next_year){
