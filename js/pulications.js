@@ -10,16 +10,16 @@ var recentPubs={
         //     "year":"2023",
         // },
 
-        // {
-        //     imagesrc:"artical_img/EES-20240131.png",
-        //     titles:"Recent progress on metal–organic framework/polymer composite electrolytes for solid-state lithium metal batteries: ion transport regulation and interface engineering",
-        //     abstract:"Solid-state lithium metal batteries (SSLMBs) offer enhanced safety and higher energy density compared to liquid electrolyte batteries, but the insufficient ionic conductivity of solid-state electrolytes (SSEs) and their poor electrode/electrolyte interface restrict their performance. In this case, metal–organic framework (MOF)/polymer composite electrolytes with high ionic conductivity ...",
-        //     equalContributions:["changhongwang","changhongwang"],
-        //     correspondingAuthor:["xueliangsun","xueliangsun"],
-        //     totalAuthor:[`B. Li, <b>C. Wang*</b>, R. Yu*, J. Han, S. Jiang, C. Zhang, S. He*,<b>Energy & Enviromental Science</b>, 2023`],
-        //     publink:"",
-        //     year:"2023",
-        // },
+        {
+            imagesrc:"artical_img/NCom-0323.png",
+            titles:"Deciphering the critical role of interstitial volume in glassy sulfide superionic conductors",
+            abstract:"Sulfide electrolytes represent a crucial category of superionic conductors for all-solid-state lithium metal batteries. Among sulfide electrolytes, glassy sulfide is highly promising due to its long-range disorder and grain-boundary-free nature. However, the lack of comprehension regarding glass formation chemistry has hindered...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`H. Su, Y. Zhong*, <b>C. Wang*</b>, Y. Liu, Y. Hu, J. Li, M. Wang, L. Jiao, N. Zhou, B. Xiao, X. Wang, X. Sun*, J. Tu*,<b>Nature Communications</b>, 2024`],
+            publink:"https://doi.org/10.1038/s41467-024-46798-4",
+            year:"2024",
+        },
         {
             imagesrc:"artical_img/j-lu-2024-1.jpg",
             titles:"Materials and chemistry design for low-temperature all-solid-state batteries",
@@ -38,9 +38,9 @@ var recentPubs={
             abstract:"Solid-state lithium metal batteries (SSLMBs) offer enhanced safety and higher energy density compared to liquid electrolyte batteries, but the insufficient ionic conductivity of solid-state electrolytes (SSEs) and poor electrode/electrolyte interfaces restrict their performance. Metal-organic framework (MOF)/polymer composite electrolytes. ...",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`B. Li, <b>C. Wang*</b>, R. Yu*, J. Han, S. Jiang, C. Zhang, S. He*,<b>Energy & Enviromental Science</b>, 2023`],
+            totalAuthor:[`B. Li, <b>C. Wang*</b>, R. Yu*, J. Han, S. Jiang, C. Zhang, S. He*,<b>Energy & Enviromental Science</b>, 2024`],
             publink:"https://doi.org/10.1039/D3EE02705H",
-            year:"2023",
+            year:"2024",
         },
 
         {
@@ -50,9 +50,9 @@ var recentPubs={
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`X. Lin†, Y. Zhao†, <b>C. Wang†</b>, J. Luo, J. Fu, B. Xiao, Y. Gao, W. Li, S. Zhang, J. Xu, F. Yang, X. Hao, H. Duan, Y. Sun, J. Guo, Y. Huang, X. Sun*,
-            <b>Angew. Chem. Int. Ed.</b>, 2023`],
+            <b>Angew. Chem. Int. Ed.</b>, 2024`],
             publink:"https://doi.org/10.1002/anie.202314181",
-            year:"2023",
+            year:"2024",
         },
 
 
