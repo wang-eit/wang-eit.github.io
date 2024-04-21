@@ -461,9 +461,28 @@ var recentPubs={
     allarticals: [
 
 
+
+        {
+            "titles": "Bridging the gap between academic research and industrial development in advanced all-solid-state lithium–sulfur batteries ",
+            "totalAuthor": `J. Lee, C. Zhao, <b>C. Wang</b>, A. Chen, X. Sun, K. Amine*, G.-L. Xu*. <b> Chemical Society Reviews </b>. 2024`,
+            "publink": "https://doi.org/10.1039/D3CS00439B",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2024",
+        },
+
+
         {
             "titles": "Unravelling the safety improving and failure mechanisms of a 56.5 Ah high-energy–density Li-ion cell containing solid-state electrolyte ",
-            "totalAuthor": `W. Zhang, X. Qi*, M. Liu, B. Liu, Y. Hu, J. Ye, R. Wang, B. Li, C. Wang, Q. Huang, B. Yu, R. Yang, B. Gou, J. Wang*, R. Xu*. <b> Chemical Engineering Journal</b>. 2024`,
+            "totalAuthor": `W. Zhang, X. Qi*, M. Liu, B. Liu, Y. Hu, J. Ye, R. Wang, B. Li, <b>C. Wang</b>, Q. Huang, B. Yu, R. Yang, B. Gou, J. Wang*, R. Xu*. <b> Chemical Engineering Journal</b>. 2024`,
             "publink": "https://doi.org/10.1016/j.cej.2024.150458",
             "abstract": "",
             "equalContributions": [
