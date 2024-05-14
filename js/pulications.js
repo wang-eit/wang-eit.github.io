@@ -461,6 +461,22 @@ var recentPubs={
     allarticals: [
 
 
+        {
+            "titles": "eviving Cost-Effective Organic Cathodes in Halide-Based All-Solid-State Lithium Batteries ",
+            "totalAuthor": `Y. Gao, J. Fu, Y. Hu, F. Zhao, W. Li, S. Deng, Y. Sun, X. Hao, J. Ma, X. Lin, <b>C. Wang</b>, R. Li, X. Sun*. <b> Angew. Chem. Int. Ed.</b>. 2024`,
+            "publink": "https://doi.org/10.1002/ange.202403331",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2024",
+        },
 
         {
             "titles": "Bridging the gap between academic research and industrial development in advanced all-solid-state lithium–sulfur batteries ",
