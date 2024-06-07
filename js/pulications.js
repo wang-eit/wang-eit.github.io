@@ -462,7 +462,24 @@ var recentPubs={
 
 
         {
-            "titles": "eviving Cost-Effective Organic Cathodes in Halide-Based All-Solid-State Lithium Batteries ",
+            "titles": "Surface Coating Enabling Sulfide Solid Electrolytes with Excellent Air Stability and Lithium Compatibility ",
+            "totalAuthor": `M. Luo, <b>C. Wang</b>, Y. Duan, X. Zhao, J. Wang*, X. Sun*. <b> ENERGY & ENVIRONMENTAL MATERIALS</b>. 2024`,
+            "publink": " https://doi.org/10.1002/eem2.12753",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2024",
+        },
+
+        {
+            "titles": "Reviving Cost-Effective Organic Cathodes in Halide-Based All-Solid-State Lithium Batteries ",
             "totalAuthor": `Y. Gao, J. Fu, Y. Hu, F. Zhao, W. Li, S. Deng, Y. Sun, X. Hao, J. Ma, X. Lin, <b>C. Wang</b>, R. Li, X. Sun*. <b> Angew. Chem. Int. Ed.</b>. 2024`,
             "publink": "https://doi.org/10.1002/ange.202403331",
             "abstract": "",
