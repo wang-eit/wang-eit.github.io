@@ -4,10 +4,19 @@ var recentNews={
 
 
         { 
+            title:"⇰Congratulations:  Dr. Zhang Jiaxu received the Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划).",
+            time:"Posted on June. 14, 2024.",
+            desc:"",
+            imagesrc:"",
+            imag_height:"340px",
+            imag_width:"400px",
+        },
+
+        { 
             title:"⇰Seminar: Key Cathode Materials for Sodium-ion Batteries.",
             time:"Posted on July. 26, 2023.",
             desc:"In this talk, Dr.jian Peng will present a rational design of low-cost Prussian blue analogs as \
-            cathode materials for sodi-um-ion batteries with low cost, high voltage aswell as enhanced energy density \
+            cathode materials for sodium-ion batteries with low cost, high voltage aswell as enhanced energy density \
             and extendedcycle lifespan. Synthesis chemistry，structuralengineering and electrochemical characterizati-on \
             techniques will be discussed towards theirpractical applications.",
             imagesrc:"news_img/pengjian_seminar.png",
