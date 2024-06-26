@@ -2,13 +2,24 @@ var recentPubs={
     // 一作和通讯
     articals: [
 
-        
-        // {
+          // {
         //     "titles": "Ultra-Thin and High-Voltage-Stable Bi-phasic Solid Polymer Electrolytes for High-Energy-Density Li Metal Batteries. ",
         //     "totalAuthor": `X. Lin, Y. Zhao, <b>C. Wang</b>, J. Luo, J. Fu, B. Xiao, Y. Gao, W. Li, S. Zhang, J. Xu, F. Yang, X. Hao, H. Duan, Y. Sun, J. Guo, Y. Huang, X. Sun*. <b>Angew. Chem. Int. Ed.</b>. 2023`,
         //     "imagesrc": "",
         //     "year":"2023",
         // },
+
+        {
+            imagesrc:"artical_img/NCE-0626.jpg",
+            titles:"All-solid-state lithium–sulfur batteries through a reaction engineering lens",
+            abstract:"All-solid-state lithium–sulfur (Li–S) batteries have emerged as a promising energy storage solution due to their potential high energy density, cost effectiveness and safe operation. Gaining a deeper understanding of sulfur redox in the solid state is critical for advancing all-solid-state Li–S battery technology...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`J. T. Kim, H. Su, Y. Zhong, C. Wang, H. Wu, D. Zhao, <b>C. Wang*</b>, X. Sun*, Y. Li*,<b>Nature Chemical Engineering</b>, 2024`],
+            publink:"https://doi.org/10.1038/s44286-024-00079-5",
+            year:"2024",
+          
+        },
 
         {
             imagesrc:"artical_img/NCom-0323.png",
