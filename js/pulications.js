@@ -10,7 +10,7 @@ var recentPubs={
         // },
 
         {
-            imagesrc:"artical_img/NCE-0626.jpg",
+            imagesrc:"artical_img/NCE-0627.jpg",
             titles:"All-solid-state lithium–sulfur batteries through a reaction engineering lens",
             abstract:"All-solid-state lithium–sulfur (Li–S) batteries have emerged as a promising energy storage solution due to their potential high energy density, cost effectiveness and safe operation. Gaining a deeper understanding of sulfur redox in the solid state is critical for advancing all-solid-state Li–S battery technology...",
             equalContributions:["changhongwang","changhongwang"],
