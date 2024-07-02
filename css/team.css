@@ -295,12 +295,17 @@ font-weight:normal;
 	margin: 0 auto;
 	/* border: 1px solid  red; */
 	display: flex;
+	flex-wrap: wrap;
+	/* justify-content: space-between; */
+	gap: 10px;
+	/* border: 1px solid red; */
 }
 .posdoc_bj_des{
 	width: 260px;
 	height: 330px;
 	/* border: 1px solid  black; */
 	text-align:center;
+	margin-top: 30px;
 }
 .posdoc_bj_des img{
 	
@@ -322,20 +327,43 @@ font-weight:normal;
 	display: flex;
 	float: left ;
 	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	/* justify-content: space-between; */
+	gap: 10px;
+	/* border: 1px solid red; */
 	/* font-family: 'Times New Roman', Times, serif; */
 	/* border: 1px solid  rgb(32, 38, 202); */
 }
 .phd_researcher{
+	/* flex: 0 0 50%;  */
+	/* flex: 1 0 calc(25% - 10px); */
 	width: 260px;
 	height: 330px;
 	/* border: 1px solid  black; */
 	text-align:center;
+	margin-top: 30px;
 }
 .phd_researcher p{
 	width: 100%;
 	color:#353131;
 	font-size:14px;
 }
+
+
+.phd_researcher:first-child,
+.phd_researcher:last-child {
+	flex-grow: 0;
+}
+
+
+
+
+
+
+
+
+
 
 
 
