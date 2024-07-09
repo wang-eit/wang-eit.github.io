@@ -6,10 +6,10 @@ var recentNews={
         { 
             title:"⇰Congratulations:  Dr. Zhang Jiaxu received the Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划).",
             time:"Posted on June. 14, 2024.",
-            desc:"In 2024, a total of 500 people nationwide received the funding, and our university had one recipient. The government provides 680,000 yuan per person over two years, covering daily expenses and research funding.",
-            imagesrc:"",
-            imag_height:"340px",
-            imag_width:"400px",
+            desc:"In 2024, a total of 500 people nationwide received the funding, and our university had one recipient. The government provides 640,000 yuan per person over two years, covering daily expenses and research funding.",
+            imagesrc:"img/Team/YBZZ.png",
+            imag_height:"400px",
+            imag_width:"550px",
         },
 
         { 
@@ -128,7 +128,7 @@ var recentNews={
                     imgNode.src=all_news[j].imagesrc;
                     // imgNode.style.width
                     imgNode.style.width = all_news[j].imag_width;
-                    imgNode.style.height = all_news[j].imag_width;
+                    imgNode.style.height = all_news[j].imag_height;
                     liNode.append(spanNode,h4Node,pNode,imgNode)
                 }else{
                     liNode.append(spanNode,h4Node,pNode)
