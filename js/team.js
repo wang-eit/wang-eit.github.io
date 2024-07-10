@@ -40,7 +40,19 @@ var allStudentData={
             eduBj_2:"M.S.: CNITECH-CAS (2015-2018)",
             selfEmail:"liangsuzhe19@gmail.com"
         },
-        // {
+        {
+            imageSrc:"img/Team/TuoKaiyong.jpg",
+            imageWithHigh:[170,240],
+            studentName:"Kaiyong Tuo",
+            Supervsior:"Supervisor: Prof. Xueliang Sun",
+            CoSupervsior:"Co-Supervisor: Prof. Changhong Wang",
+            eduBj_1:"Ph.D: CUMTB (2020-2024)",
+            eduBj_2:"M.S.: CUMTB (2017-2020)",
+            selfEmail:"ktuo@eitech.edu.cn"
+        },
+
+
+           // {
         //     imageSrc:"",
         //     imageWithHigh:[190,240],
         //     studentName:"",
