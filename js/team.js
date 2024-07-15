@@ -52,6 +52,16 @@ var allStudentData={
         },
 
 
+           {
+            imageSrc:"img/Team/wangchao.jpg",
+            imageWithHigh:[190,240],
+            studentName:"Chao Wang",
+            Supervsior:"Supervsior: Prof. Xueliang Sun",
+            CoSupervsior:"Co-Supervsior: Prof. Changhong Wang",
+            eduBj_1:"Ph.D.: USTB (2020-2024)",
+            eduBj_2:"M.D.: USTB (2017-2019)",
+            selfEmail:"arlen_w@163.com"
+        },
            // {
         //     imageSrc:"",
         //     imageWithHigh:[190,240],
