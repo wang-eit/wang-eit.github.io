@@ -144,6 +144,16 @@ var allStudentData={
             eduBj_1:"M.S.: NJU (2020-2023)",
             eduBj_2:"B.S.: BUCT (2016-2020)",
             selfEmail:"zmf18810605302@163.com"
+        },
+        {
+            imageSrc:"img/Team/huanghongrui.jpg",
+            imageWithHigh:[190,240],
+            studentName:"Hongrui Huang",
+            Supervsior:"Supervisor: Prof. Xueliang Sun",
+            CoSupervsior:"Co-Supervisor: Prof. Changhong Wang",
+            eduBj_1:"M.S.: CSU (2021-2024)",
+            eduBj_2:"B.S.: CSU (2017-2021)",
+            selfEmail:"hhr33152@foxmail.com"
         }
     ],
 
