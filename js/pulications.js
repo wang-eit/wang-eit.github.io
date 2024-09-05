@@ -473,7 +473,7 @@ var recentPubs={
 
         {
             "titles": "Safety Concerns in Solid-State Lithium Batteries: From Materials to Devices",
-            "totalAuthor": `Y. Luo, Z. Rao, X. Yang, <b>C. Wang</b>, X. Sun*, X. Li*. <b> Energy & Environmental Science</b>. 2024`,
+            "totalAuthor": `Y. Luo†, Z. Rao†, X. Yang*, <b>C. Wang</b>, X. Sun*, X. Li*. <b> Energy & Environmental Science</b>. 2024`,
             "publink": "https://doi.org/10.1039/D4EE02358G",
             "abstract": "",
             "equalContributions": [
