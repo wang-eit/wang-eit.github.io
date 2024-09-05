@@ -472,8 +472,25 @@ var recentPubs={
     allarticals: [
 
         {
+            "titles": "Safety Concerns in Solid-State Lithium Batteries: From Materials to Devices",
+            "totalAuthor": `Y. Luo, Z. Rao, X. Yang, <b>C. Wang</b>, X. Sun*, X. Li*. <b> Energy & Environmental Science</b>. 2024`,
+            "publink": "https://doi.org/10.1039/D4EE02358G",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2024",
+        },
+
+        {
             "titles": "A breathable inorganic–organic interface for fabricating a crack-free nickel-rich cathode with long-term stability",
-            "totalAuthor": `Y. Sun†, J. Ma†, D. Wu†, C. Wang, Y. Zhao, M. Zheng, R. Yu, W. Li, M. Li, Y. Gao, X. Lin, H. Duan, J. Fu, Z. Wang,  R. Li, M. Gu*,  T. Sham*, X. Sun*. <b> Energy & Environmental Science</b>. 2024`,
+            "totalAuthor": `Y. Sun†, J. Ma†, D. Wu†, <b>C. Wang</b>, Y. Zhao, M. Zheng, R. Yu, W. Li, M. Li, Y. Gao, X. Lin, H. Duan, J. Fu, Z. Wang,  R. Li, M. Gu*,  T. Sham*, X. Sun*. <b> Energy & Environmental Science</b>. 2024`,
             "publink": "https://doi.org/10.1039/d4ee01254b",
             "abstract": "",
             "equalContributions": [
