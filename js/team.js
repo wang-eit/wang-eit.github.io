@@ -62,16 +62,16 @@ var allStudentData={
             eduBj_2:"M.D.: USTB (2017-2019)",
             selfEmail:"arlen_w@163.com"
         },
-           // {
-        //     imageSrc:"",
-        //     imageWithHigh:[190,240],
-        //     studentName:"",
-        //     Supervsior:"",
-        //     CoSupervsior:"",
-        //     eduBj_1:"",
-        //     eduBj_2:"",
-        //     selfEmail:""
-        // },
+           {
+            imageSrc:"img/Team/liutingting.jpg",
+            imageWithHigh:[190,240],
+            studentName:"",
+            Supervsior:"Supervsior: Prof. Xueliang Sun",
+            CoSupervsior:"Co-Supervsior: Prof. Changhong Wang",
+            eduBj_1:"Ph.D.: TJU (2020-2024)",
+            eduBj_2:"M.S.:NBU（2017-2020）",
+            selfEmail:"liutingting@tongji.edu.cn"
+        },
     ],
 
     PhDs:[
