@@ -195,8 +195,18 @@ var allStudentData={
             Supervsior:"Supervisor：Prof. Changhong Wang",
             CoSupervsior:"",
             eduBj_1:"M.S.: CAEP (2021-2024)",
-            eduBj_2:"B.S.: SCU(2017-2021)",
+            eduBj_2:"B.S.: SCU (2017-2021)",
             selfEmail:"mhsu@eitech.edu.cn"
+        },
+        {
+            imageSrc:"img/Team/chenying.jpg",
+            imageWithHigh:[190,240],
+            studentName:"Ying Chen",
+            Supervsior:"Supervisor：Prof. Changhong Wang",
+            CoSupervsior:"行政助理",
+            eduBj_1:"M.S.: NBU (2015-2018)",
+            eduBj_2:"B.S.: WZU (2011-2015)",
+            selfEmail:"yingchen@eitech.edu.cn"
         }
       
     ]
