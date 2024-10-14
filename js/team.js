@@ -65,7 +65,7 @@ var allStudentData={
            {
             imageSrc:"img/Team/liutingting.jpg",
             imageWithHigh:[190,240],
-            studentName:"",
+            studentName:"Tingting Liu",
             Supervsior:"Supervsior: Prof. Xueliang Sun",
             CoSupervsior:"Co-Supervsior: Prof. Changhong Wang",
             eduBj_1:"Ph.D.: TJU (2020-2024)",
