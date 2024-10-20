@@ -10,6 +10,18 @@ var recentPubs={
         // },
 
         {
+            imagesrc:"artical_img/1020_jacs.jpeg",
+            titles:"Amorphous AlOCl Compounds Enabling Nanocrystalline LiCl with Abnormally High Ionic Conductivity",
+            abstract:"LiCl is a promising solid electrolyte, providing it possesses high ionic conductivity. Numerous efforts have been made to enhance its ionic conductivity through aliovalent doping. However, aliovalent substitution changes the intrinsic structure of LiCl, compromising its cost-effectiveness and electrochemical stability....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`H. Duan†,<b>C. Wang†</b>, X.-S. Zhang, J. Fu, W. Li, J. Wan, R. Yu, M. Fan, F. Ren, S. Wang, M. Zheng, X. Li, J. Liang, R. Wen, S. Xin, Y.-G. Guo*, X. Sun* <b>J. Am. Chem. Soc.</b>, 2024`],
+            publink:"https://doi.org/10.1021/jacs.4c06498",
+            year:"2024",
+          
+        },
+
+        {
             imagesrc:"artical_img/NCE-0627.jpg",
             titles:"All-solid-state lithium–sulfur batteries through a reaction engineering lens",
             abstract:"All-solid-state lithium–sulfur (Li–S) batteries have emerged as a promising energy storage solution due to their potential high energy density, cost effectiveness and safe operation. Gaining a deeper understanding of sulfur redox in the solid state is critical for advancing all-solid-state Li–S battery technology...",
@@ -470,6 +482,23 @@ var recentPubs={
     ],
     // 合作文章
     allarticals: [
+
+        {
+            "titles": "A family of dual-anion-based sodium superionic conductors for all-solid-state sodium-ion batteries",
+            "totalAuthor": `X. Lin, S. Zhang, M. Yang, B. Xiao, Y. Zhao, J. Luo, J. Fu, C. Wang, X. Li, W. Li, F. Yang, H. Duan, J. Liang, B. Fu, H. Abdolvand, J. Guo, G. King, X. Sun*. <b> Nature Materials</b>. 2024`,
+            "publink": "https://doi.org/10.1038/s41563-024-02011-x",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2024",
+        },
 
         {
             "titles": "Safety Concerns in Solid-State Lithium Batteries: From Materials to Devices",
