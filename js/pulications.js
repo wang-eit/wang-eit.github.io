@@ -10,6 +10,17 @@ var recentPubs={
         // },
 
         {
+            imagesrc:"artical_img/1031-fig-0002-m.jpg",
+            titles:"A chronicle of titanium niobium oxide materials for high-performance lithium-ion batteries: From laboratory to industry",
+            abstract:"Titanium niobium oxide (TiNbxO2+2.5x) is emerging as a promising electrode material for rechargeable lithium-ion batteries (LIBs) due to its exceptional safety characteristics, high electrochemical properties (e.g., cycling stability and rate performance), and eco-friendliness....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`C. Peng, S. Liang, Y. Yu, L. Cao, C. Yang, X. Liu, K. Guo*, P. Müller-Buschbaum, Y.-J. Cheng*, <b>C. Wang*</b>, <b>Carbon Neutralization</b>, 2024 <b>(invited review)</b>`],
+            publink:"https://doi.org/10.1002/cnl2.177",
+            year:"2024",
+        },
+
+        {
             imagesrc:"artical_img/1020_jacs.jpeg",
             titles:"Amorphous AlOCl Compounds Enabling Nanocrystalline LiCl with Abnormally High Ionic Conductivity",
             abstract:"LiCl is a promising solid electrolyte, providing it possesses high ionic conductivity. Numerous efforts have been made to enhance its ionic conductivity through aliovalent doping. However, aliovalent substitution changes the intrinsic structure of LiCl, compromising its cost-effectiveness and electrochemical stability....",
