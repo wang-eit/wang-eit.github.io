@@ -9,6 +9,18 @@ var recentPubs={
         //     "year":"2023",
         // },
 
+        
+        {
+            imagesrc:"artical_img/adfm202416229-fig-0003-m.jpg",
+            titles:"Reducing Surface Roughness to Achieve Li2CO3-Existent Lithiophilic Interface in Garnet-Type Solid-State Batteries",
+            abstract:"The presence of Li2CO3 has been identified as the cause of poor lithophilicity in garnet-type Li7La3Zr2O12 (LLZO) solid-state batteries. A Li2CO3-free garnet is expected to enhance the Li/LLZO interface contact. However, permanently eradicating regenerative Li2CO3 from the LLZO surface is extremely....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`J. Zhang, <b>C. Wang†</b>, J. Fu, M. Ye, H. Zhai, J. Li, G. Tan, X. Tang*, X. Sun*, <b>Advanced Functional Materials</b>, 2024`],
+            publink:"https://doi.org/10.1002/adfm.202416229",
+            year:"2024",
+        },
+
         {
             imagesrc:"artical_img/1031-fig-0002-m.jpg",
             titles:"A chronicle of titanium niobium oxide materials for high-performance lithium-ion batteries: From laboratory to industry",
