@@ -9,6 +9,17 @@ var recentPubs={
         //     "year":"2023",
         // },
 
+        {
+            imagesrc:"artical_img/adma202411237-fig-0001-m.jpg",
+            titles:"Metaplasticity-Enabled Graphene Quantum Dot Devices for Mitigating Catastrophic Forgetting in Artificial Neural Networks",
+            abstract:"The limitations of deep neural networks in continuous learning stem from oversimplifying the complexities of biological neural circuits, often neglecting the dynamic balance between memory stability and learning plasticity. In this study, artificial synaptic devices enhanced with....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`X. Fan, A. Chen, Z. Li, Z. Gong, Z. Wang, G. Zhang, P. Li, Y. Xu, H. Wang, <b>C. Wang*</b>, X. Zhu*, R. Zhao, B. Yu, Y. Zhang*, <b>Adv. Mater.</b> 2024 `],
+            publink:"https://doi.org/10.1002/adma.202411237",
+            year:"2024",
+        },
+
         
         {
             imagesrc:"artical_img/adfm202416229-fig-0003-m.jpg",
