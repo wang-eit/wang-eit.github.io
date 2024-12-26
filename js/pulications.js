@@ -10,6 +10,29 @@ var recentPubs={
         // },
 
         {
+            imagesrc:"artical_img/AM_20241226165734.png",
+            titles:"Challenges and Strategies of Low-Pressure All-Solid-State Batteries",
+            abstract:"All-solid-state batteries (ASsBs) are regarded as promising next-generation energy storage technology owing to theirinherent safety and high theoretical energy density. However, achieving and maintaining solid--solid electronic and ioniccontact in AsSBs generally requires high-pressure....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`J. Zhang, J. Fu, P. Lu, G. Hu, S. Xia, S. Zhang, Z. Wang, Z. Zhou, W. Yan, W. Xia*, <b>C. Wang*</b>, X. Sun*, <b>Adv. Mater.</b> 2024 `],
+            publink:"",
+            year:"2024",
+        },
+
+
+        {
+            imagesrc:"artical_img/adfm202418274-fig-0001-m.jpg",
+            titles:"Progress and Challenges of Ni-Rich Layered Cathodes for All-Solid-State Lithium Batteries",
+            abstract:"Ni-rich layered oxides are recognized as one of the most promising candidates for cathodes in all-solid-state lithium batteries (ASSLBs) due to their intrinsic merits, such as high average voltage and specific capacity. However, their application is profoundly hindered....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`H. Zheng, S. Peng, S. Liang, W. Yang, C. Chen*, <b>C. Wang*</b> R. Yu*,<b>Advanced Functional Materials</b> 2024 `],
+            publink:"https://doi.org/10.1002/adfm.202418274",
+            year:"2024",
+        },
+
+        {
             imagesrc:"artical_img/adma202411237-fig-0001-m.jpg",
             titles:"Metaplasticity-Enabled Graphene Quantum Dot Devices for Mitigating Catastrophic Forgetting in Artificial Neural Networks",
             abstract:"The limitations of deep neural networks in continuous learning stem from oversimplifying the complexities of biological neural circuits, often neglecting the dynamic balance between memory stability and learning plasticity. In this study, artificial synaptic devices enhanced with....",
@@ -518,8 +541,25 @@ var recentPubs={
     allarticals: [
 
         {
+            "titles": "A Universal Design of Lithium Anode via Dynamic Stability Strategy for Practical All-solid-state Batteries",
+            "totalAuthor": `T. Deng, <b>C. Wang</b>, H. Wan, A. Li, X. He, Z. Wang, L. Cao, X. Fan, C. Wang*, Angewandte Chemie International Edition 2024. <b> Nature Materials</b>. 2024`,
+            "publink": "https://doi.org/10.1002/anie.202418811",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2024",
+        },
+
+        {
             "titles": "A family of dual-anion-based sodium superionic conductors for all-solid-state sodium-ion batteries",
-            "totalAuthor": `X. Lin, S. Zhang, M. Yang, B. Xiao, Y. Zhao, J. Luo, J. Fu, C. Wang, X. Li, W. Li, F. Yang, H. Duan, J. Liang, B. Fu, H. Abdolvand, J. Guo, G. King, X. Sun*. <b> Nature Materials</b>. 2024`,
+            "totalAuthor": `X. Lin, S. Zhang, M. Yang, B. Xiao, Y. Zhao, J. Luo, J. Fu, <b>C. Wang</b>, X. Li, W. Li, F. Yang, H. Duan, J. Liang, B. Fu, H. Abdolvand, J. Guo, G. King, X. Sun*. <b> Nature Materials</b>. 2024`,
             "publink": "https://doi.org/10.1038/s41563-024-02011-x",
             "abstract": "",
             "equalContributions": [
