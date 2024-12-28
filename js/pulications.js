@@ -4,7 +4,7 @@ var recentPubs={
 
           // {
         //     "titles": "Ultra-Thin and High-Voltage-Stable Bi-phasic Solid Polymer Electrolytes for High-Energy-Density Li Metal Batteries. ",
-        //     "totalAuthor": `X. Lin, Y. Zhao, <b>C. Wang</b>, J. Luo, J. Fu, B. Xiao, Y. Gao, W. Li, S. Zhang, J. Xu, F. Yang, X. Hao, H. Duan, Y. Sun, J. Guo, Y. Huang, X. Sun*. <b>Angew. Chem. Int. Ed.</b>. 2023`,
+        //     "totalAuthor": `X. Lin, Y. Zhao, <b>C. Wang</b>, J. Luo, J. Fu, B. Xiao, Y. Gao, W. Li, S. Zhang, J. Xu, F. Yang, X. Hao, H. Duan, Y. Sun, J. Guo, Y. Huang, X. Sun*. <b>Angewandte Chemie International Edition</b>. 2023`,
         //     "imagesrc": "",
         //     "year":"2023",
         // },
@@ -15,7 +15,7 @@ var recentPubs={
             abstract:"All-solid-state batteries (ASsBs) are regarded as promising next-generation energy storage technology owing to theirinherent safety and high theoretical energy density. However, achieving and maintaining solid--solid electronic and ioniccontact in AsSBs generally requires high-pressure....",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`J. Zhang, J. Fu, P. Lu, G. Hu, S. Xia, S. Zhang, Z. Wang, Z. Zhou, W. Yan, W. Xia*, <b>C. Wang*</b>, X. Sun*, <b>Adv. Mater.</b> 2024 `],
+            totalAuthor:[`J. Zhang, J. Fu, P. Lu, G. Hu, S. Xia, S. Zhang, Z. Wang, Z. Zhou, W. Yan, W. Xia*, <b>C. Wang*</b>, X. Sun*, <b>Advanced Materials</b> 2024 `],
             publink:"",
             year:"2024",
         },
@@ -38,7 +38,7 @@ var recentPubs={
             abstract:"The limitations of deep neural networks in continuous learning stem from oversimplifying the complexities of biological neural circuits, often neglecting the dynamic balance between memory stability and learning plasticity. In this study, artificial synaptic devices enhanced with....",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`X. Fan, A. Chen, Z. Li, Z. Gong, Z. Wang, G. Zhang, P. Li, Y. Xu, H. Wang, <b>C. Wang*</b>, X. Zhu*, R. Zhao, B. Yu, Y. Zhang*, <b>Adv. Mater.</b> 2024 `],
+            totalAuthor:[`X. Fan, A. Chen, Z. Li, Z. Gong, Z. Wang, G. Zhang, P. Li, Y. Xu, H. Wang, <b>C. Wang*</b>, X. Zhu*, R. Zhao, B. Yu, Y. Zhang*, <b>Advanced Materials</b> 2024 `],
             publink:"https://doi.org/10.1002/adma.202411237",
             year:"2024",
         },
@@ -72,7 +72,7 @@ var recentPubs={
             abstract:"LiCl is a promising solid electrolyte, providing it possesses high ionic conductivity. Numerous efforts have been made to enhance its ionic conductivity through aliovalent doping. However, aliovalent substitution changes the intrinsic structure of LiCl, compromising its cost-effectiveness and electrochemical stability....",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`H. Duan†,<b>C. Wang†</b>, X.-S. Zhang, J. Fu, W. Li, J. Wan, R. Yu, M. Fan, F. Ren, S. Wang, M. Zheng, X. Li, J. Liang, R. Wen, S. Xin, Y.-G. Guo*, X. Sun* <b>J. Am. Chem. Soc.</b>, 2024`],
+            totalAuthor:[`H. Duan†,<b>C. Wang†</b>, X.-S. Zhang, J. Fu, W. Li, J. Wan, R. Yu, M. Fan, F. Ren, S. Wang, M. Zheng, X. Li, J. Liang, R. Wen, S. Xin, Y.-G. Guo*, X. Sun* <b>Journal of the American Chemical Society</b>, 2024`],
             publink:"https://doi.org/10.1021/jacs.4c06498",
             year:"2024",
           
@@ -130,7 +130,7 @@ var recentPubs={
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`X. Lin†, Y. Zhao†, <b>C. Wang†</b>, J. Luo, J. Fu, B. Xiao, Y. Gao, W. Li, S. Zhang, J. Xu, F. Yang, X. Hao, H. Duan, Y. Sun, J. Guo, Y. Huang, X. Sun*,
-            <b>Angew. Chem. Int. Ed.</b>, 2024`],
+            <b>Angewandte Chemie International Edition</b>, 2024`],
             publink:"https://doi.org/10.1002/anie.202314181",
             year:"2024",
         },
@@ -645,7 +645,7 @@ var recentPubs={
 
         {
             "titles": "Reviving Cost-Effective Organic Cathodes in Halide-Based All-Solid-State Lithium Batteries ",
-            "totalAuthor": `Y. Gao, J. Fu, Y. Hu, F. Zhao, W. Li, S. Deng, Y. Sun, X. Hao, J. Ma, X. Lin, <b>C. Wang</b>, R. Li, X. Sun*. <b> Angew. Chem. Int. Ed.</b>. 2024`,
+            "totalAuthor": `Y. Gao, J. Fu, Y. Hu, F. Zhao, W. Li, S. Deng, Y. Sun, X. Hao, J. Ma, X. Lin, <b>C. Wang</b>, R. Li, X. Sun*. <b> Angewandte Chemie International Edition</b>. 2024`,
             "publink": "https://doi.org/10.1002/ange.202403331",
             "abstract": "",
             "equalContributions": [
@@ -1080,7 +1080,7 @@ var recentPubs={
         },
         {
             "titles": "Transition of the Reaction from Three-phase to Two-phase by Using Hybrid Conductor for High-energy-density High-Rate Solid-state Li-O2 Battery. ",
-            "totalAuthor": `C Zhao, Y Zhu, Q Sun, <b>C. Wang</b>, J Luo, X Lin, X Yang, Y Zhao, R Li, X. Sun*. <b>Angew. Chem. Int. Ed.</b> 2021`,
+            "totalAuthor": `C Zhao, Y Zhu, Q Sun, <b>C. Wang</b>, J Luo, X Lin, X Yang, Y Zhao, R Li, X. Sun*. <b>Angewandte Chemie International Edition</b> 2021`,
             "publink": "javascript:;",
             "abstract": "",
             "equalContributions": [
@@ -1355,7 +1355,7 @@ var recentPubs={
         },
         {
             "titles": "Water‐Mediated Synthesis of a Superionic Halide Solid Electrolyte, ",
-            "totalAuthor": `X. Li, J. Liang, N. Chen, J. Luo, K. Adair, <b>C. Wang</b>, M. Banis, T-K Sham, L. Zhang, S. Zhao, S. Lu, H. Huang, R. Li, X. Sun*. <b>Angew. Chem. Int. Ed.</b> 2019`,
+            "totalAuthor": `X. Li, J. Liang, N. Chen, J. Luo, K. Adair, <b>C. Wang</b>, M. Banis, T-K Sham, L. Zhang, S. Zhao, S. Lu, H. Huang, R. Li, X. Sun*. <b>Angewandte Chemie International Edition</b> 2019`,
             "publink": "javascript:;",
             "abstract": "",
             "equalContributions": [
