@@ -1,7 +1,23 @@
 var recentNews={
     allnews: [
 
+        { 
+            title:"⇰Congratulations:  Dr. Lu Pushun for being selected as the 2024 Young Talent Lift Project. (青年人才托举工程).",
+            time:"Posted on December. 26, 2024.",
+            desc:"",
+            imagesrc:"news_img/20241231084627.png",
+            imag_height:"200px",
+            imag_width:"600px",
+        },
 
+        { 
+            title:"⇰Congratulations:  Dr. Zhang Jiaxu, Dr. Lu Pushun and Dr. Hu Guantai for being selected into the first 'Excellent Postdoctoral Program' of Eastern Institute of Technology, Ningbo. (卓越博士后).",
+            time:"Posted on November. 28, 2024.",
+            desc:"",
+            imagesrc:"news_img/20241231093035.jpg",
+            imag_height:"400px",
+            imag_width:"300px",
+        },
 
         { 
             title:"⇰Congratulations:  Dr. Zhang Jiaxu received the Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划).",

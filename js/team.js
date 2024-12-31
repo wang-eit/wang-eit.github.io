@@ -1,4 +1,28 @@
 var allStudentData={
+
+    RapProf:[
+        {
+            imageSrc:"img/Team/sunyipeng.jpg",
+            imageWithHigh:[170,240],
+            studentName:"Yipeng Sun",
+            Supervsior:"Research Associate Professor",
+            CoSupervsior:"",
+            eduBj_1:"Ph.D.: UWO (2017-2021)",
+            eduBj_2:"B.E.: Sichuan University (2012-2016)",
+            selfEmail:"ypsun@eitech.edu.cn"
+        },
+        {
+            imageSrc:"img/Team/liuborui.jpg",
+            imageWithHigh:[190,240],
+            studentName:"Borui Liu",
+            Supervsior:"Research Associate Professor",
+            CoSupervsior:"",
+            eduBj_1:"Postdoc: University of Sydney (2021-2024)",
+            eduBj_2:"Ph.D.: ANU (2018-2022)",
+            selfEmail:"brliu@eitech.edu.cn"
+        },
+    ],
+
     posPhD:[
         {
             imageSrc:"img/Team/lupushun.jpg",
@@ -219,6 +243,51 @@ window.onload = function (){
 
     function LoadData(){
         // 获取页面导航的元素对象
+        var posPhDDiv = document.querySelector('.rap_bj');
+        var posPhDStu = allStudentData.RapProf;
+
+        
+        // console.log(allDiv);
+        // console.log(RAsStu);
+        // posPhD
+        for (let j = 0; j < posPhDStu.length; j++) {
+
+            let divNode_line = document.createElement('div');
+    
+            divNode_line.className = "posdoc_bj_des";
+            let imgNode = document.createElement('img');
+            let aNode = document.createElement('a');
+            imgNode.src=posPhDStu[j].imageSrc;
+            imgNode.width=posPhDStu[j].imageWithHigh[0];
+            imgNode.height=posPhDStu[j].imageWithHigh[1];
+            let pNode = document.createElement('p');
+            
+            pNode.append(posPhDStu[j].studentName);
+            let brNode = document.createElement('br');
+            pNode.appendChild(brNode);
+            pNode.append(posPhDStu[j].Supervsior,document.createElement('br'));
+            
+            if (posPhDStu[j].CoSupervsior&& posPhDStu[j].CoSupervsior.trim().length > 0){
+                pNode.append(posPhDStu[j].CoSupervsior,document.createElement('br'));
+            }
+            
+            pNode.append(posPhDStu[j].eduBj_1,document.createElement('br'));
+            pNode.append(posPhDStu[j].eduBj_2,document.createElement('br'));
+            aNode.href="mailto:"+posPhDStu[j].selfEmail;
+            aNode.append(posPhDStu[j].selfEmail);
+
+            pNode.append(aNode,document.createElement('br'));
+            divNode_line.append(imgNode,pNode)
+            // console.log(pNode)
+            posPhDDiv.append(divNode_line)
+        }
+
+
+
+
+
+
+
         
         var posPhDDiv = document.querySelector('.posdoc_bj');
         var posPhDStu = allStudentData.posPhD;

@@ -289,6 +289,17 @@ font-weight:normal;
 	/* border: 1px solid  green; */
 	font-family: 'Times New Roman', Times, serif;
 }
+.rap_bj{
+	width: 1100px;
+	height: auto;
+	margin: 0 auto;
+	/* border: 1px solid  red; */
+	display: flex;
+	flex-wrap: wrap;
+	/* justify-content: space-between; */
+	gap: 10px;
+	/* border: 1px solid red; */
+}
 .posdoc_bj{
 	width: 1100px;
 	height: auto;
