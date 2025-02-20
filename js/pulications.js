@@ -1691,6 +1691,38 @@ var recentPubs={
 
     patents: [
         {
+            "titles": "王长虹,孙学良,苏铭昊,夏圣杰，一种全固态电池及其制备方法，2025，",
+            "totalAuthor": "申请号：202510177518.0；",
+            "publink": "javascript:;",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": ""
+        },
+        {
+            "titles": "王长虹,孙学良,张书涛，一种卤化物/硫化物固态电解质浆料、薄膜及其制备方法，2024，",
+            "totalAuthor": "申请号：202410999858.7；",
+            "publink": "javascript:;",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": ""
+        },
+
+       
+        {
             "titles": "孙学良，李晓娜，梁剑文，王长虹，黄欢，卢世刚，张立，赵尚骞，锂二次电池固态电解质材料、电极及电池，2019，",
             "totalAuthor": "国际PCT专利申请：PCT/CN2019/126451；美国专利申请：17 / 607,849；欧洲专利申请：EP19926754；日本专利申请：JP2022531271A；",
             "publink": "javascript:;",
