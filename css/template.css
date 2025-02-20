@@ -33,12 +33,11 @@
   position: absolute;
 }
 #template #allRec #RecLi .Recdiv h2 {
-  height: 50px;
+  line-height: 1.2;
   margin-top: 10px;
-  font-size: 18px;
+  font-size: 16px;
 }
 #template #allRec #RecLi .Recdiv h5 {
-  height: 20px;
   margin-top: 5px;
   font: 1em sans-serif;
   font-style: italic;
@@ -48,7 +47,7 @@
   font-weight: bolder;
 }
 #template #allRec #RecLi .Recdiv p {
-  margin-top: 20px;
+  margin-top: 10px;
   height: 120px;
   text-indent: 20px;
   font-size: 18px;

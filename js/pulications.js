@@ -16,7 +16,8 @@ var recentPubs={
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`J. Zhang, J. Fu, P. Lu, G. Hu, S. Xia, S. Zhang, Z. Wang, Z. Zhou, W. Yan, W. Xia*, <b>C. Wang*</b>, X. Sun*, <b>Advanced Materials</b> 2024 `],
-            publink:"",
+            publink:"https://doi.org/10.1002/adma.202413499",
+            PDFdir:"/data/firstauthor/Zhang et al_2025_Challenges and Strategies of Low-Pressure All-Solid-State Batteries.pdf",
             year:"2024",
         },
 
@@ -29,6 +30,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`H. Zheng, S. Peng, S. Liang, W. Yang, C. Chen*, <b>C. Wang*</b> R. Yu*,<b>Advanced Functional Materials</b> 2024 `],
             publink:"https://doi.org/10.1002/adfm.202418274",
+            PDFdir:"data/firstauthor/Adv Funct Materials - 2024 - Zheng - Progress and Challenges of Ni‐Rich Layered Cathodes for All‐Solid‐State Lithium.pdf",
             year:"2024",
         },
 
@@ -40,6 +42,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`X. Fan, A. Chen, Z. Li, Z. Gong, Z. Wang, G. Zhang, P. Li, Y. Xu, H. Wang, <b>C. Wang*</b>, X. Zhu*, R. Zhao, B. Yu, Y. Zhang*, <b>Advanced Materials</b> 2024 `],
             publink:"https://doi.org/10.1002/adma.202411237",
+            PDFdir:"data/firstauthor/Advanced Materials - 2024 - Fan - Metaplasticity‐Enabled Graphene Quantum Dot Devices for Mitigating Catastrophic.pdf",
             year:"2024",
         },
 
@@ -52,6 +55,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`J. Zhang, <b>C. Wang†</b>, J. Fu, M. Ye, H. Zhai, J. Li, G. Tan, X. Tang*, X. Sun*, <b>Advanced Functional Materials</b>, 2024`],
             publink:"https://doi.org/10.1002/adfm.202416229",
+            PDFdir:"data/firstauthor/Adv Funct Materials - 2024 - Zhang - Reducing Surface Roughness to Achieve Li2CO3‐Existent Lithiophilic Interface in.pdf",
             year:"2024",
         },
 
@@ -63,6 +67,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`C. Peng, S. Liang, Y. Yu, L. Cao, C. Yang, X. Liu, K. Guo*, P. Müller-Buschbaum, Y.-J. Cheng*, <b>C. Wang*</b>, <b>Carbon Neutralization</b>, 2024 <b>(invited review)</b>`],
             publink:"https://doi.org/10.1002/cnl2.177",
+            PDFdir:"data/firstauthor/Carbon Neutralization - 2024 - Peng - A chronicle of titanium niobium oxide materials for high‐performance lithium‐ion.pdf",
             year:"2024",
         },
 
@@ -74,6 +79,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`H. Duan†,<b>C. Wang†</b>, X.-S. Zhang, J. Fu, W. Li, J. Wan, R. Yu, M. Fan, F. Ren, S. Wang, M. Zheng, X. Li, J. Liang, R. Wen, S. Xin, Y.-G. Guo*, X. Sun* <b>Journal of the American Chemical Society</b>, 2024`],
             publink:"https://doi.org/10.1021/jacs.4c06498",
+            PDFdir:"data/firstauthor/duan-et-al-2024-amorphous-alocl-compounds-enabling-nanocrystalline-licl-with-abnormally-high-ionic-conductivity.pdf",
             year:"2024",
           
         },
@@ -86,6 +92,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`J. T. Kim, H. Su, Y. Zhong, C. Wang, H. Wu, D. Zhao, <b>C. Wang*</b>, X. Sun*, Y. Li*,<b>Nature Chemical Engineering</b>, 2024`],
             publink:"https://doi.org/10.1038/s44286-024-00079-5",
+            PDFdir:"",
             year:"2024",
           
         },
@@ -98,6 +105,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`H. Su, Y. Zhong*, <b>C. Wang*</b>, Y. Liu, Y. Hu, J. Li, M. Wang, L. Jiao, N. Zhou, B. Xiao, X. Wang, X. Sun*, J. Tu*,<b>Nature Communications</b>, 2024`],
             publink:"https://doi.org/10.1038/s41467-024-46798-4",
+            PDFdir:"data/firstauthor/Deciphering the critical role of interstitial volume in glassy sulfide superionic conductors.pdf",
             year:"2024",
         },
         {
@@ -108,6 +116,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`P. Lu, Z. Zhou, Z. Xiao, J. Lu, J. Zhang, G. Hu, W. Yan, S. Xia, S. Zhang, Z. Wang, H. Li, <b>C. Wang*</b>, F. Wu*, X. Sun*, <b>Joule</b>, 2024`],
             publink:"https://doi.org/10.1016/j.joule.2024.01.027",
+            PDFdir:"data/firstauthor/Materials and chemistry design.pdf",
             year:"2024",
         },
 
@@ -120,6 +129,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`B. Li, <b>C. Wang*</b>, R. Yu*, J. Han, S. Jiang, C. Zhang, S. He*,<b>Energy & Enviromental Science</b>, 2024`],
             publink:"https://doi.org/10.1039/D3EE02705H",
+            PDFdir:"data/firstauthor/Recent progress on metal–organic framework.pdf",
             year:"2024",
         },
 
@@ -132,6 +142,7 @@ var recentPubs={
             totalAuthor:[`X. Lin†, Y. Zhao†, <b>C. Wang†</b>, J. Luo, J. Fu, B. Xiao, Y. Gao, W. Li, S. Zhang, J. Xu, F. Yang, X. Hao, H. Duan, Y. Sun, J. Guo, Y. Huang, X. Sun*,
             <b>Angewandte Chemie International Edition</b>, 2024`],
             publink:"https://doi.org/10.1002/anie.202314181",
+            PDFdir:"data/firstauthor/Angew Chem Int Ed - 2023 - Lin - A Dual Anion Chemistry‐Based Superionic Glass Enabling Long‐Cycling All‐Solid‐State.pdf",
             year:"2024",
         },
 
@@ -145,6 +156,7 @@ var recentPubs={
             totalAuthor:[`Jung Tae Kim, Adwitiya Rao, H Nie, Y Hu, W Li, F Zhao, S Deng, X Hao, J Fu, J Luo, H Duan, <b>C Wang*</b>, Chandra Veer Singh*, X Sun*,
             <b>Nature Communications</b>, 2023`],
             publink:"https://www.nature.com/articles/s41467-023-42109-5",
+            PDFdir:"data/firstauthor/Manipulating Li2S2Li2S mixed discharge products.pdf",
             year:"2023",
         },
 
@@ -160,6 +172,7 @@ var recentPubs={
             totalAuthor:[`<b>C Wang†</b>,S Wang†,X Liu,a Y Wu,R Yu,H Duan,Jung Tae Kim,H Huang
             ,J Wang*, Y Mo*, X Sun*,<b>Energy & Enviromental Science</b>, 2023`],
             publink:"https://pubs.rsc.org/en/content/articlehtml/2012/4y/d3ee01119d",
+            PDFdir:"data/firstauthor/New insights into aliovalent substituted.pdf",
             year:"2023",
         },
 
@@ -174,6 +187,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`H. Duan†,<b>C Wang†</b>, R. Yu†, X. Sun. <b>Advanced Energy Materials</b>, 2023, 13, 2300815.`],
             publink:"https://doi.org/10.1002/aenm.202300815",
+            PDFdir:"data/firstauthor/Advanced Energy Materials - 2023 - Duan - In Situ Constructed 3D Lithium Anodes for Long‐Cycling All‐Solid‐State Batteries.pdf",
             year:"2023",
         },
 
@@ -186,6 +200,7 @@ var recentPubs={
             totalAuthor:[`Y Sun†, <b>C Wang†</b>, W Huang, G Zhao, L Duan, Q Liu, S Wang, A Fraser, H Guo, X Sun, 
             <b>Angewandte Chemie International Edition</b>, 2023`],
             publink:"https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202300962",
+            PDFdir:"data/firstauthor/Angew Chem Int Ed - 2023 - Sun - One‐Step Calcination Synthesis of Bulk‐Doped Surface‐Modified Ni‐Rich Cathodes with.pdf",
             year:"2023",
         },
         {
@@ -196,6 +211,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang</b>, JT Kim, C Wang, X Sun, <b>Advanced Materials</b>, 2023 `],
             publink:"https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202209074",
+            PDFdir:"data/firstauthor/Advanced Materials - 2022 - Wang - Progress and Prospects of Inorganic Solid‐State Electrolyte‐Based All‐Solid‐State Pouch.pdf",
             year:"2023",
         },
         {
@@ -207,6 +223,7 @@ var recentPubs={
             totalAuthor:[`H Wang†, <b>C Wang†</b>, M Zheng, J Liang, M Yang, X Feng, X Ren, DYW Yu, Y Li, X Sun, 
             <b>Angewandte Chemie International Edition</b>, 2023`],
             publink:"https://doi.org/10.1002/anie.202214117",
+            PDFdir:"data/firstauthor/Angew Chem Int Ed - 2022 - Wang - A Shuttle‐Free Solid‐State Cu Li Battery Based on a Sandwich‐Structured Electrolyte.pdf",
             year:"2023",
         },
 
@@ -218,6 +235,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`J-T Kim†, X. Hao†, <b>C. Wang*</b>, and X. Sun*, <b>Matter</b>, 2023`],
             publink:"https://doi.org/10.1016/j.matt.2022.11.019",
+            PDFdir:"data/firstauthor/Cathode materials for single-phase.pdf",
             year:"2023",
         },
 
@@ -232,6 +250,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang</b>, X Sun, <b>Engineering, 2023`],
             publink:"https://doi.org/10.1016/j.eng.2022.10.008",
+            PDFdir:"data/firstauthor/The Promise of Solid-State Batteries for Safe and Reliable Energy Storage.pdf",
             year:"2023",
         },
         {
@@ -242,6 +261,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang</b>, K. Adair, X. Sun*.<b>Accounts of Materials Research</b>, 2022`],
             publink:"https://pubs.acs.org/doi/full/10.1021/accountsmr.1c00137",
+            PDFdir:"data/firstauthor/wang-et-al-2021-all-solid-state-lithium-metal-batteries-with-sulfide-electrolytes-understanding-interfacial-ion-and.pdf",
             year:"2022",
         },
         {
@@ -253,6 +273,7 @@ var recentPubs={
             totalAuthor:[`Q. Lu†, <b>C. Wang†</b>, D. Bao, H. Duan, F. Zhao, K-D. Davis, Q. Zhang, R. Wang, S. Zhao, J. Wang*, H. Huang*, X. Sun*.
             Energy & <b>Environmental Materials</b>, 2022. (highlighted by Energist).`],
             publink:"https://doi.org/10.1002/eem2.12447",
+            PDFdir:"data/firstauthor/Energy   Environ Materials - 2022 - Lu - High‐Performance Quasi‐Solid‐State Pouch Cells Enabled by in situ Solidification.pdf",
             year:"2022",
         },
         {
@@ -263,6 +284,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`J. Zhang†, <b>C. Wang†</b>, M. Zheng, M. Ye, H. Zhai, J. Li, G. Tan, X. Tang, X. Sun.<b>Nano Energy</b>, 2022.102, 107672.`],
             publink:"https://doi.org/10.1016/j.nanoen.2022.107672",
+            PDFdir:"data/firstauthor/Rational design of air-stable and intact anode-electrolyte interface.pdf",
             year:"2022",
         },
         // {
@@ -279,12 +301,13 @@ var recentPubs={
 
         {
             imagesrc:"artical_img/adma202207234-fig-0004-m.jpg",
-            titles:"AManipulating Charge-Transfer Kinetics of Lithium-Rich Layered Oxide Cathodes in Halide All-Solid-State Batteries",
+            titles:"Manipulating Charge-Transfer Kinetics of Lithium-Rich Layered Oxide Cathodes in Halide All-Solid-State Batteries",
             abstract:"Employing lithium-rich layered oxide (LLO) as the cathode of all-solid-state batteries (ASSBs) is highly desired for realizing high energy density. However, the poor kinetics of LLO, caused by its low electronic conductivity and significant oxygen-redox-induced structural degradation, has impeded its application in...",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`R. Yu†, <b>C. Wang†</b>, H. Duan†, M. Jiang†, Y. Sun, Y. Zhao, J. Liang, J. Fu, S. Deng, Z. Ren, G. Li, J. Wang*, C.V. Singh*, H. Huang, R. Li, N, Chen, X. Sun*,<b>Advanced Materials.</b> 2022`],
             publink:"https://doi.org/10.1002/adma.202207234",
+            PDFdir:"data/firstauthor/Advanced Materials - 2022 - Yu - Manipulating Charge‐Transfer Kinetics of Lithium‐Rich Layered Oxide Cathodes in Halide.pdf",
             year:"2022",
         },
         {
@@ -296,6 +319,7 @@ var recentPubs={
             totalAuthor:[`<b>C. Wang</b>, J Liang, JT Kim, X Sun,
             <b>Science Advances</b>, 2022`],
             publink:"https://www.science.org/doi/full/10.1126/sciadv.adc9516",
+            PDFdir:"data/firstauthor/Prospects of halide-based all-solid-state batteries.pdf",
             year:"2022",
         },
         
@@ -308,6 +332,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang</b>, T. Deng, X. Fan, M. Zheng, R. Yu, Q. Lu, H. Duan, H. Huang, C. Wang, X. Sun,<b>Joule</b>, 2022`],
             publink:"https://doi.org/10.1016/j.joule.2022.05.020",
+            PDFdir:"data/firstauthor/Identifying soft breakdown.pdf",
             year:"2022",
         },
         {
@@ -321,6 +346,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang†</b>, R. Yu†, H. Duan†, Q. Lu, Q. Li, K. Adair, D. Bao, Y. Liu, R. Yang, J. Wang*, S. Zhao*, H. Huang*, X. Sun*,<b>ACS Energy Letters</b>, 2022`],
             publink:"https://pubs.acs.org/doi/full/10.1021/acsenergylett.1c02261",
+            PDFdir:"data/firstauthor/wang-et-al-2022-solvent-free-approach-for-interweaving-freestanding-and-ultrathin-inorganic-solid-electrolyte-membranes.pdf",
             year:"2022",
         },
         {
@@ -334,6 +360,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang†</b>, J. Liang†, J. Luo, J. Liu, X. Li, F. Zhao, R. Li, H. Huang, S. Zhao, L. Zhang, J. Wang*, X. Sun*. <b>Science Advances</b>, (2021)`],
             publink:"https://www.science.org/doi/full/10.1126/sciadv.abh1896",
+            PDFdir:"data/firstauthor/A universal wet-chemistry synthesis of solid-state.pdf",
             year:"2021",
         },
         {
@@ -344,6 +371,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang</b>, J. Liang, Y. Zhao, M. Zheng, X. Li, X. Sun*, <b>Energy Environmental Science</b>, 2021`],
             publink:"https://pubs.rsc.org/en/content/articlehtml/2021/xx/d1ee00551k",
+            PDFdir:"data/firstauthor/All-solid-state lithium batteries enabled by sulfide.pdf",
             year:"2021",
         },
         {
@@ -355,6 +383,7 @@ var recentPubs={
             totalAuthor:[`<b>C. Wang†</b>, S. Hwang†, M. Jiang†, J. Liang, Y. Sun, K. Adair, M. Zheng, S. Mukherjee, X. Li, R. Li, H. Huang, S. Zhao, L. Zhang, S. Lu, J. Wang, C. V. Singh,* D. Su,* X. Sun*.
             <b>Advanced Energy Materials</b>, 2021`],
             publink:"https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202100210",
+            PDFdir:"data/firstauthor/Advanced Energy Materials - 2021 - Wang - Deciphering Interfacial Chemical and Electrochemical Reactions of Sulfide‐Based.pdf",
             year:"2021",
         },
         
@@ -367,6 +396,7 @@ var recentPubs={
             totalAuthor:[`<b>C. Wang†</b>, J. Liang†, M. Jiang, X. Li, S. Mukherjee, K. Adair, M. Zheng, Y. Zhao, F. Zhao, S. Zhang, R. Li, H. Huang, S. Zhao, L. Zhang, S. Lu, C. Singh*, X. Sun*,
             <b>Nano Energy</b>, 2020`],
             publink:"https://doi.org/10.1016/j.nanoen.2020.105015",
+            PDFdir:"data/firstauthor/Interface-assisted in-situ growth of halide electrolytes eliminating.pdf",
             year:"2020",
         },
         {
@@ -379,6 +409,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang</b>, R. Yu, S. Hwang, J. Liang, X. Li, C. Zhao, Y. Sun, J. Wang, N. Holmes, R. Li, H. Huang, S. Zhao, L. Zhang, S. Lu, D. Su*, X. Sun*, <b>Energy Storage Materials</b>, 2020`],
             publink:"https://www.sciencedirect.com/science/article/pii/S2405829720301793",
+            PDFdir:"data/firstauthor/Single crystal cathodes enabling high-performance all-solid-state.pdf",
             year:"2020",
         },
         {
@@ -393,6 +424,7 @@ var recentPubs={
             totalAuthor:[`<b>C. Wang</b>, J. Liang, S. Hwang, X. Li, Y. Zhao, K. Adair, C. Zhao, X. Li, S. Deng, X. Lin. X. Yang, R. Li, Q. Zhao, L. Zhang, S. Lu, D. Su*, X. Sun*,
             <b>Nano Energy</b>, 2020`],
             publink:"https://doi.org/10.1016/j.nanoen.2020.104686",
+            PDFdir:"data/firstauthor/Unveiling the critical role of interfacial ionic conductivity in all-solid-state.pdf",
             year:"2020",
         },
         {
@@ -404,6 +436,7 @@ var recentPubs={
             totalAuthor:[`<b>C. Wang</b>, K. Adair, J. Liang, X. Li, Y. Sun, X. Li, J. Wang, Q. Sun, F. Zhao, X. Lin, R. Li, H. Huang, L. Zhang, R. Yang, S. Lu, X. Sun*,
             <b>Advanced Functional Materials.</b> 2019`],
             publink:"https://doi.org/10.1002/adfm.201900392",
+            PDFdir:"data/firstauthor/Adv Funct Materials - 2019 - Wang - Solid‐State Plastic Crystal Electrolytes  Effective Protection Interlayers for.pdf",
             year:"2019",
         },
         {
@@ -415,6 +448,7 @@ var recentPubs={
             totalAuthor:[`<b>C. Wang†</b>, X. Li†, Y. Zhao, M. Banis, J. Liang, X. Li, Y. Sun, K. Adair, Q. Sun, Y. Liu, F. Zhao, S. Deng, X. Lin, R. Li, Y. Hu, T‐K Sham, H. Huang, L. Zhang, R. Yang,
              S. Lu, X. Sun*,<b>Small Methods.</b> 2019`],
             publink:" https://doi.org/10.1002/smtd.201900261",
+            PDFdir:"data/firstauthor/Small Methods - 2019 - Wang - Manipulating Interfacial Nanostructure to Achieve High‐Performance All‐Solid‐State.pdf",
             year:"2019",
         },
         {
@@ -425,6 +459,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang</b>, Y. Zhao, Q. Sun, X. Li, Y. Liu, J. Liang, X. Li, X. Lin, R. Li, K. Adair, L. Zhang, R. Yang, S. Lu, X. Sun*,<b>Nano Energy</b>, 2018`],
             publink:"https://doi.org/10.1016/j.nanoen.2018.08.030",
+            PDFdir:"data/firstauthor/Stabilizing interface between Li10SnP2S12 and Li metal by molecular layer.pdf",
             year:"2018",
         },
         {
@@ -435,6 +470,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang</b>, Q. Sun, Y. Liu, Y. Zhao, X. Li, X. Lin, M. Banis, M. Li, W. Li, K. Adair, D. Wang, J. Liang, R. Li, L. Zhang, R. Yang, S. Lu, X. Sun*,<b>Nano Energy</b>, 2018`],
             publink:"https://doi.org/10.1016/j.nanoen.2018.03.020",
+            PDFdir:"data/firstauthor/Boosting the performance of lithium batteries with solid-liquid hybrid.pdf",
             year:"2018",
         },
         {
@@ -445,6 +481,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang</b>, W. He, Y. Tong, Y. Zhang, K. Huang, L. Song, S. Zhong, R. Ganeshkumar, R. Zhao*,<b>Small</b>, 2017`],
             publink:"https://doi.org/10.1002/smll.201603435",
+            PDFdir:"data/firstauthor/Small - 2017 - Wang - Memristive Devices with Highly Repeatable Analog States Boosted by Graphene Quantum Dots.pdf",
             year:"2017",
         },
         {
@@ -458,6 +495,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`H. Chen†, <b>C. Wang†</b>, Y. Dai, J. Ge, W. Lu, J. Yang, L. Chen*.<b> Nano Energy</b>, 2016, 26, 43-49.  `],
             publink:"https://doi.org/10.1016/j.nanoen.2016.04.052",
+            PDFdir:"data/firstauthor/In-situ activated polycation as a multifunctional additive for Li-S.pdf",
             year:"2016",
         },
         {
@@ -468,6 +506,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang†</b>, W. He†, Y. Tong, R. Zhao*.<b>Scientific Reports</b>. 2016 `],
             publink:"https://www.nature.com/articles/srep22970",
+            PDFdir:"data/firstauthor/Investigation and Manipulation of Different Analog Behaviors of Memristor as Electronic Synapse for Neuromorphic Applications.pdf",
             year:"2016",
         },
         {
@@ -478,6 +517,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`H. Chen†, <b>C. Wang†</b>, C. Hu‡, J. Zhang, S. Gao, W. Lu, and L. Chen*. <b>Journal of Material Chemistry A</b>, 2015, 3, 1392-1395. `],
             publink:"https://pubs.rsc.org/en/content/articlelanding/2015/ta/c4ta05938g",
+            PDFdir:"data/firstauthor/Vulcanization accelerator enabled sulfurized.pdf",
             year:"2015",
         },
         {
@@ -491,6 +531,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`H. Chen†, <b>C. Wang†</b>, W. Dong, W. Lu, Z. Du and L. Chen*.<b>Nano Letters</b>, 2015, 15(1), 798-802. Highly cited paper in 2017`],
             publink:"https://doi.org/10.1021/nl504963e",
+            PDFdir:"data/firstauthor/lu-et-al-2015-monodispersed-sulfur-nanoparticles-for-lithium-sulfur-batteries-with-theoretical-performance.pdf",
             year:"2015",
         },{
             imagesrc:"artical_img/images_large_nl-2015-01837e_0008.jpeg",
@@ -500,6 +541,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`H. Chen†, <b>C. Wang†</b>, Y. Dai, J. Yang, W. Lu, L. Chen*.<b>Nano Letters</b>, 2015, 15(8), 5443–5448.`],
             publink:"https://doi.org/10.1021/acs.nanolett.5b01837",
+            PDFdir:"data/firstauthor/Rational design of air-stable and intact anode-electrolyte interface.pdf",
             year:"2015",
         },
         {
@@ -510,6 +552,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang†</b>, H. Chen,† W. Dong, W. Lu*, L. Chen*,<b>Chemical Communications</b>, 2014`],
             publink:"https://pubs.rsc.org/en/content/articlehtml/2013/cc/c3cc47223j",
+            PDFdir:"data/firstauthor/Sulfur–amine chemistry-based synthesis of multi.pdf",
             year:"2014",
         },
         
@@ -545,6 +588,7 @@ var recentPubs={
             "totalAuthor": `T. Deng, <b>C. Wang</b>, H. Wan, A. Li, X. He, Z. Wang, L. Cao, X. Fan, C. Wang*, Angewandte Chemie International Edition 2024. <b> Nature Materials</b>. 2024`,
             "publink": "https://doi.org/10.1002/anie.202418811",
             "abstract": "",
+            "PDFdir":"",
             "equalContributions": [
                 "changhongwang",
                 "changhongwang"
@@ -1890,24 +1934,31 @@ window.onload = function (){
             let liNode = document.createElement('li');
             let divNode = document.createElement('div');
             let aNode = document.createElement('a');
+            let aNode2 = document.createElement('a');
             let imgNode = document.createElement('img');
             let h2Node = document.createElement('h2');
+            // let h3Node = document.createElement('h3');
             let h5Node = document.createElement('h5');
             let pNode = document.createElement('p');
             liNode.id="RecLi";
             divNode.className="Recdiv";
 
             aNode.href =recActicals[j].publink;
-            aNode.append("[read more]");
+            aNode.append("  [Online]");
             aNode.target = "_blank";
+
+            aNode2.append("  [PDF]");
+            aNode2.href = recActicals[j].PDFdir;
+            aNode2.target = "_blank";
             // h2Node.append("● ");
             pNode.append(recActicals[j].abstract);
             imgNode.src=recActicals[j].imagesrc;
             h2Node.append(recActicals[j].titles);
+            
             // h2Node.innerHTML=recActicals[j].titles;
             // h5Node.append(recActicals[j].totalAuthor);
             h5Node.innerHTML=recActicals[j].totalAuthor;
-            h2Node.append(aNode);
+            h2Node.append(aNode,aNode2);
             divNode.append(h2Node,h5Node,pNode);
             liNode.append(divNode,imgNode);
             console.log(0);
