@@ -96,6 +96,16 @@ var allStudentData={
             eduBj_2:"M.S.:NBU（2017-2020）",
             selfEmail:"liutingting@tongji.edu.cn"
         },
+        {
+            imageSrc:"img/Team/weimingfeng.jpg",
+            imageWithHigh:[190,240],
+            studentName:"Mingfeng Wei",
+            Supervsior:"Supervsior: Prof. Changhong Wang",
+            // CoSupervsior:"Co-Supervsior: Prof. Changhong Wang",
+            eduBj_1:"Ph.D.: Jilin University (2017-2024)",
+            eduBj_2:"B.S.: Jilin University (2013-2017)",
+            selfEmail:"weimf19@mails.jlu.edu.cn"
+        },
     ],
 
     PhDs:[
@@ -178,7 +188,17 @@ var allStudentData={
             eduBj_1:"M.S.: CSU (2021-2024)",
             eduBj_2:"B.S.: CSU (2017-2021)",
             selfEmail:"hhr33152@foxmail.com"
-        }
+        },
+        {
+            imageSrc:"img/Team/hongjian.jpg",
+            imageWithHigh:[190,240],
+            studentName:"Jian Hong",
+            Supervsior:"Supervisor：Prof. Changhong Wang",
+            CoSupervsior:"",
+            eduBj_1:"M.S.: CNITECH-CAS (2020-2023)",
+            eduBj_2:"B.S.: SDU (2016-2020)",
+            selfEmail:"jhong@eitech.edu.cn"
+        },
     ],
 
     RAs:[
@@ -202,26 +222,27 @@ var allStudentData={
         //     eduBj_2:"B.S.: AAU (2016-2020)",
         //     selfEmail:"zqwang@eitech.edu.cn"
         // },
+        
         {
-            imageSrc:"img/Team/hongjian.jpg",
+            imageSrc:"img/Team/zhengyu.jpg",
             imageWithHigh:[190,240],
-            studentName:"Jian Hong",
+            studentName:"Yu Zheng",
             Supervsior:"Supervisor：Prof. Changhong Wang",
             CoSupervsior:"",
-            eduBj_1:"M.S.: CNITECH-CAS (2020-2023)",
-            eduBj_2:"B.S.: SDU (2016-2020)",
-            selfEmail:"jhong@eitech.edu.cn"
+            eduBj_1:"M.E.: ZAFU (2019-2022)",
+            eduBj_2:"B.E.: ZAFU (2015-2019)",
+            selfEmail:"yzheng@eitech.edu.cn"
         },
-        {
-            imageSrc:"img/Team/suminghao.jpg",
-            imageWithHigh:[190,240],
-            studentName:"Minghao Su",
-            Supervsior:"Supervisor：Prof. Changhong Wang",
-            CoSupervsior:"",
-            eduBj_1:"M.S.: CAEP (2021-2024)",
-            eduBj_2:"B.S.: SCU (2017-2021)",
-            selfEmail:"mhsu@eitech.edu.cn"
-        },
+        // {
+        //     imageSrc:"img/Team/suminghao.jpg",
+        //     imageWithHigh:[190,240],
+        //     studentName:"Minghao Su",
+        //     Supervsior:"Supervisor：Prof. Changhong Wang",
+        //     CoSupervsior:"",
+        //     eduBj_1:"M.S.: CAEP (2021-2024)",
+        //     eduBj_2:"B.S.: SCU (2017-2021)",
+        //     selfEmail:"mhsu@eitech.edu.cn"
+        // },
         {
             imageSrc:"img/Team/chenying.jpg",
             imageWithHigh:[190,240],
