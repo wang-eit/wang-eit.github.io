@@ -5,8 +5,8 @@ var allStudentData={
             imageSrc:"img/Team/sunyipeng.jpg",
             imageWithHigh:[170,240],
             studentName:"Yipeng Sun",
-            Supervsior:"Research Associate Professor",
-            CoSupervsior:"",
+            Supervisor:"Research Associate Professor",
+            CoSupervisor:"",
             eduBj_1:"Ph.D.: UWO (2017-2021)",
             eduBj_2:"B.E.: Sichuan University (2012-2016)",
             selfEmail:"ypsun@eitech.edu.cn"
@@ -15,8 +15,8 @@ var allStudentData={
             imageSrc:"img/Team/liuborui.jpg",
             imageWithHigh:[190,240],
             studentName:"Borui Liu",
-            Supervsior:"Research Associate Professor",
-            CoSupervsior:"",
+            Supervisor:"Research Associate Professor",
+            CoSupervisor:"",
             eduBj_1:"Postdoc: University of Sydney (2021-2024)",
             eduBj_2:"Ph.D.: ANU (2018-2022)",
             selfEmail:"brliu@eitech.edu.cn"
@@ -28,8 +28,8 @@ var allStudentData={
             imageSrc:"img/Team/lupushun.jpg",
             imageWithHigh:[190,240],
             studentName:"Pushun Lu",
-            Supervsior:"Supervsior：Prof. Xueliang Sun",
-            CoSupervsior:"Co-Supervisor： Prof. Changhong Wang",
+            Supervisor:"Supervisor：Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor： Prof. Changhong Wang",
             eduBj_1:"Ph.D.: CAS (2018-2023)",
             eduBj_2:"B.S.: Xiamen University (2014-2018)",
             selfEmail:"plu@eitech.edu.cn"
@@ -38,8 +38,8 @@ var allStudentData={
             imageSrc:"img/Team/zhangjiaxu.jpg",
             imageWithHigh:[190,240],
             studentName:"Jiaxu Zhang",
-            Supervsior:"Supervsior：Prof. Xueliang Sun",
-            CoSupervsior:"Co-Supervisor： Prof. Changhong Wang",
+            Supervisor:"Supervisor：Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor： Prof. Changhong Wang",
             eduBj_1:"Ph.D.: WHUT (2018-2023)",
             eduBj_2:"B.S.: WHUT (2014-2018)",
             selfEmail:"jxzhang@eitech.edu.cn"
@@ -48,8 +48,8 @@ var allStudentData={
             imageSrc:"img/Team/huguantai.jpg",
             imageWithHigh:[190,240],
             studentName:"Guantai Hu",
-            Supervsior:"Supervisor ： Prof. Changhong Wang",
-            CoSupervsior:"",
+            Supervisor:"Supervisor ： Prof. Changhong Wang",
+            CoSupervisor:"",
             eduBj_1:"Ph.D.: Iowa State University (2015-2022)",
             eduBj_2:"B.E.: USTC (2010-2014)",
             selfEmail:"ghu@eitech.edu.cn"
@@ -58,8 +58,8 @@ var allStudentData={
             imageSrc:"img/Team/liangsuzhe.jpg",
             imageWithHigh:[190,240],
             studentName:"Suzhe Liang ",
-            Supervsior:"Supervisor ： Prof. Changhong Wang",
-            CoSupervsior:"",
+            Supervisor:"Supervisor ： Prof. Changhong Wang",
+            CoSupervisor:"",
             eduBj_1:"Ph.D.: TUM (2019-2024)",
             eduBj_2:"M.S.: CNITECH-CAS (2015-2018)",
             selfEmail:"liangsuzhe19@gmail.com"
@@ -68,8 +68,8 @@ var allStudentData={
             imageSrc:"img/Team/TuoKaiyong.jpg",
             imageWithHigh:[170,240],
             studentName:"Kaiyong Tuo",
-            Supervsior:"Supervisor: Prof. Xueliang Sun",
-            CoSupervsior:"Co-Supervisor: Prof. Changhong Wang",
+            Supervisor:"Supervisor: Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
             eduBj_1:"Ph.D: CUMTB (2020-2024)",
             eduBj_2:"M.S.: CUMTB (2017-2020)",
             selfEmail:"ktuo@eitech.edu.cn"
@@ -80,8 +80,8 @@ var allStudentData={
             imageSrc:"img/Team/wangchao.jpg",
             imageWithHigh:[190,240],
             studentName:"Chao Wang",
-            Supervsior:"Supervsior: Prof. Xueliang Sun",
-            CoSupervsior:"Co-Supervsior: Prof. Changhong Wang",
+            Supervisor:"Supervisor: Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
             eduBj_1:"Ph.D.: USTB (2020-2024)",
             eduBj_2:"M.D.: USTB (2017-2019)",
             selfEmail:"arlen_w@163.com"
@@ -90,8 +90,8 @@ var allStudentData={
             imageSrc:"img/Team/liutingting.jpg",
             imageWithHigh:[190,240],
             studentName:"Tingting Liu",
-            Supervsior:"Supervsior: Prof. Xueliang Sun",
-            CoSupervsior:"Co-Supervsior: Prof. Changhong Wang",
+            Supervisor:"Supervisor: Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
             eduBj_1:"Ph.D.: TJU (2020-2024)",
             eduBj_2:"M.S.:NBU（2017-2020）",
             selfEmail:"liutingting@tongji.edu.cn"
@@ -100,8 +100,8 @@ var allStudentData={
             imageSrc:"img/Team/weimingfeng.jpg",
             imageWithHigh:[190,240],
             studentName:"Mingfeng Wei",
-            Supervsior:"Supervsior: Prof. Changhong Wang",
-            // CoSupervsior:"Co-Supervsior: Prof. Changhong Wang",
+            Supervisor:"Supervisor: Prof. Changhong Wang",
+            // CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
             eduBj_1:"Ph.D.: Jilin University (2017-2024)",
             eduBj_2:"B.S.: Jilin University (2013-2017)",
             selfEmail:"weimf19@mails.jlu.edu.cn"
@@ -113,8 +113,8 @@ var allStudentData={
             imageSrc:"img/Team/xiashengjie.jpg",
             imageWithHigh:[170,240],
             studentName:"Shengjie Xia",
-            Supervsior:"Supervisor： Prof. Changhong Wang",
-            CoSupervsior:"",
+            Supervisor:"Supervisor： Prof. Changhong Wang",
+            CoSupervisor:"",
             eduBj_1:"M.S.: USTC (2019-2022)",
             eduBj_2:"B.S.: Hefei University (2015-2019)",
             selfEmail:"sjxia@eitech.edu.cn"
@@ -123,8 +123,8 @@ var allStudentData={
             imageSrc:"img/Team/chenqian.jpg",
             imageWithHigh:[190,240],
             studentName:"Qian Cheng",
-            Supervsior:"Supervsior：Prof. Xueliang Sun",
-            CoSupervsior:"Co-Supervisor： Prof. Changhong Wang",
+            Supervisor:"Supervisor：Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor： Prof. Changhong Wang",
             eduBj_1:"M.S.: SCUT (2020-2023)",
             eduBj_2:"B.S.: Xiangtan University (2016-2020)",
             selfEmail:"qcheng@eitech.edu.cn"
@@ -133,8 +133,8 @@ var allStudentData={
             imageSrc:"img/Team/liuyao.jpg",
             imageWithHigh:[190,240],
             studentName:"Yao Liu",
-            Supervsior:"Supervisor： Prof. Changhong Wang",
-            CoSupervsior:"",
+            Supervisor:"Supervisor： Prof. Changhong Wang",
+            CoSupervisor:"",
             eduBj_1:"M.S.: HIT (2020-2023)",
             eduBj_2:"B.S.: NPU (2016-2020)",
             selfEmail:"yliu@eitech.edu.cn"
@@ -143,8 +143,8 @@ var allStudentData={
             imageSrc:"img/Team/zhouzhim.jpg",
             imageWithHigh:[180,240],
             studentName:"Zhimin Zhou",
-            Supervsior:"Supervsior：Prof. Xueliang Sun",
-            CoSupervsior:"Co-Supervisor： Prof. Changhong Wang",
+            Supervisor:"Supervisor：Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor： Prof. Changhong Wang",
             eduBj_1:"M.S.: SARI-CAS (2018-2021)",
             eduBj_2:"B.S.: NPU (2014-2018)",
             selfEmail:"zzhou@eitech.edu.cn"
@@ -153,8 +153,8 @@ var allStudentData={
             imageSrc:"img/Team/zhangshutao.jpg",
             imageWithHigh:[190,240],
             studentName:"Shutao Zhang",
-            Supervsior:"Supervisor： Prof. Changhong Wang",
-            CoSupervsior:"",
+            Supervisor:"Supervisor： Prof. Changhong Wang",
+            CoSupervisor:"",
             eduBj_1:"M.S.: CNITECH-CAS (2019-2022)",
             eduBj_2:"B.S.: UPC (2015-2019)",
             selfEmail:"stzhang@eitech.edu.cn"
@@ -163,8 +163,8 @@ var allStudentData={
             imageSrc:"img/Team/wangziqing.jpg",
             imageWithHigh:[190,240],
             studentName:"Ziqing Wang",
-            Supervsior:"Supervisor： Prof. Changhong Wang",
-            CoSupervsior:"",
+            Supervisor:"Supervisor： Prof. Changhong Wang",
+            CoSupervisor:"",
             eduBj_1:"M.S.: Huaqiao University (2020-2023)",
             eduBj_2:"B.S.: AAU (2016-2020)",
             selfEmail:"zqwang@eitech.edu.cn"
@@ -173,8 +173,8 @@ var allStudentData={
             imageSrc:"img/Team/zhumengfei.jpg",
             imageWithHigh:[190,240],
             studentName:"Mengfei Zhu",
-            Supervsior:"Supervisor: Prof. Xueliang Sun",
-            CoSupervsior:"Co-Supervisor: Prof. Changhong Wang",
+            Supervisor:"Supervisor: Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
             eduBj_1:"M.S.: NJU (2020-2023)",
             eduBj_2:"B.S.: BUCT (2016-2020)",
             selfEmail:"zmf18810605302@163.com"
@@ -183,8 +183,8 @@ var allStudentData={
             imageSrc:"img/Team/huanghongrui.jpg",
             imageWithHigh:[190,240],
             studentName:"Hongrui Huang",
-            Supervsior:"Supervisor: Prof. Xueliang Sun",
-            CoSupervsior:"Co-Supervisor: Prof. Changhong Wang",
+            Supervisor:"Supervisor: Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
             eduBj_1:"M.S.: CSU (2021-2024)",
             eduBj_2:"B.S.: CSU (2017-2021)",
             selfEmail:"hhr33152@foxmail.com"
@@ -193,8 +193,8 @@ var allStudentData={
             imageSrc:"img/Team/hongjian.jpg",
             imageWithHigh:[190,240],
             studentName:"Jian Hong",
-            Supervsior:"Supervisor：Prof. Changhong Wang",
-            CoSupervsior:"",
+            Supervisor:"Supervisor：Prof. Changhong Wang",
+            CoSupervisor:"",
             eduBj_1:"M.S.: CNITECH-CAS (2020-2023)",
             eduBj_2:"B.S.: SDU (2016-2020)",
             selfEmail:"jhong@eitech.edu.cn"
@@ -206,8 +206,8 @@ var allStudentData={
         //     imageSrc:"img/Team/zhangshutao.jpg",
         //     imageWithHigh:[190,240],
         //     studentName:"Shutao Zhang",
-        //     Supervsior:"Supervisor： Prof. Changhong Wang",
-        //     CoSupervsior:"",
+        //     Supervisor:"Supervisor： Prof. Changhong Wang",
+        //     CoSupervisor:"",
         //     eduBj_1:"M.S.: CNITECH-CAS (2019-2022)",
         //     eduBj_2:"B.S.: UPC (2015-2019)",
         //     selfEmail:"stzhang@eitech.edu.cn"
@@ -216,8 +216,8 @@ var allStudentData={
         //     imageSrc:"img/Team/wangziqing.jpg",
         //     imageWithHigh:[190,240],
         //     studentName:"Ziqing Wang",
-        //     Supervsior:"Supervisor： Prof. Changhong Wang",
-        //     CoSupervsior:"",
+        //     Supervisor:"Supervisor： Prof. Changhong Wang",
+        //     CoSupervisor:"",
         //     eduBj_1:"M.S.: Huaqiao University (2020-2023)",
         //     eduBj_2:"B.S.: AAU (2016-2020)",
         //     selfEmail:"zqwang@eitech.edu.cn"
@@ -227,8 +227,8 @@ var allStudentData={
             imageSrc:"img/Team/zhengyu.jpg",
             imageWithHigh:[190,240],
             studentName:"Yu Zheng",
-            Supervsior:"Supervisor：Prof. Changhong Wang",
-            CoSupervsior:"",
+            Supervisor:"Supervisor：Prof. Changhong Wang",
+            CoSupervisor:"",
             eduBj_1:"M.E.: ZAFU (2019-2022)",
             eduBj_2:"B.E.: ZAFU (2015-2019)",
             selfEmail:"yzheng@eitech.edu.cn"
@@ -237,8 +237,8 @@ var allStudentData={
         //     imageSrc:"img/Team/suminghao.jpg",
         //     imageWithHigh:[190,240],
         //     studentName:"Minghao Su",
-        //     Supervsior:"Supervisor：Prof. Changhong Wang",
-        //     CoSupervsior:"",
+        //     Supervisor:"Supervisor：Prof. Changhong Wang",
+        //     CoSupervisor:"",
         //     eduBj_1:"M.S.: CAEP (2021-2024)",
         //     eduBj_2:"B.S.: SCU (2017-2021)",
         //     selfEmail:"mhsu@eitech.edu.cn"
@@ -247,8 +247,8 @@ var allStudentData={
             imageSrc:"img/Team/chenying.jpg",
             imageWithHigh:[190,240],
             studentName:"Ying Chen",
-            Supervsior:"Supervisor：Prof. Changhong Wang",
-            CoSupervsior:"行政助理",
+            Supervisor:"Supervisor：Prof. Changhong Wang",
+            CoSupervisor:"行政助理",
             eduBj_1:"M.S.: NBU (2015-2018)",
             eduBj_2:"B.S.: WZU (2011-2015)",
             selfEmail:"yingchen@eitech.edu.cn"
@@ -286,10 +286,10 @@ window.onload = function (){
             pNode.append(posPhDStu[j].studentName);
             let brNode = document.createElement('br');
             pNode.appendChild(brNode);
-            pNode.append(posPhDStu[j].Supervsior,document.createElement('br'));
+            pNode.append(posPhDStu[j].Supervisor,document.createElement('br'));
             
-            if (posPhDStu[j].CoSupervsior&& posPhDStu[j].CoSupervsior.trim().length > 0){
-                pNode.append(posPhDStu[j].CoSupervsior,document.createElement('br'));
+            if (posPhDStu[j].CoSupervisor&& posPhDStu[j].CoSupervisor.trim().length > 0){
+                pNode.append(posPhDStu[j].CoSupervisor,document.createElement('br'));
             }
             
             pNode.append(posPhDStu[j].eduBj_1,document.createElement('br'));
@@ -332,10 +332,10 @@ window.onload = function (){
             pNode.append(posPhDStu[j].studentName);
             let brNode = document.createElement('br');
             pNode.appendChild(brNode);
-            pNode.append(posPhDStu[j].Supervsior,document.createElement('br'));
+            pNode.append(posPhDStu[j].Supervisor,document.createElement('br'));
             
-            if (posPhDStu[j].CoSupervsior&& posPhDStu[j].CoSupervsior.trim().length > 0){
-                pNode.append(posPhDStu[j].CoSupervsior,document.createElement('br'));
+            if (posPhDStu[j].CoSupervisor&& posPhDStu[j].CoSupervisor.trim().length > 0){
+                pNode.append(posPhDStu[j].CoSupervisor,document.createElement('br'));
             }
             
             pNode.append(posPhDStu[j].eduBj_1,document.createElement('br'));
@@ -367,10 +367,10 @@ window.onload = function (){
             pNode.append(PhDStu[j].studentName);
             let brNode = document.createElement('br');
             pNode.appendChild(brNode);
-            pNode.append(PhDStu[j].Supervsior,document.createElement('br'));
+            pNode.append(PhDStu[j].Supervisor,document.createElement('br'));
             
-            if (PhDStu[j].CoSupervsior&& PhDStu[j].CoSupervsior.trim().length > 0){
-                pNode.append(PhDStu[j].CoSupervsior,document.createElement('br'));
+            if (PhDStu[j].CoSupervisor&& PhDStu[j].CoSupervisor.trim().length > 0){
+                pNode.append(PhDStu[j].CoSupervisor,document.createElement('br'));
             }
             
             pNode.append(PhDStu[j].eduBj_1,document.createElement('br'));
@@ -401,10 +401,10 @@ window.onload = function (){
             pNode.append(RAsStu[j].studentName);
             let brNode = document.createElement('br');
             pNode.appendChild(brNode);
-            pNode.append(RAsStu[j].Supervsior,document.createElement('br'));
+            pNode.append(RAsStu[j].Supervisor,document.createElement('br'));
             
-            if (RAsStu[j].CoSupervsior&& RAsStu[j].CoSupervsior.trim().length > 0){
-                pNode.append(RAsStu[j].CoSupervsior,document.createElement('br'));
+            if (RAsStu[j].CoSupervisor&& RAsStu[j].CoSupervisor.trim().length > 0){
+                pNode.append(RAsStu[j].CoSupervisor,document.createElement('br'));
             }
             
             pNode.append(RAsStu[j].eduBj_1,document.createElement('br'));
