@@ -582,10 +582,28 @@ var recentPubs={
     ],
     // 合作文章
     allarticals: [
+        // {
+        //     "titles": "A Universal Design of Lithium Anode via Dynamic Stability Strategy for Practical All-Solid-State Batteries",
+        //     "totalAuthor": `T. Deng, <b>C. Wang</b>, H. Wan, A. Li, X. He, Z. Wang, L. Cao, X. Fan, C. Wang*, Angewandte Chemie International Edition 2024. <b> Nature Materials</b>. 2024`,
+        //     "publink": "https://doi.org/10.1002/ange.202418811",
+        //     "abstract": "",
+        //     "PDFdir":"",
+        //     "equalContributions": [
+        //         "changhongwang",
+        //         "changhongwang"
+        //     ],
+        //     "correspondingAuthor": [
+        //         "xueliangsun",
+        //         "xueliangsun"
+        //     ],
+        //     "imagesrc": "",
+        //     "year":"2025",
+        // },
+
 
         {
             "titles": "A Universal Design of Lithium Anode via Dynamic Stability Strategy for Practical All-solid-state Batteries",
-            "totalAuthor": `T. Deng, <b>C. Wang</b>, H. Wan, A. Li, X. He, Z. Wang, L. Cao, X. Fan, C. Wang*, Angewandte Chemie International Edition 2024. <b> Nature Materials</b>. 2024`,
+            "totalAuthor": `T. Deng, <b>C. Wang</b>, H. Wan, A. Li, X. He, Z. Wang, L. Cao, X. Fan, C. Wang*, <b>Angewandte Chemie International Edition</b>. 2024`,
             "publink": "https://doi.org/10.1002/anie.202418811",
             "abstract": "",
             "PDFdir":"",
