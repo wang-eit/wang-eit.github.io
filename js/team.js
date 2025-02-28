@@ -199,6 +199,16 @@ var allStudentData={
             eduBj_2:"B.S.: SDU (2016-2020)",
             selfEmail:"jhong@eitech.edu.cn"
         },
+        {
+            imageSrc:"img/Team/shenfangning.jpg",
+            imageWithHigh:[190,240],
+            studentName:"Fangning Shen",
+            Supervisor:"Supervisor：Prof. Changhong Wang",
+            CoSupervisor:"",
+            eduBj_1:"M.S.: NUS(2023-2025)",
+            eduBj_2:"B.S.: SCAU (2019-2023)",
+            selfEmail:"fnshen@eitech.edu.cn"
+        },
     ],
 
     RAs:[
