@@ -1708,6 +1708,8 @@ var recentPubs={
     ],
 
     patents: [
+
+       
         {
             "titles": "王长虹,孙学良,苏铭昊,夏圣杰，一种全固态电池及其制备方法，2025，",
             "totalAuthor": "申请号：202510177518.0；",
@@ -1770,36 +1772,36 @@ var recentPubs={
             ],
             "imagesrc": ""
         },
-        // {
-        //     "titles": "黄欢, 王长虹, 赵尚骞, 王建涛,孙学良, 杨容, 一种无机固体电解质隔膜及固态电池，2021，",
-        //     "totalAuthor": "申请号: CN202110815458.2.",
-        //     "publink": "javascript:;",
-        //     "abstract": "",
-        //     "equalContributions": [
-        //         "changhongwang",
-        //         "changhongwang"
-        //     ],
-        //     "correspondingAuthor": [
-        //         "xueliangsun",
-        //         "xueliangsun"
-        //     ],
-        //     "imagesrc": ""
-        // },
-        // {
-        //     "titles": "孙学良, 王长虹, 徐国峰, 梁剑文, 王建涛, 李晓娜, 赵尚骞, 黄欢, 杨容,一种卤化物固态电解质及其制备方法和应用，2021, ",
-        //     "totalAuthor": "申请号: CN202110729896.7",
-        //     "publink": "javascript:;",
-        //     "abstract": "",
-        //     "equalContributions": [
-        //         "changhongwang",
-        //         "changhongwang"
-        //     ],
-        //     "correspondingAuthor": [
-        //         "xueliangsun",
-        //         "xueliangsun"
-        //     ],
-        //     "imagesrc": ""
-        // },
+        {
+            "titles": "黄欢, 王长虹, 赵尚骞, 王建涛,孙学良, 杨容, 一种无机固体电解质隔膜及固态电池，2021，",
+            "totalAuthor": "申请号: CN202110815458.2.",
+            "publink": "javascript:;",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": ""
+        },
+        {
+            "titles": "孙学良, 王长虹, 徐国峰, 梁剑文, 王建涛, 李晓娜, 赵尚骞, 黄欢, 杨容,一种卤化物固态电解质及其制备方法和应用，2021, ",
+            "totalAuthor": "申请号: CN202110729896.7",
+            "publink": "javascript:;",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": ""
+        },
         {
             "titles": "赵金玲, 赵春荣, 杨容, 赵尚骞, 王建涛, 徐国峰, 张立, 庞静, 黄欢, 王长虹, 张莹, 一种用于卤化物固态电解质的界面润湿剂，2020，",
             "totalAuthor": "申请号: CN202011635630.8",
@@ -1815,21 +1817,21 @@ var recentPubs={
             ],
             "imagesrc": ""
         },
-        // {
-        //     "titles": "孙学良, 王长虹, 梁剑文, 李晓娜, 黄欢, 卢世刚, 张立, 赵尚骞, 电极、电解质薄层及其制备方法, 2019.",
-        //     "totalAuthor": " 申请号: CN201910843405.4",
-        //     "publink": "javascript:;",
-        //     "abstract": "",
-        //     "equalContributions": [
-        //         "changhongwang",
-        //         "changhongwang"
-        //     ],
-        //     "correspondingAuthor": [
-        //         "xueliangsun",
-        //         "xueliangsun"
-        //     ],
-        //     "imagesrc": ""
-        // },
+        {
+            "titles": "孙学良, 王长虹, 梁剑文, 李晓娜, 黄欢, 卢世刚, 张立, 赵尚骞, 电极、电解质薄层及其制备方法, 2019.",
+            "totalAuthor": " 申请号: CN201910843405.4",
+            "publink": "javascript:;",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": ""
+        },
         {
             "titles": "孙学良, 科甘·亚岱尔, 王长虹, 赵阳, 卢世刚, 张立, 赵尚骞, 一种三维金属锂负极及其制备方法与应用，2019,",
             "totalAuthor": " 申请号: CN201910386661.5 (已授权) 授权日：2019年9月24日",
