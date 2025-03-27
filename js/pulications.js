@@ -600,6 +600,24 @@ var recentPubs={
         //     "year":"2025",
         // },
 
+        {
+            "titles": "Highly Stabilized Ni-Rich Cathodes Enabled by Artificially Reversing Naturally-Formed Interface",
+            "totalAuthor": `J. Ma, Y. Sun, D. Wu, <b>C. Wang</b>, R. Yu, H. Duan, M. Zheng, R. Li, M. D. Gu*, Y. Zhao*, J. Zhou*, X. Sun*, <b>Advanced Energy Materials</b> 2025`,
+            "publink": " https://doi.org/10.1002/aenm.202403150",
+            "abstract": "",
+            "PDFdir":"",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2025",
+        },
+
 
         {
             "titles": "A Universal Design of Lithium Anode via Dynamic Stability Strategy for Practical All-solid-state Batteries",
@@ -2021,8 +2039,8 @@ window.onload = function (){
 
         }
 
-        rect_year= "2025";
-        rect_next_year = "2024";
+        rect_year= "2026";
+        rect_next_year = "2025";
 
         for (let k = 0; k < allActicals.length; k++) {
             if (allActicals[k].year!=rect_year & allActicals[k].year==rect_next_year){
