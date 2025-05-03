@@ -10,6 +10,31 @@ var recentPubs={
         // },
 
         {
+            imagesrc:"artical_img/1-s2.0-S2211285525004033-gr1_lrg.jpg",
+            titles:"Unraveling soft breakdown in solid-state electrolytes",
+            abstract:"All-solid-state lithium metal batteries (ASSLMBs) with solid-state electrolytes (SSEs) are regarded as next-generation energy storage technology due to their superior safety and exceptional energy density. However, soft breakdown—a prevalent failure mechanism in ASSLMBs—has hindered their development...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`H. Ren, Y. Zhong, X. Lin, J. Fu, J. Luo, Y. Hu, Y. Sun, H.-Y. Nie, H. Su, W. Li, F. Zhao, Y. Liu, J. T. Kim, M. Yang, <b>C. Wang*</b>, X. Sun*, <b>Nano Energy</b> 2025 `],
+            publink:"https://doi.org/10.1016/j.nanoen.2025.111044",
+            PDFdir:"data/firstauthor/1-s2.0-S2211285525004033-main.pdf",
+            year:"2025",
+        },
+
+        {
+            imagesrc:"artical_img/1-s2.0-S2211285525003684-ga1_lrg.jpg",
+            titles:"Low-temperature synthesis of amorphous LiF/Li₃BO₃ interfaces with F, B co-doped subsurface for long-cycling and high-rate Ni-rich cathodes",
+            abstract:"Ni-rich layered oxide cathode materials, such as LiNi0.8Co0.1Mn0.1O2 (NCM), are promising candidates for high-performance lithium-ion batteries (LIBs) due to their high energy density and cost-effectiveness. However, structural degradation and interfacial instability hinder....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`G. Yang, B. Liu, F. Lai*, K. Xue, X. Zhang*, H. Wang, M. Xie,<b>C. Wang*</b>, <b>Nano Energy</b> 2025 `],
+            publink:"https://doi.org/10.1016/j.nanoen.2025.111009",
+            PDFdir:"data/firstauthor/1-s2.0-S2211285525003684-main.pdf",
+            year:"2025",
+        },
+
+
+        {
             imagesrc:"artical_img/AM_20241226165734.png",
             titles:"Challenges and Strategies of Low-Pressure All-Solid-State Batteries",
             abstract:"All-solid-state batteries (ASsBs) are regarded as promising next-generation energy storage technology owing to theirinherent safety and high theoretical energy density. However, achieving and maintaining solid--solid electronic and ioniccontact in AsSBs generally requires high-pressure....",
@@ -1980,10 +2005,10 @@ window.onload = function (){
         var allActicals = recentPubs.allarticals;
         // 获取数据
         var pantents = recentPubs.patents;
-        let years = ["2024","2023","2022","2021","2020","2019","2018","2017","2016","2015","2014","2013"];
+        let years = ["2025","2024","2023","2022","2021","2020","2019","2018","2017","2016","2015","2014","2013"];
         let m = 0;
-        var rect_year= "2025";
-        var rect_next_year = "2024";
+        var rect_year= "2026";
+        var rect_next_year = "2025";
 
         for (let j = 0; j < recActicals.length; j++) {
 
