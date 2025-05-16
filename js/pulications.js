@@ -8,6 +8,17 @@ var recentPubs={
         //     "imagesrc": "",
         //     "year":"2023",
         // },
+        {
+            imagesrc:"artical_img/nature250516.jpg",
+            titles:"A Cost-Effective All-in-One Halide Material for All-Solid-State Batteries",
+            abstract:"The energy density and economic viability of all-solid-state batteries (ASSBs) rely on minimizing inactive components in cathode composites, such as catholytes. By eliminating these components, all-in-one cathode designs improve material utilization3,4 and remove heterogeneous interfaces...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`J. Fu†, <b>C. Wang†</b>, S. Wang†, J. Reid, J. Liang, J. Luo, J. Kim, Y. Zhao, X. Yang, F. Zhao, W. Li, B. Fu, X. Lin, Y. Hu, H. Su, X. Hao, Y. Gao, S. Zhang, Z. Wang, J. Liu, H. Abdolvand, T. Sham*, Y. Mo*, X. Sun*, <b>Nature</b> 2025 `],
+            publink:"#",
+            PDFdir:"#",
+            year:"2025",
+        },
 
         {
             imagesrc:"artical_img/1-s2.0-S2211285525004033-gr1_lrg.jpg",
