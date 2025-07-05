@@ -8,6 +8,7 @@ var recentPubs={
         //     "imagesrc": "",
         //     "year":"2023",
         // },
+        
         {
             imagesrc:"artical_img/nature250516.jpg",
             titles:"A Cost-Effective All-in-One Halide Material for All-Solid-State Batteries",
@@ -19,7 +20,7 @@ var recentPubs={
             PDFdir:"#",
             year:"2025",
         },
-
+        
         {
             imagesrc:"artical_img/1-s2.0-S2211285525004033-gr1_lrg.jpg",
             titles:"Unraveling soft breakdown in solid-state electrolytes",
@@ -43,83 +44,17 @@ var recentPubs={
             PDFdir:"data/firstauthor/1-s2.0-S2211285525003684-main.pdf",
             year:"2025",
         },
-
-
         {
-            imagesrc:"artical_img/AM_20241226165734.png",
-            titles:"Challenges and Strategies of Low-Pressure All-Solid-State Batteries",
-            abstract:"All-solid-state batteries (ASsBs) are regarded as promising next-generation energy storage technology owing to theirinherent safety and high theoretical energy density. However, achieving and maintaining solid--solid electronic and ioniccontact in AsSBs generally requires high-pressure....",
+            imagesrc:"artical_img/csc.png",
+            titles:"Simultaneously Modulating Li+ Transport Kinetics and Structural Stability in Li-Rich Mn-Based All-Solid-State Electrodes by Dual-Scale Particle Engineering",
+            abstract:"Li-rich Mn-based oxides (LRMOs) are promising cathodes for all-solid-state lithium batteries (ASSLBs) due to their high theoretical capacity. However, their practical application is hindered by sluggish Li+ transport and interfacial instability. Herein, it is demonstrated that primary and secondary particle...",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`J. Zhang, J. Fu, P. Lu, G. Hu, S. Xia, S. Zhang, Z. Wang, Z. Zhou, W. Yan, W. Xia*, <b>C. Wang*</b>, X. Sun*, <b>Advanced Materials</b> 2024 `],
-            publink:"https://doi.org/10.1002/adma.202413499",
-            PDFdir:"/data/firstauthor/Zhang et al_2025_Challenges and Strategies of Low-Pressure All-Solid-State Batteries.pdf",
-            year:"2024",
+            totalAuthor:[`S. Peng, H. Zheng, K. Bu, W. Yang, C. Chen*, <b>C. Wang*</b>, R. Yu*, <b>ChemSusChem</b> 2025 `],
+            publink:"#",
+            PDFdir:"#",
+            year:"2025",
         },
-
-
-        {
-            imagesrc:"artical_img/adfm202418274-fig-0001-m.jpg",
-            titles:"Progress and Challenges of Ni-Rich Layered Cathodes for All-Solid-State Lithium Batteries",
-            abstract:"Ni-rich layered oxides are recognized as one of the most promising candidates for cathodes in all-solid-state lithium batteries (ASSLBs) due to their intrinsic merits, such as high average voltage and specific capacity. However, their application is profoundly hindered....",
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`H. Zheng, S. Peng, S. Liang, W. Yang, C. Chen*, <b>C. Wang*</b> R. Yu*,<b>Advanced Functional Materials</b> 2024 `],
-            publink:"https://doi.org/10.1002/adfm.202418274",
-            PDFdir:"data/firstauthor/Adv Funct Materials - 2024 - Zheng - Progress and Challenges of Ni‐Rich Layered Cathodes for All‐Solid‐State Lithium.pdf",
-            year:"2024",
-        },
-
-        {
-            imagesrc:"artical_img/adma202411237-fig-0001-m.jpg",
-            titles:"Metaplasticity-Enabled Graphene Quantum Dot Devices for Mitigating Catastrophic Forgetting in Artificial Neural Networks",
-            abstract:"The limitations of deep neural networks in continuous learning stem from oversimplifying the complexities of biological neural circuits, often neglecting the dynamic balance between memory stability and learning plasticity. In this study, artificial synaptic devices enhanced with....",
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`X. Fan, A. Chen, Z. Li, Z. Gong, Z. Wang, G. Zhang, P. Li, Y. Xu, H. Wang, <b>C. Wang*</b>, X. Zhu*, R. Zhao, B. Yu, Y. Zhang*, <b>Advanced Materials</b> 2024 `],
-            publink:"https://doi.org/10.1002/adma.202411237",
-            PDFdir:"data/firstauthor/Advanced Materials - 2024 - Fan - Metaplasticity‐Enabled Graphene Quantum Dot Devices for Mitigating Catastrophic.pdf",
-            year:"2024",
-        },
-
-        
-        {
-            imagesrc:"artical_img/adfm202416229-fig-0003-m.jpg",
-            titles:"Reducing Surface Roughness to Achieve Li2CO3-Existent Lithiophilic Interface in Garnet-Type Solid-State Batteries",
-            abstract:"The presence of Li2CO3 has been identified as the cause of poor lithophilicity in garnet-type Li7La3Zr2O12 (LLZO) solid-state batteries. A Li2CO3-free garnet is expected to enhance the Li/LLZO interface contact. However, permanently eradicating regenerative Li2CO3 from the LLZO surface is extremely....",
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`J. Zhang, <b>C. Wang†</b>, J. Fu, M. Ye, H. Zhai, J. Li, G. Tan, X. Tang*, X. Sun*, <b>Advanced Functional Materials</b>, 2024`],
-            publink:"https://doi.org/10.1002/adfm.202416229",
-            PDFdir:"data/firstauthor/Adv Funct Materials - 2024 - Zhang - Reducing Surface Roughness to Achieve Li2CO3‐Existent Lithiophilic Interface in.pdf",
-            year:"2024",
-        },
-
-        {
-            imagesrc:"artical_img/1031-fig-0002-m.jpg",
-            titles:"A chronicle of titanium niobium oxide materials for high-performance lithium-ion batteries: From laboratory to industry",
-            abstract:"Titanium niobium oxide (TiNbxO2+2.5x) is emerging as a promising electrode material for rechargeable lithium-ion batteries (LIBs) due to its exceptional safety characteristics, high electrochemical properties (e.g., cycling stability and rate performance), and eco-friendliness....",
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`C. Peng, S. Liang, Y. Yu, L. Cao, C. Yang, X. Liu, K. Guo*, P. Müller-Buschbaum, Y.-J. Cheng*, <b>C. Wang*</b>, <b>Carbon Neutralization</b>, 2024 <b>(invited review)</b>`],
-            publink:"https://doi.org/10.1002/cnl2.177",
-            PDFdir:"data/firstauthor/Carbon Neutralization - 2024 - Peng - A chronicle of titanium niobium oxide materials for high‐performance lithium‐ion.pdf",
-            year:"2024",
-        },
-
-        {
-            imagesrc:"artical_img/1020_jacs.jpeg",
-            titles:"Amorphous AlOCl Compounds Enabling Nanocrystalline LiCl with Abnormally High Ionic Conductivity",
-            abstract:"LiCl is a promising solid electrolyte, providing it possesses high ionic conductivity. Numerous efforts have been made to enhance its ionic conductivity through aliovalent doping. However, aliovalent substitution changes the intrinsic structure of LiCl, compromising its cost-effectiveness and electrochemical stability....",
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`H. Duan†,<b>C. Wang†</b>, X.-S. Zhang, J. Fu, W. Li, J. Wan, R. Yu, M. Fan, F. Ren, S. Wang, M. Zheng, X. Li, J. Liang, R. Wen, S. Xin, Y.-G. Guo*, X. Sun* <b>Journal of the American Chemical Society</b>, 2024`],
-            publink:"https://doi.org/10.1021/jacs.4c06498",
-            PDFdir:"data/firstauthor/duan-et-al-2024-amorphous-alocl-compounds-enabling-nanocrystalline-licl-with-abnormally-high-ionic-conductivity.pdf",
-            year:"2024",
-          
-        },
-
         {
             imagesrc:"artical_img/NCE-0627.jpg",
             titles:"All-solid-state lithium–sulfur batteries through a reaction engineering lens",
@@ -131,18 +66,6 @@ var recentPubs={
             PDFdir:"",
             year:"2024",
           
-        },
-
-        {
-            imagesrc:"artical_img/NCom-0323.png",
-            titles:"Deciphering the critical role of interstitial volume in glassy sulfide superionic conductors",
-            abstract:"Sulfide electrolytes represent a crucial category of superionic conductors for all-solid-state lithium metal batteries. Among sulfide electrolytes, glassy sulfide is highly promising due to its long-range disorder and grain-boundary-free nature. However, the lack of comprehension regarding glass formation chemistry has hindered...",
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`H. Su, Y. Zhong*, <b>C. Wang*</b>, Y. Liu, Y. Hu, J. Li, M. Wang, L. Jiao, N. Zhou, B. Xiao, X. Wang, X. Sun*, J. Tu*,<b>Nature Communications</b>, 2024`],
-            publink:"https://doi.org/10.1038/s41467-024-46798-4",
-            PDFdir:"data/firstauthor/Deciphering the critical role of interstitial volume in glassy sulfide superionic conductors.pdf",
-            year:"2024",
         },
         {
             imagesrc:"artical_img/j-lu-2024-1.jpg",
@@ -169,6 +92,68 @@ var recentPubs={
             year:"2024",
         },
 
+
+        {
+            imagesrc:"artical_img/AM_20241226165734.png",
+            titles:"Challenges and Strategies of Low-Pressure All-Solid-State Batteries",
+            abstract:"All-solid-state batteries (ASsBs) are regarded as promising next-generation energy storage technology owing to theirinherent safety and high theoretical energy density. However, achieving and maintaining solid--solid electronic and ioniccontact in AsSBs generally requires high-pressure....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`J. Zhang, J. Fu, P. Lu, G. Hu, S. Xia, S. Zhang, Z. Wang, Z. Zhou, W. Yan, W. Xia*, <b>C. Wang*</b>, X. Sun*, <b>Advanced Materials</b> 2024 `],
+            publink:"https://doi.org/10.1002/adma.202413499",
+            PDFdir:"/data/firstauthor/Zhang et al_2025_Challenges and Strategies of Low-Pressure All-Solid-State Batteries.pdf",
+            year:"2024",
+        },
+        {
+            imagesrc:"artical_img/adma202411237-fig-0001-m.jpg",
+            titles:"Metaplasticity-Enabled Graphene Quantum Dot Devices for Mitigating Catastrophic Forgetting in Artificial Neural Networks",
+            abstract:"The limitations of deep neural networks in continuous learning stem from oversimplifying the complexities of biological neural circuits, often neglecting the dynamic balance between memory stability and learning plasticity. In this study, artificial synaptic devices enhanced with....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`X. Fan, A. Chen, Z. Li, Z. Gong, Z. Wang, G. Zhang, P. Li, Y. Xu, H. Wang, <b>C. Wang*</b>, X. Zhu*, R. Zhao, B. Yu, Y. Zhang*, <b>Advanced Materials</b> 2024 `],
+            publink:"https://doi.org/10.1002/adma.202411237",
+            PDFdir:"data/firstauthor/Advanced Materials - 2024 - Fan - Metaplasticity‐Enabled Graphene Quantum Dot Devices for Mitigating Catastrophic.pdf",
+            year:"2024",
+        },
+
+
+        {
+            imagesrc:"artical_img/adfm202418274-fig-0001-m.jpg",
+            titles:"Progress and Challenges of Ni-Rich Layered Cathodes for All-Solid-State Lithium Batteries",
+            abstract:"Ni-rich layered oxides are recognized as one of the most promising candidates for cathodes in all-solid-state lithium batteries (ASSLBs) due to their intrinsic merits, such as high average voltage and specific capacity. However, their application is profoundly hindered....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`H. Zheng, S. Peng, S. Liang, W. Yang, C. Chen*, <b>C. Wang*</b> R. Yu*,<b>Advanced Functional Materials</b> 2024 `],
+            publink:"https://doi.org/10.1002/adfm.202418274",
+            PDFdir:"data/firstauthor/Adv Funct Materials - 2024 - Zheng - Progress and Challenges of Ni‐Rich Layered Cathodes for All‐Solid‐State Lithium.pdf",
+            year:"2024",
+        },
+
+        
+
+        
+        {
+            imagesrc:"artical_img/adfm202416229-fig-0003-m.jpg",
+            titles:"Reducing Surface Roughness to Achieve Li2CO3-Existent Lithiophilic Interface in Garnet-Type Solid-State Batteries",
+            abstract:"The presence of Li2CO3 has been identified as the cause of poor lithophilicity in garnet-type Li7La3Zr2O12 (LLZO) solid-state batteries. A Li2CO3-free garnet is expected to enhance the Li/LLZO interface contact. However, permanently eradicating regenerative Li2CO3 from the LLZO surface is extremely....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`J. Zhang, <b>C. Wang†</b>, J. Fu, M. Ye, H. Zhai, J. Li, G. Tan, X. Tang*, X. Sun*, <b>Advanced Functional Materials</b>, 2024`],
+            publink:"https://doi.org/10.1002/adfm.202416229",
+            PDFdir:"data/firstauthor/Adv Funct Materials - 2024 - Zhang - Reducing Surface Roughness to Achieve Li2CO3‐Existent Lithiophilic Interface in.pdf",
+            year:"2024",
+        },
+        {
+            imagesrc:"artical_img/NCom-0323.png",
+            titles:"Deciphering the critical role of interstitial volume in glassy sulfide superionic conductors",
+            abstract:"Sulfide electrolytes represent a crucial category of superionic conductors for all-solid-state lithium metal batteries. Among sulfide electrolytes, glassy sulfide is highly promising due to its long-range disorder and grain-boundary-free nature. However, the lack of comprehension regarding glass formation chemistry has hindered...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`H. Su, Y. Zhong*, <b>C. Wang*</b>, Y. Liu, Y. Hu, J. Li, M. Wang, L. Jiao, N. Zhou, B. Xiao, X. Wang, X. Sun*, J. Tu*,<b>Nature Communications</b>, 2024`],
+            publink:"https://doi.org/10.1038/s41467-024-46798-4",
+            PDFdir:"data/firstauthor/Deciphering the critical role of interstitial volume in glassy sulfide superionic conductors.pdf",
+            year:"2024",
+        },
         {
             imagesrc:"artical_img/na_20231129100910.png",
             titles:"A Dual Anion Chemistry-Based Superionic Glass Enabling Long-Cycling All-Solid-State Sodium-Ion Batteries",
@@ -182,23 +167,31 @@ var recentPubs={
             year:"2024",
         },
 
-
         {
-            imagesrc:"artical_img/nc9622.png",
-            titles:"Manipulating Li2S2/Li2S Mixed Discharge Products of All-Solid-State Lithium-Sulfur Batteries for Improved Cycle Life",
-            abstract:"All-solid-state lithium-sulfur batteries offer a compelling opportunity for next-generation energy storage, due to their high theoretical energy density, low cost, and improved safety. However, their widespread adoption is hindered by an inadequate understanding of their discharge products. ",
+            imagesrc:"artical_img/1020_jacs.jpeg",
+            titles:"Amorphous AlOCl Compounds Enabling Nanocrystalline LiCl with Abnormally High Ionic Conductivity",
+            abstract:"LiCl is a promising solid electrolyte, providing it possesses high ionic conductivity. Numerous efforts have been made to enhance its ionic conductivity through aliovalent doping. However, aliovalent substitution changes the intrinsic structure of LiCl, compromising its cost-effectiveness and electrochemical stability....",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`Jung Tae Kim, Adwitiya Rao, H Nie, Y Hu, W Li, F Zhao, S Deng, X Hao, J Fu, J Luo, H Duan, <b>C Wang*</b>, Chandra Veer Singh*, X Sun*,
-            <b>Nature Communications</b>, 2023`],
-            publink:"https://www.nature.com/articles/s41467-023-42109-5",
-            PDFdir:"data/firstauthor/Manipulating Li2S2Li2S mixed discharge products.pdf",
-            year:"2023",
+            totalAuthor:[`H. Duan†,<b>C. Wang†</b>, X.-S. Zhang, J. Fu, W. Li, J. Wan, R. Yu, M. Fan, F. Ren, S. Wang, M. Zheng, X. Li, J. Liang, R. Wen, S. Xin, Y.-G. Guo*, X. Sun* <b>Journal of the American Chemical Society</b>, 2024`],
+            publink:"https://doi.org/10.1021/jacs.4c06498",
+            PDFdir:"data/firstauthor/duan-et-al-2024-amorphous-alocl-compounds-enabling-nanocrystalline-licl-with-abnormally-high-ionic-conductivity.pdf",
+            year:"2024",
+          
         },
 
-
-
-
+        {
+            imagesrc:"artical_img/1031-fig-0002-m.jpg",
+            titles:"A chronicle of titanium niobium oxide materials for high-performance lithium-ion batteries: From laboratory to industry",
+            abstract:"Titanium niobium oxide (TiNbxO2+2.5x) is emerging as a promising electrode material for rechargeable lithium-ion batteries (LIBs) due to its exceptional safety characteristics, high electrochemical properties (e.g., cycling stability and rate performance), and eco-friendliness....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`C. Peng, S. Liang, Y. Yu, L. Cao, C. Yang, X. Liu, K. Guo*, P. Müller-Buschbaum, Y.-J. Cheng*, <b>C. Wang*</b>, <b>Carbon Neutralization</b>, 2024 <b>(invited review)</b>`],
+            publink:"https://doi.org/10.1002/cnl2.177",
+            PDFdir:"data/firstauthor/Carbon Neutralization - 2024 - Peng - A chronicle of titanium niobium oxide materials for high‐performance lithium‐ion.pdf",
+            year:"2024",
+        },
+        
         {
             imagesrc:"artical_img/20230822092838.png",
             titles:"New Insights into Aliovalent Substituted Halide Solid Electrolytes for Cobalt-Free All-Solid-State Batteries",
@@ -209,34 +202,6 @@ var recentPubs={
             ,J Wang*, Y Mo*, X Sun*,<b>Energy & Enviromental Science</b>, 2023`],
             publink:"https://pubs.rsc.org/en/content/articlehtml/2012/4y/d3ee01119d",
             PDFdir:"data/firstauthor/New insights into aliovalent substituted.pdf",
-            year:"2023",
-        },
-
-
-        
-
-        {
-            imagesrc:"artical_img/aenm202300815-fig-0001-m.jpg",
-            titles:"In-situ formed three-dimensional lithium metal anode in sulfide-based all-solid-state batteries",
-            abstract:"Constructing a 3D lithium metal anode has been demonstrated to be the most effective strategy to address its dendrite issue in liquid batteries. However, this promising approach has proved challenging to inherit in all-solid-state Li metal batteries (ASSLMBs) because of the rigidity of inorganic...",
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`H. Duan†,<b>C Wang†</b>, R. Yu†, X. Sun. <b>Advanced Energy Materials</b>, 2023, 13, 2300815.`],
-            publink:"https://doi.org/10.1002/aenm.202300815",
-            PDFdir:"data/firstauthor/Advanced Energy Materials - 2023 - Duan - In Situ Constructed 3D Lithium Anodes for Long‐Cycling All‐Solid‐State Batteries.pdf",
-            year:"2023",
-        },
-
-        {
-            imagesrc:"artical_img/anie202300962-fig-5001-m.jpg",
-            titles:"One-Step Calcination Synthesis of Bulk-Doped Surface-Modified Ni-Rich Cathodes with Superlattice for Long-Cycling Li-Ion Batteries",
-            abstract:"Nickel-rich (Ni≥90 %) layered cathodes are critical materials for achieving higher-energy-density and lower-cost next-generation Li-ion batteries (LIBs). However, their bulk and interface structural instabilities significantly impair their electrochemical performance, thus hindering their widespread adoption in commercial LIBs. Exploiting Ti and Mo diffusion chemistry ...",
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`Y Sun†, <b>C Wang†</b>, W Huang, G Zhao, L Duan, Q Liu, S Wang, A Fraser, H Guo, X Sun, 
-            <b>Angewandte Chemie International Edition</b>, 2023`],
-            publink:"https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202300962",
-            PDFdir:"data/firstauthor/Angew Chem Int Ed - 2023 - Sun - One‐Step Calcination Synthesis of Bulk‐Doped Surface‐Modified Ni‐Rich Cathodes with.pdf",
             year:"2023",
         },
         {
@@ -251,18 +216,28 @@ var recentPubs={
             year:"2023",
         },
         {
-            imagesrc:"artical_img/anie202214117-fig-0004-m.jpg",
-            titles:"A Shuttle-Free Solid-State Cu-Li Battery Based on a Sandwich Structured Electrolyte",
-            abstract:"Cu−Li batteries leveraging the two‐electron redox property of Cu can offer high energy density and low cost. However, Cu−Li batteries are plagued by limited solubility and a shuttle effect of Cu ions in traditional electrolytes, which leads to low energy density and poor cycling stability. In this work, we rationally design a solid‐state sandwich electrolyte for solid‐state Cu−Li batteries,...",
+            imagesrc:"artical_img/aenm202300815-fig-0001-m.jpg",
+            titles:"In-situ formed three-dimensional lithium metal anode in sulfide-based all-solid-state batteries",
+            abstract:"Constructing a 3D lithium metal anode has been demonstrated to be the most effective strategy to address its dendrite issue in liquid batteries. However, this promising approach has proved challenging to inherit in all-solid-state Li metal batteries (ASSLMBs) because of the rigidity of inorganic...",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`H Wang†, <b>C Wang†</b>, M Zheng, J Liang, M Yang, X Feng, X Ren, DYW Yu, Y Li, X Sun, 
-            <b>Angewandte Chemie International Edition</b>, 2023`],
-            publink:"https://doi.org/10.1002/anie.202214117",
-            PDFdir:"data/firstauthor/Angew Chem Int Ed - 2022 - Wang - A Shuttle‐Free Solid‐State Cu Li Battery Based on a Sandwich‐Structured Electrolyte.pdf",
+            totalAuthor:[`H. Duan†,<b>C Wang†</b>, R. Yu†, X. Sun. <b>Advanced Energy Materials</b>, 2023, 13, 2300815.`],
+            publink:"https://doi.org/10.1002/aenm.202300815",
+            PDFdir:"data/firstauthor/Advanced Energy Materials - 2023 - Duan - In Situ Constructed 3D Lithium Anodes for Long‐Cycling All‐Solid‐State Batteries.pdf",
             year:"2023",
         },
-
+        {
+            imagesrc:"artical_img/nc9622.png",
+            titles:"Manipulating Li2S2/Li2S Mixed Discharge Products of All-Solid-State Lithium-Sulfur Batteries for Improved Cycle Life",
+            abstract:"All-solid-state lithium-sulfur batteries offer a compelling opportunity for next-generation energy storage, due to their high theoretical energy density, low cost, and improved safety. However, their widespread adoption is hindered by an inadequate understanding of their discharge products. ",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`Jung Tae Kim, Adwitiya Rao, H Nie, Y Hu, W Li, F Zhao, S Deng, X Hao, J Fu, J Luo, H Duan, <b>C Wang*</b>, Chandra Veer Singh*, X Sun*,
+            <b>Nature Communications</b>, 2023`],
+            publink:"https://www.nature.com/articles/s41467-023-42109-5",
+            PDFdir:"data/firstauthor/Manipulating Li2S2Li2S mixed discharge products.pdf",
+            year:"2023",
+        },
         {
             imagesrc:"artical_img/matter4.png",
             titles:"Cathode materials for single-phase solid-solid conversion Li-S batteries",
@@ -272,6 +247,33 @@ var recentPubs={
             totalAuthor:[`J-T Kim†, X. Hao†, <b>C. Wang*</b>, and X. Sun*, <b>Matter</b>, 2023`],
             publink:"https://doi.org/10.1016/j.matt.2022.11.019",
             PDFdir:"data/firstauthor/Cathode materials for single-phase.pdf",
+            year:"2023",
+        },
+        
+
+        {
+            imagesrc:"artical_img/anie202300962-fig-5001-m.jpg",
+            titles:"One-Step Calcination Synthesis of Bulk-Doped Surface-Modified Ni-Rich Cathodes with Superlattice for Long-Cycling Li-Ion Batteries",
+            abstract:"Nickel-rich (Ni≥90 %) layered cathodes are critical materials for achieving higher-energy-density and lower-cost next-generation Li-ion batteries (LIBs). However, their bulk and interface structural instabilities significantly impair their electrochemical performance, thus hindering their widespread adoption in commercial LIBs. Exploiting Ti and Mo diffusion chemistry ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`Y Sun†, <b>C Wang†</b>, W Huang, G Zhao, L Duan, Q Liu, S Wang, A Fraser, H Guo, X Sun, 
+            <b>Angewandte Chemie International Edition</b>, 2023`],
+            publink:"https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202300962",
+            PDFdir:"data/firstauthor/Angew Chem Int Ed - 2023 - Sun - One‐Step Calcination Synthesis of Bulk‐Doped Surface‐Modified Ni‐Rich Cathodes with.pdf",
+            year:"2023",
+        },
+        
+        {
+            imagesrc:"artical_img/anie202214117-fig-0004-m.jpg",
+            titles:"A Shuttle-Free Solid-State Cu-Li Battery Based on a Sandwich Structured Electrolyte",
+            abstract:"Cu−Li batteries leveraging the two‐electron redox property of Cu can offer high energy density and low cost. However, Cu−Li batteries are plagued by limited solubility and a shuttle effect of Cu ions in traditional electrolytes, which leads to low energy density and poor cycling stability. In this work, we rationally design a solid‐state sandwich electrolyte for solid‐state Cu−Li batteries,...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`H Wang†, <b>C Wang†</b>, M Zheng, J Liang, M Yang, X Feng, X Ren, DYW Yu, Y Li, X Sun, 
+            <b>Angewandte Chemie International Edition</b>, 2023`],
+            publink:"https://doi.org/10.1002/anie.202214117",
+            PDFdir:"data/firstauthor/Angew Chem Int Ed - 2022 - Wang - A Shuttle‐Free Solid‐State Cu Li Battery Based on a Sandwich‐Structured Electrolyte.pdf",
             year:"2023",
         },
 
@@ -288,6 +290,54 @@ var recentPubs={
             publink:"https://doi.org/10.1016/j.eng.2022.10.008",
             PDFdir:"data/firstauthor/The Promise of Solid-State Batteries for Safe and Reliable Energy Storage.pdf",
             year:"2023",
+        },
+
+        {
+            imagesrc:"artical_img/joule5.png",
+            titles:"Identifying soft breakdown in all-solid-state lithium battery",
+            abstract:"Recent years have witnessed significant advances in all-solid-state lithium batteries (ASSLBs). However, soft breakdown hidden in ASSLBs has been overlooked in most previous research. Moreover, existing assessment criteria are insensitive to detecting soft breakdown. Here, we first discuss the current status... ",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`<b>C. Wang</b>, T. Deng, X. Fan, M. Zheng, R. Yu, Q. Lu, H. Duan, H. Huang, C. Wang, X. Sun,<b>Joule</b>, 2022`],
+            publink:"https://doi.org/10.1016/j.joule.2022.05.020",
+            PDFdir:"data/firstauthor/Identifying soft breakdown.pdf",
+            year:"2022",
+        },
+        {
+            imagesrc:"artical_img/adma202207234-fig-0004-m.jpg",
+            titles:"Manipulating Charge-Transfer Kinetics of Lithium-Rich Layered Oxide Cathodes in Halide All-Solid-State Batteries",
+            abstract:"Employing lithium-rich layered oxide (LLO) as the cathode of all-solid-state batteries (ASSBs) is highly desired for realizing high energy density. However, the poor kinetics of LLO, caused by its low electronic conductivity and significant oxygen-redox-induced structural degradation, has impeded its application in...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`R. Yu†, <b>C. Wang†</b>, H. Duan†, M. Jiang†, Y. Sun, Y. Zhao, J. Liang, J. Fu, S. Deng, Z. Ren, G. Li, J. Wang*, C.V. Singh*, H. Huang, R. Li, N, Chen, X. Sun*,<b>Advanced Materials.</b> 2022`],
+            publink:"https://doi.org/10.1002/adma.202207234",
+            PDFdir:"data/firstauthor/Advanced Materials - 2022 - Yu - Manipulating Charge‐Transfer Kinetics of Lithium‐Rich Layered Oxide Cathodes in Halide.pdf",
+            year:"2022",
+        },
+        {
+            imagesrc:"artical_img/images_medium_nz1c02261_0005.gif",
+            titles:"Solvent-Free Approach for Interweaving Freestanding and Ultrathin Inorganic Solid Electrolyte Membranes",
+            abstract:`All-solid-state batteries (ASSBs) have gained considerable attention due to their inherent
+            safety and high energy density. However, fabricating ultrathin and freestanding solid
+            electrolyte membranes for practical all-solid-state pouch cells remains challenging. In this
+            work, polytetrafluoroethylene...`,
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`<b>C. Wang†</b>, R. Yu†, H. Duan†, Q. Lu, Q. Li, K. Adair, D. Bao, Y. Liu, R. Yang, J. Wang*, S. Zhao*, H. Huang*, X. Sun*,<b>ACS Energy Letters</b>, 2022`],
+            publink:"https://pubs.acs.org/doi/full/10.1021/acsenergylett.1c02261",
+            PDFdir:"data/firstauthor/wang-et-al-2022-solvent-free-approach-for-interweaving-freestanding-and-ultrathin-inorganic-solid-electrolyte-membranes.pdf",
+            year:"2022",
+        },
+        {
+            imagesrc:"artical_img/1-s2.0-S2211285522007509-ga1_lrg.jpg",
+            titles:"Rational Design of Air-Stable and Intact Anode-Electrolyte Interface for Garnet-type Solid-State Batteries",
+            abstract:"Garnet-type solid-state electrolytes are a promising fast lithium-ion conductor due to their high room-temperature ion conductivity and inherent stability against lithium metal. However, interfacial lithiophobic...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`J. Zhang†, <b>C. Wang†</b>, M. Zheng, M. Ye, H. Zhai, J. Li, G. Tan, X. Tang, X. Sun.<b>Nano Energy</b>, 2022.102, 107672.`],
+            publink:"https://doi.org/10.1016/j.nanoen.2022.107672",
+            PDFdir:"data/firstauthor/Rational design of air-stable and intact anode-electrolyte interface.pdf",
+            year:"2022",
         },
         {
             imagesrc:"artical_img/images_medium_mr1c00137_0002.gif",
@@ -312,17 +362,7 @@ var recentPubs={
             PDFdir:"data/firstauthor/Energy   Environ Materials - 2022 - Lu - High‐Performance Quasi‐Solid‐State Pouch Cells Enabled by in situ Solidification.pdf",
             year:"2022",
         },
-        {
-            imagesrc:"artical_img/1-s2.0-S2211285522007509-ga1_lrg.jpg",
-            titles:"Rational Design of Air-Stable and Intact Anode-Electrolyte Interface for Garnet-type Solid-State Batteries",
-            abstract:"Garnet-type solid-state electrolytes are a promising fast lithium-ion conductor due to their high room-temperature ion conductivity and inherent stability against lithium metal. However, interfacial lithiophobic...",
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`J. Zhang†, <b>C. Wang†</b>, M. Zheng, M. Ye, H. Zhai, J. Li, G. Tan, X. Tang, X. Sun.<b>Nano Energy</b>, 2022.102, 107672.`],
-            publink:"https://doi.org/10.1016/j.nanoen.2022.107672",
-            PDFdir:"data/firstauthor/Rational design of air-stable and intact anode-electrolyte interface.pdf",
-            year:"2022",
-        },
+        
         // {
         //     imagesrc:"",
         //     titles:"Regulating Ion and Vacancy Content in Solid-State Halide Electrolytes for Cobalt-Free All-Solid-State Battery",
@@ -334,18 +374,7 @@ var recentPubs={
         // },
 
 
-
-        {
-            imagesrc:"artical_img/adma202207234-fig-0004-m.jpg",
-            titles:"Manipulating Charge-Transfer Kinetics of Lithium-Rich Layered Oxide Cathodes in Halide All-Solid-State Batteries",
-            abstract:"Employing lithium-rich layered oxide (LLO) as the cathode of all-solid-state batteries (ASSBs) is highly desired for realizing high energy density. However, the poor kinetics of LLO, caused by its low electronic conductivity and significant oxygen-redox-induced structural degradation, has impeded its application in...",
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`R. Yu†, <b>C. Wang†</b>, H. Duan†, M. Jiang†, Y. Sun, Y. Zhao, J. Liang, J. Fu, S. Deng, Z. Ren, G. Li, J. Wang*, C.V. Singh*, H. Huang, R. Li, N, Chen, X. Sun*,<b>Advanced Materials.</b> 2022`],
-            publink:"https://doi.org/10.1002/adma.202207234",
-            PDFdir:"data/firstauthor/Advanced Materials - 2022 - Yu - Manipulating Charge‐Transfer Kinetics of Lithium‐Rich Layered Oxide Cathodes in Halide.pdf",
-            year:"2022",
-        },
+        
         {
             imagesrc:"artical_img/sciadv.adc9516-f5.jpg",
             titles:"Prospects of halide-based all-solid-state batteries: From material design to practical application",
@@ -360,45 +389,9 @@ var recentPubs={
         },
         
 
-        {
-            imagesrc:"artical_img/joule5.png",
-            titles:"Identifying soft breakdown in all-solid-state lithium battery",
-            abstract:"Recent years have witnessed significant advances in all-solid-state lithium batteries (ASSLBs). However, soft breakdown hidden in ASSLBs has been overlooked in most previous research. Moreover, existing assessment criteria are insensitive to detecting soft breakdown. Here, we first discuss the current status... ",
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`<b>C. Wang</b>, T. Deng, X. Fan, M. Zheng, R. Yu, Q. Lu, H. Duan, H. Huang, C. Wang, X. Sun,<b>Joule</b>, 2022`],
-            publink:"https://doi.org/10.1016/j.joule.2022.05.020",
-            PDFdir:"data/firstauthor/Identifying soft breakdown.pdf",
-            year:"2022",
-        },
-        {
-            imagesrc:"artical_img/images_medium_nz1c02261_0005.gif",
-            titles:"Solvent-Free Approach for Interweaving Freestanding and Ultrathin Inorganic Solid Electrolyte Membranes",
-            abstract:`All-solid-state batteries (ASSBs) have gained considerable attention due to their inherent
-            safety and high energy density. However, fabricating ultrathin and freestanding solid
-            electrolyte membranes for practical all-solid-state pouch cells remains challenging. In this
-            work, polytetrafluoroethylene...`,
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`<b>C. Wang†</b>, R. Yu†, H. Duan†, Q. Lu, Q. Li, K. Adair, D. Bao, Y. Liu, R. Yang, J. Wang*, S. Zhao*, H. Huang*, X. Sun*,<b>ACS Energy Letters</b>, 2022`],
-            publink:"https://pubs.acs.org/doi/full/10.1021/acsenergylett.1c02261",
-            PDFdir:"data/firstauthor/wang-et-al-2022-solvent-free-approach-for-interweaving-freestanding-and-ultrathin-inorganic-solid-electrolyte-membranes.pdf",
-            year:"2022",
-        },
-        {
-            imagesrc:"artical_img/sciadv.abh1896-f3.jpg",
-            titles:"A Universal Wet-Chemistry Synthesis of Solid-State Halide Electrolytes for High-Performance All-Solid-State Lithium Metal Batteries",
-            abstract:`Solid-state halide electrolytes have gained revived research interests owing to their high
-            ionic conductivity and high-voltage stability. However, synthesizing halide electrolytes from a
-            liquid phase is extremely challenging because of the vulnerability of metal halides to
-            hydrolysis. In this work, ammonium-assisted,...`,
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`<b>C. Wang†</b>, J. Liang†, J. Luo, J. Liu, X. Li, F. Zhao, R. Li, H. Huang, S. Zhao, L. Zhang, J. Wang*, X. Sun*. <b>Science Advances</b>, (2021)`],
-            publink:"https://www.science.org/doi/full/10.1126/sciadv.abh1896",
-            PDFdir:"data/firstauthor/A universal wet-chemistry synthesis of solid-state.pdf",
-            year:"2021",
-        },
+        
+        
+        
         {
             imagesrc:"artical_img/d1ee00551k-f1.gif",
             titles:"All-solid-state lithium batteries enabled by sulfide electrolytes: from fundamental research to practical engineering design",
@@ -422,19 +415,21 @@ var recentPubs={
             PDFdir:"data/firstauthor/Advanced Energy Materials - 2021 - Wang - Deciphering Interfacial Chemical and Electrochemical Reactions of Sulfide‐Based.pdf",
             year:"2021",
         },
-        
         {
-            imagesrc:"artical_img/1-s2.0-S2211285520305929-gr2.jpg",
-            titles:"Interface-assisted in-situ growth of halide electrolytes eliminating interfacial challenges of all-inorganic solid-state batteries",
-            abstract:"All-inorganic solid-state batteries (AISSBs) have received considerable attention due to their excellent safety and high energy density. However, large interfacial challenges between oxide cathodes and inorganic solid electrolytes dramatically hinder AISSB development...",
+            imagesrc:"artical_img/sciadv.abh1896-f3.jpg",
+            titles:"A Universal Wet-Chemistry Synthesis of Solid-State Halide Electrolytes for High-Performance All-Solid-State Lithium Metal Batteries",
+            abstract:`Solid-state halide electrolytes have gained revived research interests owing to their high
+            ionic conductivity and high-voltage stability. However, synthesizing halide electrolytes from a
+            liquid phase is extremely challenging because of the vulnerability of metal halides to
+            hydrolysis. In this work, ammonium-assisted,...`,
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`<b>C. Wang†</b>, J. Liang†, M. Jiang, X. Li, S. Mukherjee, K. Adair, M. Zheng, Y. Zhao, F. Zhao, S. Zhang, R. Li, H. Huang, S. Zhao, L. Zhang, S. Lu, C. Singh*, X. Sun*,
-            <b>Nano Energy</b>, 2020`],
-            publink:"https://doi.org/10.1016/j.nanoen.2020.105015",
-            PDFdir:"data/firstauthor/Interface-assisted in-situ growth of halide electrolytes eliminating.pdf",
-            year:"2020",
+            totalAuthor:[`<b>C. Wang†</b>, J. Liang†, J. Luo, J. Liu, X. Li, F. Zhao, R. Li, H. Huang, S. Zhao, L. Zhang, J. Wang*, X. Sun*. <b>Science Advances</b>, (2021)`],
+            publink:"https://www.science.org/doi/full/10.1126/sciadv.abh1896",
+            PDFdir:"data/firstauthor/A universal wet-chemistry synthesis of solid-state.pdf",
+            year:"2021",
         },
+
         {
             imagesrc:"artical_img/1-s2.0-S2405829720301793-gr1.jpg",
             titles:"Single-Crystal Cathodes Enabling High-Performance All-Solid-State Lithium Batteries",
@@ -448,6 +443,20 @@ var recentPubs={
             PDFdir:"data/firstauthor/Single crystal cathodes enabling high-performance all-solid-state.pdf",
             year:"2020",
         },
+        
+        {
+            imagesrc:"artical_img/1-s2.0-S2211285520305929-gr2.jpg",
+            titles:"Interface-assisted in-situ growth of halide electrolytes eliminating interfacial challenges of all-inorganic solid-state batteries",
+            abstract:"All-inorganic solid-state batteries (AISSBs) have received considerable attention due to their excellent safety and high energy density. However, large interfacial challenges between oxide cathodes and inorganic solid electrolytes dramatically hinder AISSB development...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`<b>C. Wang†</b>, J. Liang†, M. Jiang, X. Li, S. Mukherjee, K. Adair, M. Zheng, Y. Zhao, F. Zhao, S. Zhang, R. Li, H. Huang, S. Zhao, L. Zhang, S. Lu, C. Singh*, X. Sun*,
+            <b>Nano Energy</b>, 2020`],
+            publink:"https://doi.org/10.1016/j.nanoen.2020.105015",
+            PDFdir:"data/firstauthor/Interface-assisted in-situ growth of halide electrolytes eliminating.pdf",
+            year:"2020",
+        },
+        
         {
             imagesrc:"artical_img/1-s2.0-S2211285520302433-fx1.jpg",
             titles:"Unveiling the Critical Role of Interfacial Ionic Conductivity in All-Solid-State Lithium Batteries",
@@ -569,7 +578,8 @@ var recentPubs={
             publink:"https://doi.org/10.1021/nl504963e",
             PDFdir:"data/firstauthor/lu-et-al-2015-monodispersed-sulfur-nanoparticles-for-lithium-sulfur-batteries-with-theoretical-performance.pdf",
             year:"2015",
-        },{
+        },
+        {
             imagesrc:"artical_img/images_large_nl-2015-01837e_0008.jpeg",
             titles:"Rational Design of Cathode Structure of High-Rate Performance Lithium-Sulfur Batteries",
             abstract:"Practical applications of Li–S batteries require not only high specific capacities and long cycle lifetimes but also high rate performance. We report a rationally designed Li–S cathode, which consists of a freestanding composite thin film assembled...",

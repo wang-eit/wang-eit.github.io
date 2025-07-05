@@ -1,0 +1,31 @@
+NATURE 55
+ChemSusChem 7.7
+Nano Energy 16.9
+ADVANCED MATERIALS 28.9
+Advanced Functional Materials 19.4
+Carbon Neutralization 12
+Journal of the American Chemical Society 15.5
+Nature Communications 17.2
+Joule 38.6
+Energy & Enviromental Science 32.4
+Angewandte Chemie International Edition 16.1
+Advanced Energy Materials 24.4
+Matter 17.3
+Engineering 10.1
+Accounts of Materials Research 14.0
+Energy & Environmental Materials 13.0
+Science Advances 11.7
+ACS Energy Letters 19.0
+Energy Storage Materials 18.9
+Small Methods 10.7
+Small 13.0
+Scientific Reports 4.38
+Journal of Material Chemistry A 10.7
+Nano Letters 9.6
+Chemical Communications 4.3
+
+
+
+
+
+
