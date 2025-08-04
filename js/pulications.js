@@ -20,6 +20,17 @@ var recentPubs={
             PDFdir:"#",
             year:"2025",
         },
+        {
+            imagesrc:"artical_img/nature-chem-20250804.png",
+            titles:"Solid solvation structure design improves all-solid-state organic batteries",
+            abstract:"Organic electrode materials offer a versatile, sustainable approach for next-generation lithium-ion batteries but are limited by low working voltages and poor cycling stability. Here we report a solid-solvation-structure design strategy to improve both the voltage and stability of organic electrode ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`Y. Hu†, H. Su†, J. Fu†, J. Luo, Q. Yu, F. Zhao, W. Li, S. Deng, Y. Liu, Y. Yuan, Y. Gan, Y. Wang, J. T. Kim, N. Chen, M. Shakouri, X. Hao, Y. Gao, T. Pang, N. Zhang, M. Jiang, X. Li, Y. Zhao, J. Tu, <b>C. Wang*</b>, X. Sun*, <b>Nature Chemistry</b> 2025 `],
+            publink:"https://doi.org/10.1038/s41557-025-01866-0",
+            PDFdir:"data/firstauthor/Hu et al_2025_Solid solvation structure design improves all-solid-state organic batteries.pdf",
+            year:"2025",
+        },
         
         {
             imagesrc:"artical_img/1-s2.0-S2211285525004033-gr1_lrg.jpg",
