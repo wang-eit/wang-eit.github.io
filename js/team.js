@@ -106,6 +106,16 @@ var allStudentData={
             eduBj_2:"B.S.: Jilin University (2013-2017)",
             selfEmail:"weimf19@mails.jlu.edu.cn"
         },
+        {
+            imageSrc:"img/Team/sangjunwu.jpg",
+            imageWithHigh:[190,240],
+            studentName:"Junwu Sang",
+            Supervisor:"Supervisor: Prof. Changhong Wang",
+            // CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
+            eduBj_1:"Ph.D.: ZZU (2021-2025)",
+            eduBj_2:"M.S.: ZZU (2021-2025)",
+            selfEmail:"jwsang@eitech.edu.cn"
+        },
     ],
 
     PhDs:[

@@ -1,6 +1,16 @@
 var recentNews={
     allnews: [
 
+
+        { 
+            title:"⇰Congratulations:  科技日报专题报到：《我是科研助理丨夏圣杰：全固态电池制造的“工艺实践者”》",
+            time:"Posted on August. 06, 2025.",
+            desc:"夏圣杰所在的实验室致力于新型固态电解质材料的开发，以及基于此的全固态软包电芯设计与集成工艺。“从配方探索、工艺参数调试到性能验证，我负责具体实验操作、数据收集与分析，确保干法电极工艺路线的可行性与优化方向，是团队攻关全固态电池制造不可或缺的“工艺实践者”和“一线反馈者”。”夏圣杰说",
+            imagesrc:"news_img/xiashengjie-caifang.png",
+            imag_height:"350px",
+            imag_width:"600px",
+        },
+
         { 
             title:"⇰Congratulations:  Dr. Lu Pushun for being selected as the 2024 Young Talent Lift Project. (青年人才托举工程).",
             time:"Posted on December. 26, 2024.",
