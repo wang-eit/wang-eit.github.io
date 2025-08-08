@@ -110,10 +110,10 @@ var allStudentData={
             imageSrc:"img/Team/sangjunwu.jpg",
             imageWithHigh:[190,240],
             studentName:"Junwu Sang",
-            Supervisor:"Supervisor: Prof. Changhong Wang",
-            // CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
+            Supervisor:"Supervisor: Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
             eduBj_1:"Ph.D.: ZZU (2021-2025)",
-            eduBj_2:"M.S.: ZZU (2021-2025)",
+            eduBj_2:"M.S.: ZZU (2018-2021)",
             selfEmail:"jwsang@eitech.edu.cn"
         },
     ],
