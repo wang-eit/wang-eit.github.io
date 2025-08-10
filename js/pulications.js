@@ -16,8 +16,8 @@ var recentPubs={
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`J. Fu†, <b>C. Wang†</b>, S. Wang†, J. Reid, J. Liang, J. Luo, J. Kim, Y. Zhao, X. Yang, F. Zhao, W. Li, B. Fu, X. Lin, Y. Hu, H. Su, X. Hao, Y. Gao, S. Zhang, Z. Wang, J. Liu, H. Abdolvand, T. Sham*, Y. Mo*, X. Sun*, <b>Nature</b> 2025 `],
-            publink:"#",
-            PDFdir:"#",
+            publink:"https://doi.org/10.1038/s41586-025-09153-1",
+            PDFdir:"data/firstauthor/Fu 等 - 2025 - A cost-effective all-in-one halide material for al.pdf",
             year:"2025",
         },
         {
@@ -29,6 +29,17 @@ var recentPubs={
             totalAuthor:[`Y. Hu†, H. Su†, J. Fu†, J. Luo, Q. Yu, F. Zhao, W. Li, S. Deng, Y. Liu, Y. Yuan, Y. Gan, Y. Wang, J. T. Kim, N. Chen, M. Shakouri, X. Hao, Y. Gao, T. Pang, N. Zhang, M. Jiang, X. Li, Y. Zhao, J. Tu, <b>C. Wang*</b>, X. Sun*, <b>Nature Chemistry</b> 2025 `],
             publink:"https://doi.org/10.1038/s41557-025-01866-0",
             PDFdir:"data/firstauthor/Hu et al_2025_Solid solvation structure design improves all-solid-state organic batteries.pdf",
+            year:"2025",
+        },
+        {
+            imagesrc:"artical_img/aenm70074-fig-0001-m.jpg",
+            titles:"Silicon-Germanium Solid Solutions with Balanced Ionic/Electronic Conductivity for High-Rate All-Solid-State Batteries",
+            abstract:"Silicon (Si) is a promising anode for all-solid-state batteries (ASSBs) due to its high capacity, but it suffers from low initial Coulombic efficiency (ICE) and poor rate performance. Here, a series of Si–Ge solid solution anodes is synthesized via high-energy ball milling. Incorporating isomorphous Ge, ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`Y. Li†, S. Xia, G. Hu, H. Li, Y. Qian, H. Zhou,  <b>C. Wang*</b>, N. Lin*, <b>Advanced Energy Materials</b> 2025 `],
+            publink:"https://doi.org/10.1002/aenm.202503265",
+            PDFdir:"data/firstauthor/Li et al_Silicon-Germanium Solid Solutions with Balanced Ionic-Electronic Conductivity.pdf",
             year:"2025",
         },
         
