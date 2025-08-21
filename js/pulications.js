@@ -667,6 +667,25 @@ var recentPubs={
         //     "imagesrc": "",
         //     "year":"2025",
         // },
+        
+        {
+            "titles": "Heterostructure-Driven D-Band of MoS2 Engineering Catalytic Polysulfide Conversion in Lithium–Sulfur Batteries",
+            "totalAuthor": `R. Duan, G. Cao, J. Li, Q. Jiang, C. Hou, H. Yang, J. Wang, W. Li, <b>C. Wang</b>, K. Zhang*, X. Sun*, X. Li*, <b>Advanced Functional Materials</b> 2025`,
+            "publink": " https://doi.org/10.1002/adfm.202512936",
+            "abstract": "",
+            "PDFdir":"",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2025",
+        },
+
 
         {
             "titles": "Highly Stabilized Ni-Rich Cathodes Enabled by Artificially Reversing Naturally-Formed Interface",
