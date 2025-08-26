@@ -42,6 +42,17 @@ var recentPubs={
             PDFdir:"data/firstauthor/Li et al_Silicon-Germanium Solid Solutions with Balanced Ionic-Electronic Conductivity.pdf",
             year:"2025",
         },
+        {
+            imagesrc:"artical_img/wechat_2025-08-26_132920_953.png",
+            titles:"A Universal Solid Reaction Enabling Nanosized Li2S in an Amorphous Matrix for All-Solid-State Li-S Batteries",
+            abstract:"Lithium sulfide (Li2S), a key cathode material for all-solid-state lithium-sulfur (Li-S) batteries, faces challenges such as low electronic and ionic conductivities and limited active material utilization during cycling. In this study, we develop a new cathode featuring nano-sized Li2S embedded in an amorphous LiFeS2 matrix ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`X. Hao†, Z. Dong†, Jia. Ma†, W. Li†, J. Fu, X. Yao, X. Lin, F. Zhao, Y. Sun, Y. Hu, Y. Gao, <b>C. Wang*</b>, X. Sun,*, <b>Journal of the American Chemical Society</b> 2025 `],
+            publink:"",
+            PDFdir:"",
+            year:"2025",
+        },
         
         {
             imagesrc:"artical_img/1-s2.0-S2211285525004033-gr1_lrg.jpg",
