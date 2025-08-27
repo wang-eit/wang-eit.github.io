@@ -678,6 +678,23 @@ var recentPubs={
         //     "imagesrc": "",
         //     "year":"2025",
         // },
+        {
+            "titles": "Enhancing Ion Transport at Primary Interparticle Boundaries of Polycrystalline Lithium-Rich Oxide in All-Solid-State Batteries",
+            "totalAuthor": `L. Yuan, W. Peng, Z. Zhan, J. Wang, Y. Feng, Y. Yan, R. Yu, <b>C. Wang</b>, Z. Wang, H. Guo, G. Yan, G. Li, H. Duan*, J. Wang*, X. Sun*, <b>Angewandte Chemie International Edition</b>. 2025`,
+            "publink": "https://doi.org/10.1002/anie.202508605",
+            "abstract": "",
+            "PDFdir":"",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2025",
+        },
         
         {
             "titles": "Heterostructure-Driven D-Band of MoS2 Engineering Catalytic Polysulfide Conversion in Lithium–Sulfur Batteries",
