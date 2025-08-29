@@ -89,6 +89,17 @@ var recentPubs={
             year:"2025",
         },
         {
+            imagesrc:"artical_img/wechat_2025-08-29_095029_890.png",
+            titles:"Recent Development on Oxyhalide Electrolytes for All-Solid-State Batteries",
+            abstract:"The advancement of the global new energy revolution has placed stringent demands on energy storage technologies, emphasizing the need for high-energy-density and high-power electrochemical devices to enable the grid-scale and public infrastructure energy storage. All-solid-state batteries (ASSBs) exploiting solid ionic conductors...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`K. Tuo, P. Lu, Z. Zhou, S. Liang, J. Zhang, G. Hu, C. Wang, T. Liu, Y. Sun, <b>C. Wang*</b>, R. Yu*, <b>Journal Of The Chinese Ceramic Society</b> 2025  <b> (Invited)</b> `],
+            publink:"https://doi.org/10.14062/j.issn.0454-5648.20240844",
+            PDFdir:"#",
+            year:"2025",
+        },
+        {
             imagesrc:"artical_img/NCE-0627.jpg",
             titles:"All-solid-state lithium–sulfur batteries through a reaction engineering lens",
             abstract:"All-solid-state lithium–sulfur (Li–S) batteries have emerged as a promising energy storage solution due to their potential high energy density, cost effectiveness and safe operation. Gaining a deeper understanding of sulfur redox in the solid state is critical for advancing all-solid-state Li–S battery technology...",
