@@ -272,6 +272,16 @@ var allStudentData={
             eduBj_1:"M.S.: NBU (2015-2018)",
             eduBj_2:"B.S.: WZU (2011-2015)",
             selfEmail:"yingchen@eitech.edu.cn"
+        },
+        {
+            imageSrc:"img/Team/jiangshanshan.jpg",
+            imageWithHigh:[170,240],
+            studentName:"Shanshan Jiang",
+            Supervisor:"Supervisor：Prof. Xueliang Sun",
+            CoSupervisor:"行政助理",
+            eduBj_1:"M.S.: ZZU (2018-2022)",
+            eduBj_2:"B.S.: QFNU (2014-2018)",
+            selfEmail:"ssjiang@eitech.edu.cn"
         }
       
     ]

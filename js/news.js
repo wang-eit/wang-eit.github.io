@@ -1,6 +1,15 @@
 var recentNews={
     allnews: [
 
+        { 
+            title:"⇰Group photo-2025 ",
+            time:"Posted on Sep. 01, 2025.",
+            desc:"",
+            imagesrc:"news_img/zutu.jpg",
+            imag_height:"350px",
+            imag_width:"600px",
+        },
+
 
         { 
             title:"⇰Congratulations:  科技日报专题报到：《我是科研助理丨夏圣杰：全固态电池制造的“工艺实践者”》",

@@ -1,7 +1,7 @@
 #bilibili {
   padding-top: 50px;
   width: 1200px;
-  height: 500px;
+  height: 600px;
   position: relative;
   margin: 0 auto;
   text-align: center;
@@ -10,6 +10,21 @@
   position: relative;
   padding: 10px;
   color: darkorange;
+}
+#bilibili h1 {
+  padding-top: 30px;
+  position: relative;
+}
+#bilibili ul {
+  text-align: match-parent;
+  list-style-type: decimal;
+  position: relative;
+  list-style-position: inside;
+}
+#bilibili ul li {
+  background: #fff;
+  color: #333;
+  transition: 0.2s;
 }
 #bilibili iframe {
   position: relative;
