@@ -248,7 +248,7 @@ var allStudentData={
             imageWithHigh:[190,240],
             studentName:"Yu Zheng",
             Supervisor:"Supervisor：Prof. Changhong Wang",
-            CoSupervisor:"",
+            CoSupervisor:"Engineer",
             eduBj_1:"M.E.: ZAFU (2019-2022)",
             eduBj_2:"B.E.: ZAFU (2015-2019)",
             selfEmail:"yzheng@eitech.edu.cn"
@@ -282,6 +282,16 @@ var allStudentData={
             eduBj_1:"M.S.: ZZU (2018-2022)",
             eduBj_2:"B.S.: QFNU (2014-2018)",
             selfEmail:"ssjiang@eitech.edu.cn"
+        },
+        {
+            imageSrc:"img/Team/linxi.jpg",
+            imageWithHigh:[170,240],
+            studentName:"Xi Lin",
+            Supervisor:"Supervisor：Prof. Changhong Wang",
+            CoSupervisor:"Engineer",
+            eduBj_1:"M.S.: ZJOU (2018-2022)",
+            eduBj_2:"",
+            selfEmail:"xlin@eitech.edu.cn"
         }
       
     ]
