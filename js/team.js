@@ -62,7 +62,7 @@ var allStudentData={
             CoSupervisor:"",
             eduBj_1:"Ph.D.: TUM (2019-2024)",
             eduBj_2:"M.S.: CNITECH-CAS (2015-2018)",
-            selfEmail:"liangsuzhe19@gmail.com"
+            selfEmail:"szliang@eitech.edu.cn"
         },
         {
             imageSrc:"img/Team/TuoKaiyong.jpg",
@@ -84,7 +84,7 @@ var allStudentData={
             CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
             eduBj_1:"Ph.D.: USTB (2020-2024)",
             eduBj_2:"M.D.: USTB (2017-2019)",
-            selfEmail:"arlen_w@163.com"
+            selfEmail:"wangchao1@eitech.edu.cn"
         },
            {
             imageSrc:"img/Team/liutingting.jpg",
@@ -94,7 +94,7 @@ var allStudentData={
             CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
             eduBj_1:"Ph.D.: TJU (2020-2024)",
             eduBj_2:"M.S.:NBU（2017-2020）",
-            selfEmail:"liutingting@tongji.edu.cn"
+            selfEmail:" ttliu@eitech.edu.cn"
         },
         {
             imageSrc:"img/Team/weimingfeng.jpg",
@@ -104,7 +104,7 @@ var allStudentData={
             // CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
             eduBj_1:"Ph.D.: Jilin University (2017-2024)",
             eduBj_2:"B.S.: Jilin University (2013-2017)",
-            selfEmail:"weimf19@mails.jlu.edu.cn"
+            selfEmail:"mfwei@eitech.edu.cn"
         },
         {
             imageSrc:"img/Team/sangjunwu.jpg",
@@ -127,7 +127,7 @@ var allStudentData={
             CoSupervisor:"",
             eduBj_1:"M.S.: USTC (2019-2022)",
             eduBj_2:"B.S.: Hefei University (2015-2019)",
-            selfEmail:"sjxia@eitech.edu.cn"
+            selfEmail:"sxia@eitech.edu.cn"
         },
         {
             imageSrc:"img/Team/chenqian.jpg",
@@ -278,7 +278,7 @@ var allStudentData={
             imageWithHigh:[170,240],
             studentName:"Shanshan Jiang",
             Supervisor:"Supervisor：Prof. Xueliang Sun",
-            CoSupervisor:"行政助理",
+            CoSupervisor:"",
             eduBj_1:"M.S.: ZZU (2018-2022)",
             eduBj_2:"B.S.: QFNU (2014-2018)",
             selfEmail:"ssjiang@eitech.edu.cn"
