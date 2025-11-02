@@ -24,26 +24,7 @@ var allStudentData={
     ],
 
     posPhD:[
-        {
-            imageSrc:"img/Team/lupushun.jpg",
-            imageWithHigh:[190,240],
-            studentName:"Pushun Lu",
-            Supervisor:"Supervisor：Prof. Xueliang Sun",
-            CoSupervisor:"Co-Supervisor： Prof. Changhong Wang",
-            eduBj_1:"Ph.D.: CAS (2018-2023)",
-            eduBj_2:"B.S.: Xiamen University (2014-2018)",
-            selfEmail:"plu@eitech.edu.cn"
-        },
-        {
-            imageSrc:"img/Team/zhangjiaxu.jpg",
-            imageWithHigh:[190,240],
-            studentName:"Jiaxu Zhang",
-            Supervisor:"Supervisor：Prof. Xueliang Sun",
-            CoSupervisor:"Co-Supervisor： Prof. Changhong Wang",
-            eduBj_1:"Ph.D.: WHUT (2018-2023)",
-            eduBj_2:"B.S.: WHUT (2014-2018)",
-            selfEmail:"jxzhang@eitech.edu.cn"
-        },
+        
         {
             imageSrc:"img/Team/huguantai.jpg",
             imageWithHigh:[190,240],
@@ -219,6 +200,16 @@ var allStudentData={
             eduBj_2:"B.S.: SCAU (2019-2023)",
             selfEmail:"fnshen@eitech.edu.cn"
         },
+        {
+            imageSrc:"img/Team/yyy.jpg",
+            imageWithHigh:[180,240],
+            studentName:"Yingyi Yuan",
+            SSupervisor:"Supervisor: Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
+            eduBj_1:"M.S.: SCUT(2022-2025)",
+            eduBj_2:"B.S.: SCUT(2018-2022)",
+            selfEmail:"yyyuan@eitech.edu.cn"
+        },
     ],
 
     RAs:[
@@ -294,7 +285,30 @@ var allStudentData={
             selfEmail:"xlin@eitech.edu.cn"
         }
       
+    ],
+    Alum:[
+
+        {
+            imageSrc:"img/Team/lupushun.jpg",
+            imageWithHigh:[190,240],
+            studentName:"Pushun Lu",
+            Institution:"Institution: Xiamen University",
+            Position:"Position: Associate professor",
+            selfEmail:"18805928086@163.com"
+        },
+        {
+            imageSrc:"img/Team/zhangjiaxu.jpg",
+            imageWithHigh:[190,240],
+            studentName:"Jiaxu Zhang",
+            Institution:"Institution: UCSD",
+            Position:"Position: Postdoctor",
+            selfEmail:"jxzhang@eitech.edu.cn"
+        },
+       
     ]
+
+
+
 }      
 
 window.onload = function (){
@@ -423,6 +437,7 @@ window.onload = function (){
             // console.log(pNode)
             PhDDiv.append(divNode_line)
         }
+
         var RADiv = document.querySelector('.assistent_bj');
         var RAsStu = allStudentData.RAs;
         // RA 
@@ -457,6 +472,42 @@ window.onload = function (){
             // console.log(pNode)
             RADiv.append(divNode_line)
         }
+
+        var AlumiDiv = document.querySelector('.alumin_bj');
+        var AluminStu = allStudentData.Alum;
+        // RA 
+        for (let j = 0; j < AluminStu.length; j++) {
+
+            let divNode_line = document.createElement('div');
+
+            divNode_line.className = "phd_researcher";
+            let imgNode = document.createElement('img');
+            let aNode = document.createElement('a');
+            imgNode.src=AluminStu[j].imageSrc;
+            imgNode.width=AluminStu[j].imageWithHigh[0];
+            imgNode.height=AluminStu[j].imageWithHigh[1];
+            let pNode = document.createElement('p');
+            
+            pNode.append(AluminStu[j].studentName);
+            let brNode = document.createElement('br');
+            pNode.appendChild(brNode);
+            pNode.append(AluminStu[j].Institution,document.createElement('br'));
+            
+            if (AluminStu[j].Position&& AluminStu[j].Position.trim().length > 0){
+                pNode.append(AluminStu[j].Position,document.createElement('br'));
+            }
+            
+            // pNode.append(AluminStu[j].eduBj_1,document.createElement('br'));
+            // pNode.append(AluminStu[j].eduBj_2,document.createElement('br'));
+            aNode.href="mailto:"+AluminStu[j].selfEmail;
+            aNode.append(AluminStu[j].selfEmail);
+
+            pNode.append(aNode,document.createElement('br'));
+            divNode_line.append(imgNode,pNode)
+            // console.log(pNode)
+            AlumiDiv.append(divNode_line)
+}
+
         
 
 }
