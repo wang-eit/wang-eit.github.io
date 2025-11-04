@@ -97,6 +97,16 @@ var allStudentData={
             eduBj_2:"M.S.: ZZU (2018-2021)",
             selfEmail:"jwsang@eitech.edu.cn"
         },
+        {
+            imageSrc:"img/Team/zhanghongqiang.jpg",
+            imageWithHigh:[175,240],
+            studentName:"Hongqiang Zhang",
+            Supervisor:"Supervisor: Prof. Changhong Wang",
+            CoSupervisor:"",
+            eduBj_1:"Ph.D.: ZZU (2020-2025)",
+            eduBj_2:"M.S.: ZZU (2017-2019)",
+            selfEmail:"hqzhang@eitech.edu.cn"
+        },
     ],
 
     PhDs:[
