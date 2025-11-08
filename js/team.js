@@ -103,8 +103,8 @@ var allStudentData={
             studentName:"Hongqiang Zhang",
             Supervisor:"Supervisor: Prof. Changhong Wang",
             CoSupervisor:"",
-            eduBj_1:"Ph.D.: ZZU (2020-2025)",
-            eduBj_2:"M.S.: ZZU (2017-2019)",
+            eduBj_1:"Ph.D.: HIT (2020-2025)",
+            eduBj_2:"M.S.: HIT (2017-2019)",
             selfEmail:"hqzhang@eitech.edu.cn"
         },
     ],
