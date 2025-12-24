@@ -1875,6 +1875,66 @@ var recentPubs={
     ],
 
     patents: [
+        {
+            "titles": "王长虹,孙学良,桑君武,刘泊瑞,蒋山山，一种高活性物质比碲正极及其制备方法和全固态电池，2025，",
+            "totalAuthor": "申请号：2025118573928；",
+            "publink": "javascript:;",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": ""
+        },
+        {
+            "titles": "王长虹,孙学良,夏圣杰，一种基于堆叠组装的全固态电池及其电芯分选方法，2025，",
+            "totalAuthor": "申请号：；",
+            "publink": "javascript:;",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": ""
+        },
+        {
+            "titles": "王长虹,孙学良,朱蒙飞,夏圣杰，一种硫化物固态电解质及其声共振合成方法和全固态电池，2025，",
+            "totalAuthor": "申请号：202511730585.7；",
+            "publink": "javascript:;",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": ""
+        },
+        {
+            "titles": "王长虹,孙学良,卢普顺，一种固态电池复合正极及其制备方法，2025，",
+            "totalAuthor": "申请号：2025106505667；",
+            "publink": "javascript:;",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": ""
+        },
 
        
         {
