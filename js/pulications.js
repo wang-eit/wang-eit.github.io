@@ -8,6 +8,17 @@ var recentPubs={
         //     "imagesrc": "",
         //     "year":"2023",
         // },
+        {
+            imagesrc:"artical_img/aenm70612-fig-0006-m.jpg",
+            titles:"State-of-Charge Dependent Aging Mechanism of Halide-Based Composite Cathodes for All-Solid-State Batteries",
+            abstract:"Halide-based solid-state electrolytes (SSEs), such as Li3InCl6 (LIC), are promising catholytes for all-solid-state batteries (ASSBs) because of their high ionic conductivity and high-voltage stability. However, the aging mechanism between halide SSEs and Ni-rich cathodes (LiNixCoyMn1−x−yO2, NCM) remain poorly...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`S. Liang, P. Lu, H. Hu, J. Fu, J. Zhang, G. Hu, K. Tuo, T. Liu, C. Wang, Z. Wang, Z. Zhou, Y. Sun, C. Liu, X. Zhai, X. Bie, H. Sun, D. Wang*, X. Sun*, <b>C. Wang*</b>, <b>Nature</b> 2025 `],
+            publink:"https://doi.org/10.1002/aenm.202505745",
+            PDFdir:"data/firstauthor/Liang 等 - State-of-charge dependent aging mechanism of halide-based composite cathodes for all-solid-state bat.pdf",
+            year:"2026",
+        },
         
         {
             imagesrc:"artical_img/nature250516.jpg",
@@ -2189,10 +2200,10 @@ window.onload = function (){
         var allActicals = recentPubs.allarticals;
         // 获取数据
         var pantents = recentPubs.patents;
-        let years = ["2025","2024","2023","2022","2021","2020","2019","2018","2017","2016","2015","2014","2013"];
+        let years = ["2026","2025","2024","2023","2022","2021","2020","2019","2018","2017","2016","2015","2014","2013"];
         let m = 0;
-        var rect_year= "2026";
-        var rect_next_year = "2025";
+        var rect_year= "2027";
+        var rect_next_year = "2026";
 
         for (let j = 0; j < recActicals.length; j++) {
 
