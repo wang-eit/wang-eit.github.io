@@ -14,7 +14,7 @@ var recentPubs={
             abstract:"Halide-based solid-state electrolytes (SSEs), such as Li3InCl6 (LIC), are promising catholytes for all-solid-state batteries (ASSBs) because of their high ionic conductivity and high-voltage stability. However, the aging mechanism between halide SSEs and Ni-rich cathodes (LiNixCoyMn1−x−yO2, NCM) remain poorly...",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`S. Liang, P. Lu, H. Hu, J. Fu, J. Zhang, G. Hu, K. Tuo, T. Liu, C. Wang, Z. Wang, Z. Zhou, Y. Sun, C. Liu, X. Zhai, X. Bie, H. Sun, D. Wang*, X. Sun*, <b>C. Wang*</b>, <b>Nature</b> 2025 `],
+            totalAuthor:[`S. Liang, P. Lu, H. Hu, J. Fu, J. Zhang, G. Hu, K. Tuo, T. Liu, C. Wang, Z. Wang, Z. Zhou, Y. Sun, C. Liu, X. Zhai, X. Bie, H. Sun, D. Wang*, X. Sun*, <b>C. Wang*</b>, <b>Advanced Energy Materials</b> 2026 `],
             publink:"https://doi.org/10.1002/aenm.202505745",
             PDFdir:"data/firstauthor/Liang 等 - State-of-charge dependent aging mechanism of halide-based composite cathodes for all-solid-state bat.pdf",
             year:"2026",
