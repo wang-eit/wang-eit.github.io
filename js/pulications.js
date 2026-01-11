@@ -48,8 +48,8 @@ var recentPubs={
             abstract:"Argyrodite‑type sulfide solid electrolytes are promising candidates for all‑solid‑state lithium‑metal batteries due to their high Li‑ion conductivity and favorable mechanical compliance. Nevertheless, their inherent chemical reactivity toward Li metal induces continuous interfacial degradation ...",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`Y. Liu, J. Fu*, M. Geng, D. Wang, S. Xia, Z. Yu,Y. Wang，P. Lu，F. Zeng, J, Shi, <b>C. Wang*</b>, X. Sun*, B. Zhang*, <b>Advanced Materials</b> 2025 `],
-            publink:"",
+            totalAuthor:[`Y. Liu, J. Fu, M. Geng, D. Wang, S. Xia, Z. Yu,Y. Wang，P. Lu，F. Zeng, J, Shi, <b>C. Wang*</b>, X. Sun*, B. Zhang*, <b>Advanced Materials</b> 2025 `],
+            publink:"https://doi.org/10.1002/adma.202515756",
             PDFdir:"data/firstauthor/Manuscript.pdf",
             year:"2025",
         },
@@ -723,6 +723,23 @@ var recentPubs={
         //     "imagesrc": "",
         //     "year":"2025",
         // },
+        {
+            "titles": "Modulating redox mechanism in metal chalcogenides by precisely controlling phase transition to achieve ultrafast and ultra-stable sodium-ion batteries",
+            "totalAuthor": `Y. Xie, J. Yu, Y. Fan, G. Yang, F. Lai, X. Zhang, Y. Wang, J. Wang, W. Li, <b>C. Wang</b>, Z. Cheng, H. Wang*, X. Fan*, J. Peng*, <b>Carbon Energy</b>. 2026`,
+            "publink": "https://doi.org/10.1002/cey2.70135",
+            "abstract": "",
+            "PDFdir":"",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2026",
+        },
         {
             "titles": "Enhancing Ion Transport at Primary Interparticle Boundaries of Polycrystalline Lithium-Rich Oxide in All-Solid-State Batteries",
             "totalAuthor": `L. Yuan, W. Peng, Z. Zhan, J. Wang, Y. Feng, Y. Yan, R. Yu, <b>C. Wang</b>, Z. Wang, H. Guo, G. Yan, G. Li, H. Duan*, J. Wang*, X. Sun*, <b>Angewandte Chemie International Edition</b>. 2025`,
@@ -2259,8 +2276,8 @@ window.onload = function (){
 
         }
 
-        rect_year= "2026";
-        rect_next_year = "2025";
+        rect_year= "2027";
+        rect_next_year = "2026";
 
         for (let k = 0; k < allActicals.length; k++) {
             if (allActicals[k].year!=rect_year & allActicals[k].year==rect_next_year){
