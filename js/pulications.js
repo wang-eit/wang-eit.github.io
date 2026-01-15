@@ -9,6 +9,17 @@ var recentPubs={
         //     "year":"2023",
         // },
         {
+            imagesrc:"artical_img/anie70940-fig-0001-m.jpg",
+            titles:"Atomic Level Fabrication of Oxychloride Interface for High-Rate and High-Voltage Lithium-Ion Batteries",
+            abstract:"In recent years, oxychloride-based materials have emerged as a promising solid-state electrolyte (SSE) candidate owing to its ultrahigh ionic conductivity and decent cathode compatibility. Although the fabrication of SSE coatings for cathode materials has been recognized as a promising strategy, a precise...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`Y. Sun†, J. Ma†, X. Yao, H. Ren, W. Zhang, L. Feng, H. Hu, X. Lin, Y. Gao, Y. Guan, <b>C. Wang*</b>, X. Sun*, <b>Angewandte Chemie International Edition</b> 2026 `],
+            publink:"https://doi.org/10.1002/aenm.202505745",
+            PDFdir:"data/firstauthor/Sun 等 - 2026 - Atomic Level Fabrication of Oxychloride Interface for High-Rate and High-Voltage Lithium-Ion Batteri.pdf",
+            year:"2026",
+        },
+        {
             imagesrc:"artical_img/aenm70612-fig-0006-m.jpg",
             titles:"State-of-Charge Dependent Aging Mechanism of Halide-Based Composite Cathodes for All-Solid-State Batteries",
             abstract:"Halide-based solid-state electrolytes (SSEs), such as Li3InCl6 (LIC), are promising catholytes for all-solid-state batteries (ASSBs) because of their high ionic conductivity and high-voltage stability. However, the aging mechanism between halide SSEs and Ni-rich cathodes (LiNixCoyMn1−x−yO2, NCM) remain poorly...",
