@@ -735,6 +735,23 @@ var recentPubs={
         //     "year":"2025",
         // },
         {
+            "titles": "Three‐dimensional “Breathable” silicon anodes for durable all-solid-state lithium batteries",
+            "totalAuthor": `X. Zhu†, S. Xia†, H. Zheng†, Y. Shi, X. Zhang, K. Liu, Z. Zhou, Z. Zhai, Y. Fu, Q. Wei, <b>C. Wang</b>, W. Chen*, W. Yang*, R. Yu*, <b>Energy Storage Materials</b>. 2026`,
+            "publink": "https://doi.org/10.1016/j.ensm.2026.104939",
+            "abstract": "",
+            "PDFdir":"",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": "",
+            "year":"2026",
+        },
+        {
             "titles": "Modulating redox mechanism in metal chalcogenides by precisely controlling phase transition to achieve ultrafast and ultra-stable sodium-ion batteries",
             "totalAuthor": `Y. Xie, J. Yu, Y. Fan, G. Yang, F. Lai, X. Zhang, Y. Wang, J. Wang, W. Li, <b>C. Wang</b>, Z. Cheng, H. Wang*, X. Fan*, J. Peng*, <b>Carbon Energy</b>. 2026`,
             "publink": "https://doi.org/10.1002/cey2.70135",
