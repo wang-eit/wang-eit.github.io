@@ -9,6 +9,17 @@ var recentPubs={
         //     "year":"2023",
         // },
         {
+            imagesrc:"artical_img/Manuscript-Fig-4.png",
+            titles:"Embedding Fe-based Redox Chemistry into Low-Cost Oxyhalide Solid Electrolytes for High-Performance All-Solid-State Batteries",
+            abstract:"Halide solid electrolytes (SEs) with excellent ionic conductivity and wide electrochemical stability windows are promising for next-generation all-solid-state batteries (ASSBs). However, their intrinsic electrochemical inertness and high cost significantly constrain the attainable energy density and large-scale applicability of ASSBs....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`Z. Zhou†, P. Lu†, S. Liang, K. Tuo, J. Fu, S. Xia, Y. Chen, Z. Wu, J. Zhang, Z. Wang, S. Zhang, G. Hu, J. Hong, M. Zhu, C. Wang, T. Liu, M. Wei, W. Xia, L. Chen*, X. Sun*, <b>C. Wang*</b>, <b>Advanced Materials</b> 2026 `],
+            publink:"#",
+            PDFdir:"",
+            year:"2026",
+        },
+        {
             imagesrc:"artical_img/anie70940-fig-0001-m.jpg",
             titles:"Atomic Level Fabrication of Oxychloride Interface for High-Rate and High-Voltage Lithium-Ion Batteries",
             abstract:"In recent years, oxychloride-based materials have emerged as a promising solid-state electrolyte (SSE) candidate owing to its ultrahigh ionic conductivity and decent cathode compatibility. Although the fabrication of SSE coatings for cathode materials has been recognized as a promising strategy, a precise...",
@@ -1953,6 +1964,21 @@ var recentPubs={
     ],
 
     patents: [
+        {
+            "titles": "王长虹,孙学良,周志民，一种卤化物固态电解质及其非晶化制备方法和全固态电池，2026，",
+            "totalAuthor": "申请号：2026102014158；",
+            "publink": "javascript:;",
+            "abstract": "",
+            "equalContributions": [
+                "changhongwang",
+                "changhongwang"
+            ],
+            "correspondingAuthor": [
+                "xueliangsun",
+                "xueliangsun"
+            ],
+            "imagesrc": ""
+        },
         {
             "titles": "王长虹,孙学良,桑君武,刘泊瑞,蒋山山，一种高活性物质比碲正极及其制备方法和全固态电池，2025，",
             "totalAuthor": "申请号：2025118573928；",
