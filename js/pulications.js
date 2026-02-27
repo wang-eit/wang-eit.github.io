@@ -1964,21 +1964,21 @@ var recentPubs={
     ],
 
     patents: [
-        {
-            "titles": "王长虹,孙学良,周志民，一种卤化物固态电解质及其非晶化制备方法和全固态电池，2026，",
-            "totalAuthor": "申请号：2026102014158；",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
-        },
+        // {
+        //     "titles": "王长虹,孙学良,周志民，一种卤化物固态电解质及其非晶化制备方法和全固态电池，2026，",
+        //     "totalAuthor": "申请号：2026102014158；",
+        //     "publink": "javascript:;",
+        //     "abstract": "",
+        //     "equalContributions": [
+        //         "changhongwang",
+        //         "changhongwang"
+        //     ],
+        //     "correspondingAuthor": [
+        //         "xueliangsun",
+        //         "xueliangsun"
+        //     ],
+        //     "imagesrc": ""
+        // },
         {
             "titles": "王长虹,孙学良,桑君武,刘泊瑞,蒋山山，一种高活性物质比碲正极及其制备方法和全固态电池，2025，",
             "totalAuthor": "申请号：2025118573928；",
