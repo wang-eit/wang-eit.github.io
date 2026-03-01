@@ -20,6 +20,17 @@ var recentPubs={
             year:"2026",
         },
         {
+            imagesrc:"artical_img/NC20260301.jpg",
+            titles:"Unraveling the Foreign-Cation Effect in UCl₃-Type Halide Solid Electrolytes for Low-Temperature All-Solid-State Batteries",
+            abstract:"UCl₃-based halide solid electrolytes have garnered increasing interest for application in all-solid-state batteries, yet their structural characteristics, chemical composition, and ion transport mechanisms remain under debate. These uncertainties hamper their rational design and broader application. Taking PrCl3 as a model system, we present a comprehensive....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`P. Lu†, Z. Zhou†, S. Cao†, J. Fu, W. Li, K. Tuo, S. Liang, J. Hong, J. Lei, J. Zhang, Z. Wang, S. Zhang,  G. Hu, C. Wang, T. Liu, S. Weng, W. Xia, X. Wang, X. Sun*, <b>C. Wang*</b>, <b>Nature Communications</b> 2026 `],
+            publink:"#",
+            PDFdir:"",
+            year:"2026",
+        },
+        {
             imagesrc:"artical_img/anie70940-fig-0001-m.jpg",
             titles:"Atomic Level Fabrication of Oxychloride Interface for High-Rate and High-Voltage Lithium-Ion Batteries",
             abstract:"In recent years, oxychloride-based materials have emerged as a promising solid-state electrolyte (SSE) candidate owing to its ultrahigh ionic conductivity and decent cathode compatibility. Although the fabrication of SSE coatings for cathode materials has been recognized as a promising strategy, a precise...",
