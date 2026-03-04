@@ -16,7 +16,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`Z. Zhou†, P. Lu†, S. Liang, K. Tuo, J. Fu, S. Xia, Y. Chen, Z. Wu, J. Zhang, Z. Wang, S. Zhang, G. Hu, J. Hong, M. Zhu, C. Wang, T. Liu, M. Wei, W. Xia, L. Chen*, X. Sun*, <b>C. Wang*</b>, <b>Advanced Materials</b> 2026 `],
             publink:"#",
-            PDFdir:"",
+            PDFdir:"data/firstauthor/Advanced Materials - 2026 - Zhou.pdf",
             year:"2026",
         },
         {
