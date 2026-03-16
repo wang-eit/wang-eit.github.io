@@ -31,6 +31,17 @@ var recentPubs={
             year:"2026",
         },
         {
+            imagesrc:"artical_img/19880.jpg",
+            titles:"Alternating-sequence polymer chain facilitating Li+ transport in covalent organic frameworks",
+            abstract:"Covalent organic frameworks-based solid-state electrolytes have attracted significant attention in recent years due to their design flexibility, intrinsic porosity, and environmentally friendly characteristics. However, their practical application in batteries remains limited by inadequate ionic conductivity and Li+ transference number, primarily arising from the absence of effective strategies to....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`G. Zhao, M. Yang, Z. Zhang, S. Yu, H. Zhu, Y. Sun, <b>C. Wang*</b>, Y. Sun*, H. Guo*,  <b>Nature Communications</b> 2026 `],
+            publink:"#",
+            PDFdir:"",
+            year:"2026",
+        },
+        {
             imagesrc:"artical_img/anie70940-fig-0001-m.jpg",
             titles:"Atomic Level Fabrication of Oxychloride Interface for High-Rate and High-Voltage Lithium-Ion Batteries",
             abstract:"In recent years, oxychloride-based materials have emerged as a promising solid-state electrolyte (SSE) candidate owing to its ultrahigh ionic conductivity and decent cathode compatibility. Although the fabrication of SSE coatings for cathode materials has been recognized as a promising strategy, a precise...",
