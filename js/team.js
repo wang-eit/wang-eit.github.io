@@ -214,11 +214,21 @@ var allStudentData={
             imageSrc:"img/Team/yyy.jpg",
             imageWithHigh:[180,240],
             studentName:"Yingyi Yuan",
-            SSupervisor:"Supervisor: Prof. Xueliang Sun",
+            Supervisor:"Supervisor: Prof. Xueliang Sun",
             CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
             eduBj_1:"M.S.: SCUT(2022-2025)",
             eduBj_2:"B.S.: SCUT(2018-2022)",
             selfEmail:"yyyuan@eitech.edu.cn"
+        },
+        {
+            imageSrc:"img/Team/hehao.jpg",
+            imageWithHigh:[180,240],
+            studentName:"Hao He",
+            Supervisor:"Supervisor: Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
+            eduBj_1:"M. S.: SJTU (2022-2026)",
+            eduBj_2:"",
+            selfEmail:"hehao-hydro@sjtu.edu.cn"
         },
     ],
 
@@ -293,6 +303,16 @@ var allStudentData={
             eduBj_1:"M.S.: ZJOU (2018-2022)",
             eduBj_2:"",
             selfEmail:"xlin@eitech.edu.cn"
+        },
+        {
+            imageSrc:"img/Team/wuyueyue.jpg",
+            imageWithHigh:[190,240],
+            studentName:"Yueyue Wu",
+            Supervisor:"Supervisor：Prof. Changhong Wang",
+            CoSupervisor:"Engineer",
+            eduBj_1:"B.S.: AHPU(2020-2024)",
+            eduBj_2:"",
+            selfEmail:"yueyuewu@eitech.edu.cn"
         }
       
     ],
