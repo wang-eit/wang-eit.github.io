@@ -226,9 +226,38 @@ var allStudentData={
             studentName:"Hao He",
             Supervisor:"Supervisor: Prof. Xueliang Sun",
             CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
-            eduBj_1:"M. S.: SJTU (2022-2026)",
+            eduBj_1:"M.S.: SJTU (2022-2026)",
             eduBj_2:"",
             selfEmail:"hehao-hydro@sjtu.edu.cn"
+        },
+        {
+            imageSrc:"img/Team/luojixian.jpg",
+            imageWithHigh:[180,240],
+            studentName:"Jixian Luo",
+            Supervisor:"Supervisor: Prof. Changhong Wang",
+            CoSupervisor:"",
+            eduBj_1:"M.S.: USTC(2023-2025)",
+            eduBj_2:"B.S.:Northeastern University(2019-2023)",
+            selfEmail:"ljx19966560886@mail.ustc.edu.cn"
+        },{
+            imageSrc:"img/Team/xieluting.jpg",
+            imageWithHigh:[170,240],
+            studentName:"Luting Xie",
+            Supervisor:"Supervisor: Prof. Changhong Wang",
+            CoSupervisor:"",
+            eduBj_1:"M.S.:Huaqiao University (2020-2023)",
+            eduBj_2:"B.S.: Huaqiao University (2016-2020)",
+            selfEmail:"ltxie@eitech.edu.cn"
+        },
+        {
+            imageSrc:"img/Team/puyulai.jpg",
+            imageWithHigh:[160,240],
+            studentName:"Yulai Pu",
+            Supervisor:"Supervisor: Prof. Changhong Wang",
+            CoSupervisor:"",
+            eduBj_1:"M.S.: USTC(2021-2024)",
+            eduBj_2:"B.S.: Zhejiang University(2016-2020)",
+            selfEmail:"ylpu@eitech.edu.cn"
         },
     ],
 
