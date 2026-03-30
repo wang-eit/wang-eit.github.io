@@ -239,7 +239,18 @@ var allStudentData={
             eduBj_1:"M.S.: USTC(2023-2025)",
             eduBj_2:"B.S.:Northeastern University(2019-2023)",
             selfEmail:"ljx19966560886@mail.ustc.edu.cn"
-        },{
+        },
+        {
+            imageSrc:"img/Team/liuyankai.jpg",
+            imageWithHigh:[180,240],
+            studentName:"yuankai liu",
+            Supervisor:"Supervisor: Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
+            eduBj_1:"M.S.: NJU（2022-2025）",
+            eduBj_2:"B.S.: USTC（2018-2022）",
+            selfEmail:"2424619936@qq.com"
+        },
+        {
             imageSrc:"img/Team/xieluting.jpg",
             imageWithHigh:[170,240],
             studentName:"Luting Xie",
