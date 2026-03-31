@@ -1,5 +1,14 @@
 var recentNews={
     allnews: [
+        { 
+            title:"⇰Congratulations: 中国科学报：《全固态电池电导率有望提升 5.8 倍》，报到本组最新科研进展",
+            time:"Posted on Mar. 31, 2026.",
+            desc:"《中国科学报》: 本报讯（记者陈彬）宁波东方理工大学讲席教授孙学良院士、该校物质与能源研究院助理教授王长虹团队与合作者首次开发出一种低成本，具有高离子电导率、异步活性的氧卤化物固态电解质。近日，相关研究成果发表于《先进材料》...",
+            imagesrc:"news_img/page_1.png",
+            imag_height:"600px",
+            imag_width:"450px",
+        },
+
 
         { 
             title:"⇰Group photo-2025 ",
