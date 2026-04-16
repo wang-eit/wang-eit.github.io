@@ -9,6 +9,17 @@ var recentPubs={
         //     "year":"2023",
         // },
         {
+            imagesrc:"artical_img/ez20260416.png",
+            titles:"Thermal stability and safety challenges of all-solid-state batteries",
+            abstract:"All-solid-state batteries (ASSBs) are widely regarded as promising candidates for next-generation energy storage owing to their high energy density and intrinsic safety advantages. However, growing evidence indicates that ASSBs are not inherently safe. The thermal instability of key materials and interfaces can still trigger severe thermal hazards under abusive conditions....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`S. Liang, Y. Heng,<b>C. Wang*</b>, <b>Energy Z</b> 2026, <b>(invited)</b>`],
+            publink:"https://dx.doi.org/10.20517/energyz.2026.02",
+            PDFdir:"data/firstauthor/Liang 等 - 2026 - Thermal stability and safety challenges of all-solid-state batteries.pdf",
+            year:"2026",
+        },
+        {
             imagesrc:"artical_img/Manuscript-Fig-4.png",
             titles:"Embedding Fe-based Redox Chemistry into Low-Cost Oxyhalide Solid Electrolytes for High-Performance All-Solid-State Batteries",
             abstract:"Halide solid electrolytes (SEs) with excellent ionic conductivity and wide electrochemical stability windows are promising for next-generation all-solid-state batteries (ASSBs). However, their intrinsic electrochemical inertness and high cost significantly constrain the attainable energy density and large-scale applicability of ASSBs....",
