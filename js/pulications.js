@@ -8,17 +8,7 @@ var recentPubs={
         //     "imagesrc": "",
         //     "year":"2023",
         // },
-        {
-            imagesrc:"artical_img/ez20260416.png",
-            titles:"Thermal stability and safety challenges of all-solid-state batteries",
-            abstract:"All-solid-state batteries (ASSBs) are widely regarded as promising candidates for next-generation energy storage owing to their high energy density and intrinsic safety advantages. However, growing evidence indicates that ASSBs are not inherently safe. The thermal instability of key materials and interfaces can still trigger severe thermal hazards under abusive conditions....",
-            equalContributions:["changhongwang","changhongwang"],
-            correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`S. Liang, Y. Heng,<b>C. Wang*</b>, <b>Energy Z</b> 2026, <b>(invited)</b>`],
-            publink:"https://dx.doi.org/10.20517/energyz.2026.02",
-            PDFdir:"data/firstauthor/Liang 等 - 2026 - Thermal stability and safety challenges of all-solid-state batteries.pdf",
-            year:"2026",
-        },
+        
         {
             imagesrc:"artical_img/Manuscript-Fig-4.png",
             titles:"Embedding Fe-based Redox Chemistry into Low-Cost Oxyhalide Solid Electrolytes for High-Performance All-Solid-State Batteries",
@@ -94,6 +84,16 @@ var recentPubs={
             totalAuthor:[`J. Ma, Y. Sun*, X. Yao, H. Ren, W. Zhang, J. Peng, R. Yu, R. Li, <b>C. Wang*</b>, J. Zhou*, X. Sun*,  <b>Advanced Functional Materials</b> 2026 `],
             publink:"https://doi.org/10.1002/adfm.202523207",
             PDFdir:"data/firstauthor/Ma 等 - Artificial amorphous interface matters for boosting high-voltage stable LiCoO2 cathode.pdf",
+            year:"2026",
+        },{
+            imagesrc:"artical_img/ez20260416.png",
+            titles:"Thermal stability and safety challenges of all-solid-state batteries",
+            abstract:"All-solid-state batteries (ASSBs) are widely regarded as promising candidates for next-generation energy storage owing to their high energy density and intrinsic safety advantages. However, growing evidence indicates that ASSBs are not inherently safe. The thermal instability of key materials and interfaces can still trigger severe thermal hazards under abusive conditions....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`S. Liang, Y. Heng,<b>C. Wang*</b>, <b>Energy Z</b> 2026, <b>(invited)</b>`],
+            publink:"https://dx.doi.org/10.20517/energyz.2026.02",
+            PDFdir:"data/firstauthor/Liang 等 - 2026 - Thermal stability and safety challenges of all-solid-state batteries.pdf",
             year:"2026",
         },
         
