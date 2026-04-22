@@ -54,6 +54,17 @@ var recentPubs={
             year:"2026",
         },
         {
+            imagesrc:"artical_img/zjxaem.jpg",
+            titles:"Ionic Elastomer Interface for Low-Pressure and Durable All-Solid-State Batteries",
+            abstract:"All-solid-state batteries (ASSBs) hold significant promise as next-generation energy storage systems due to their high energy density and intrinsic safety. However, their practical deployment is impeded by the need for high external pressure (typically tens of megapascals) to maintain solid–solid interfacia ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`J. Zhang†, S. Xia†, S. Zhang, Z. Wang, S. Liang, C. Wang, P. Lu, T. Liu, G. Hu, M. Wei, R. Yu*, Z. Wu, X. Zhai, D. Wang*, X. Sun*, <b>C. Wang*</b>,   <b>Advanced Energy Materials</b> 2026 `],
+            publink:"https://doi.org/10.1002/aenm.202504652",
+            PDFdir:"data/firstauthor/Zhang 等 - 2026 - Ionic elastomer interface for low-pressure and durable all-solid-state batteries.pdf",
+            year:"2026",
+        },
+        {
             imagesrc:"artical_img/aenm70628-fig-0002-m.jpg",
             titles:"Unraveling failure mechanism of indium anodes in all-solid-state batteries",
             abstract:"Alloy-based anodes, particularly indium (In) are emerging as promising candidates for achieving long-cycle life in all-solid-state lithium batteries (ASSLBs), due to their dendrite-free characteristics and ability to stabilize the anode interface. However, their practical applications remain hindered ...",
