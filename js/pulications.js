@@ -2009,263 +2009,105 @@ var recentPubs={
 
     patents: [
         {
+            "titles": "王长虹,孙学良,夏圣杰,朱蒙飞,贾淇翔，一种卤化物或卤氧化物固态电解质及其声共振辅助制备方法与应用，2026，",
+            "totalAuthor": "申请号：202610535881X；",
+            "publink": "javascript:;",
+           
+        },
+         {
+            "titles": "王长虹,孙学良,脱凯用，一种利用退役电池回收碳酸锂制备卤氧化物电解质的方法，2026，",
+            "totalAuthor": "申请号：；",
+            "publink": "javascript:;",
+          
+        },
+        {
             "titles": "王长虹,孙学良,周志民，一种卤化物固态电解质及其非晶化制备方法和全固态电池，2026，",
             "totalAuthor": "申请号：2026102014158；",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+            
         },
         {
             "titles": "王长虹,孙学良,桑君武,刘泊瑞,蒋山山，一种高活性物质比碲正极及其制备方法和全固态电池，2025，",
             "totalAuthor": "申请号：2025118573928；",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+           
         },
         {
             "titles": "王长虹,孙学良,夏圣杰，一种基于堆叠组装的全固态电池及其电芯分选方法，2025，",
             "totalAuthor": "申请号：；",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+            
         },
         {
             "titles": "王长虹,孙学良,朱蒙飞,夏圣杰，一种硫化物固态电解质及其声共振合成方法和全固态电池，2025，",
             "totalAuthor": "申请号：202511730585.7；",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+         
         },
         {
             "titles": "王长虹,孙学良,卢普顺，一种固态电池复合正极及其制备方法，2025，",
             "totalAuthor": "申请号：2025106505667；",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+           
         },
 
        
         {
             "titles": "王长虹,孙学良,苏铭昊,夏圣杰，一种全固态电池及其制备方法，2025，",
             "totalAuthor": "申请号：202510177518.0；",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+           
         },
         {
             "titles": "王长虹,孙学良,张书涛，一种卤化物/硫化物固态电解质浆料、薄膜及其制备方法，2024，",
             "totalAuthor": "申请号：202410999858.7；",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+           
         },
 
        
         {
             "titles": "孙学良，李晓娜，梁剑文，王长虹，黄欢，卢世刚，张立，赵尚骞，锂二次电池固态电解质材料、电极及电池，2019，",
             "totalAuthor": "国际PCT专利申请：PCT/CN2019/126451；美国专利申请：17 / 607,849；欧洲专利申请：EP19926754；日本专利申请：JP2022531271A；",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+           
         },
         {
             "titles": "黄欢, 卢青文, 孙学良,王长虹, 柳羏, 包丹妮, 赵尚骞, 杨容, 王建涛, 一种用于制备固态聚合物电解质的组合物及其应用，2022，",
             "totalAuthor": "申请号: CN202111164232.7",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+          
         },
         {
             "titles": "黄欢, 王长虹, 赵尚骞, 王建涛,孙学良, 杨容, 一种无机固体电解质隔膜及固态电池，2021，",
             "totalAuthor": "申请号: CN202110815458.2.",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+         
         },
         {
             "titles": "孙学良, 王长虹, 徐国峰, 梁剑文, 王建涛, 李晓娜, 赵尚骞, 黄欢, 杨容,一种卤化物固态电解质及其制备方法和应用，2021, ",
             "totalAuthor": "申请号: CN202110729896.7",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+            
         },
         {
             "titles": "赵金玲, 赵春荣, 杨容, 赵尚骞, 王建涛, 徐国峰, 张立, 庞静, 黄欢, 王长虹, 张莹, 一种用于卤化物固态电解质的界面润湿剂，2020，",
             "totalAuthor": "申请号: CN202011635630.8",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+           
         },
         {
             "titles": "孙学良, 王长虹, 梁剑文, 李晓娜, 黄欢, 卢世刚, 张立, 赵尚骞, 电极、电解质薄层及其制备方法, 2019.",
             "totalAuthor": " 申请号: CN201910843405.4",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+            
         },
         {
             "titles": "孙学良, 科甘·亚岱尔, 王长虹, 赵阳, 卢世刚, 张立, 赵尚骞, 一种三维金属锂负极及其制备方法与应用，2019,",
             "totalAuthor": " 申请号: CN201910386661.5 (已授权) 授权日：2019年9月24日",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+            
         },
         {
             "titles": "孙学良，李晓娜，梁剑文，王长虹，黄欢，卢世刚，张立，赵尚骞，二次电池固态电解质材料及其制备方法与应用，2019，",
             "totalAuthor": "申请号: CN201910381153.8. （已授权)",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+            
         },
         {
             "titles": "陈宏伟, 王长虹, 葛军, 卢威，陈立桅 ，锂硫电池正极、电解质及锂硫电池。2014，",
             "totalAuthor": "申请号: CN201410350966.8。(已授权) 授权日：2019年12月27日",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+            
         },
         {
             "titles": "王长虹，卢威，陈立桅，一种锂硫电池正极材料的制备方法。2014，",
             "totalAuthor": "申请号: CN201310133796.3。(已授权) 授权日：2017年6月13日",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+            
         },
         // {
         //     "titles": "陈宏伟，王长虹，陈立桅，利用硫化促进剂以提高硫碳复合物含硫量的方法。2014，",
@@ -2285,32 +2127,12 @@ var recentPubs={
         {
             "titles": "董伟玲，陈宏伟，王长虹，卢威，陈立桅，一种硫-石墨烯复合结构锂硫电池正极材料制备方法。2013，",
             "totalAuthor": "申请号: CN201310153983.8。(已授权) 授权日：2015年6月17日",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+          
         },
         {
             "titles": "董伟玲，陈宏伟，王长虹，卢威，陈立桅，一种有机硅化物修饰的锂硫电池正极材料的制备方法，2013，",
             "totalAuthor": "申请号: CN201310145132.9。(已授权) 授权日： 2015年8月5日",
-            "publink": "javascript:;",
-            "abstract": "",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
-            "imagesrc": ""
+           
         }
     ],
 
