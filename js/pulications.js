@@ -32,6 +32,17 @@ var recentPubs={
             year:"2026",
         },
         {
+            imagesrc:"artical_img/anie72627-fig-0001-m.jpg",
+            titles:"Li2CO3-Derived Low-Cost Li2S for Sulfide Solid Electrolytes Exceeding 11 mS cm−1",
+            abstract:"Sulfide solid electrolytes (SSEs) hold great promise for all-solid-state batteries (ASSBs), owing to their high ionic conductivity and excellent deformability. However, their practical application is severely hindered by high cost, primarily ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`M. Zhu†, S. Xia†, C. Wang†, H. Hu, Z. Wang, L. Xie, K. Tuo, Z. Zhou, M. Wei, T. Liu, S. Liang, G. Hu, S. Zhang, J. Hong, X. Sun*, <b>C. Wang*</b>, <b>Angewandte Chemie International Edition</b> 2026 `],
+            publink:"https://doi.org/10.1002/anie.8115835",
+            PDFdir:"data/firstauthor/Zhu 等 - 2026 - Li2 CO3 -derived low-cost Li2 S for sulfide solid electrolytes exce.pdf",
+            year:"2026",
+        },
+        {
             imagesrc:"artical_img/19880.jpg",
             titles:"Alternating-sequence polymer chain facilitating Li+ transport in covalent organic frameworks",
             abstract:"Covalent organic frameworks-based solid-state electrolytes have attracted significant attention in recent years due to their design flexibility, intrinsic porosity, and environmentally friendly characteristics. However, their practical application in batteries remains limited by inadequate ionic conductivity and Li+ transference number, primarily arising from the absence of effective strategies to....",
