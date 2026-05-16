@@ -21,6 +21,17 @@ var recentPubs={
             year:"2026",
         },
         {
+            imagesrc:"artical_img/sang-nc.png",
+            titles:"Bulk-to-interface fluorination for stable and low-pressure all-solid-state lithium metal batteries",
+            abstract:"All-solid-state lithium metal batteries are widely considered promising next-generation energy storage systems owing to high specific energy and enhanced safety. However, their practical deployment is hindered by high stack pressure and inferior electrochemical performance. Here, we exploit the fast thermodynamic diffusion ....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`J. Sang, <b>C. Wang*</b>, W. Yuan, S. Jiang, S. Guo, X. Cheng, M. Li, Z. Shi*, Y.-B. He*, X. Sun*, Z. Zhou*, <b>Nature Communications</b> 2026 `],
+            publink:"https://doi.org/10.1038/s41467-026-73012-4",
+            PDFdir:"",
+            year:"2026",
+        },
+        {
             imagesrc:"artical_img/NC20260301.jpg",
             titles:"Unraveling the Foreign-Cation Effect in UCl₃-Type Halide Solid Electrolytes for Low-Temperature All-Solid-State Batteries",
             abstract:"UCl₃-based halide solid electrolytes have garnered increasing interest for application in all-solid-state batteries, yet their structural characteristics, chemical composition, and ion transport mechanisms remain under debate. These uncertainties hamper their rational design and broader application. Taking PrCl3 as a model system, we present a comprehensive....",
