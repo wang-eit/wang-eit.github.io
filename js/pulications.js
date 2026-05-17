@@ -2031,6 +2031,18 @@ var recentPubs={
 
     patents: [
         {
+            "titles": "王长虹，孙学良，朱蒙飞，夏圣杰，硫化锂及两步复分解制备方法和在全固态电池中的应用，2026，",
+            "totalAuthor": "申请号：2026103434382；",
+            "publink": "javascript:;",
+           
+        },
+        {
+            "titles": "王长虹,孙学良,洪健，一种双面预锂化硅基负极及其制备方法和全固态电池，2026，",
+            "totalAuthor": "申请号：；",
+            "publink": "javascript:;",
+           
+        },
+        {
             "titles": "王长虹,孙学良,夏圣杰,朱蒙飞,贾淇翔，一种卤化物或卤氧化物固态电解质及其声共振辅助制备方法与应用，2026，",
             "totalAuthor": "申请号：202610535881X；",
             "publink": "javascript:;",
