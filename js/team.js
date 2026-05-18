@@ -24,17 +24,7 @@ var allStudentData={
     ],
 
     posPhD:[
-        
-        {
-            imageSrc:"img/Team/huguantai.jpg",
-            imageWithHigh:[190,240],
-            studentName:"Guantai Hu",
-            Supervisor:"Supervisor ： Prof. Changhong Wang",
-            CoSupervisor:"",
-            eduBj_1:"Ph.D.: Iowa State University (2015-2022)",
-            eduBj_2:"B.E.: USTC (2010-2014)",
-            selfEmail:"ghu@eitech.edu.cn"
-        },
+
         {
             imageSrc:"img/Team/liangsuzhe.jpg",
             imageWithHigh:[190,240],
@@ -106,6 +96,16 @@ var allStudentData={
             eduBj_1:"Ph.D.: HIT (2020-2025)",
             eduBj_2:"M.S.: HIT (2017-2019)",
             selfEmail:"hqzhang@eitech.edu.cn"
+        },
+        {
+            imageSrc:"img/Team/zhangliguo.jpg",
+            imageWithHigh:[175,240],
+            studentName:"liguo Zhang",
+            Supervisor:"Supervisor: Prof. Changhong Wang",
+            CoSupervisor:"",
+            eduBj_1:"Ph.D.: PNU(2018-2023)",
+            eduBj_2:"M.S.: XTU(2014-2017)",
+            selfEmail:"lgzhang@eitech.edu.cn"
         },
     ],
 
@@ -200,16 +200,16 @@ var allStudentData={
             eduBj_2:"B.S.: SDU (2016-2020)",
             selfEmail:"jhong@eitech.edu.cn"
         },
-        {
-            imageSrc:"img/Team/shenfangning.jpg",
-            imageWithHigh:[190,240],
-            studentName:"Fangning Shen",
-            Supervisor:"Supervisor：Prof. Changhong Wang",
-            CoSupervisor:"",
-            eduBj_1:"M.S.: NUS(2023-2025)",
-            eduBj_2:"B.S.: SCAU (2019-2023)",
-            selfEmail:"fnshen@eitech.edu.cn"
-        },
+        // {
+        //     imageSrc:"img/Team/shenfangning.jpg",
+        //     imageWithHigh:[190,240],
+        //     studentName:"Fangning Shen",
+        //     Supervisor:"Supervisor：Prof. Changhong Wang",
+        //     CoSupervisor:"",
+        //     eduBj_1:"M.S.: NUS(2023-2025)",
+        //     eduBj_2:"B.S.: SCAU (2019-2023)",
+        //     selfEmail:"fnshen@eitech.edu.cn"
+        // },
         {
             imageSrc:"img/Team/yyy.jpg",
             imageWithHigh:[180,240],
@@ -357,6 +357,14 @@ var allStudentData={
       
     ],
     Alum:[
+        {
+            imageSrc:"img/Team/huguantai.jpg",
+            imageWithHigh:[190,240],
+            studentName:"Guantai Hu",
+            Institution:"Institution: Eastern Institute of Technology, Ningbo",
+            Position:"Position: College laboratory administrator",
+            selfEmail:"ghu@eitech.edu.cn"
+        },
 
         {
             imageSrc:"img/Team/lupushun.jpg",
@@ -374,6 +382,7 @@ var allStudentData={
             Position:"Position: Postdoctor",
             selfEmail:"jxzhang@eitech.edu.cn"
         },
+        
        
     ]
 
