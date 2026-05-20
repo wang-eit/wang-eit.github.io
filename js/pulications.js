@@ -53,6 +53,18 @@ var recentPubs={
             PDFdir:"",
             year:"2026",
         },
+       {
+            imagesrc:"artical_img/sjw_jacs.png",
+            titles:"Ultrahigh Te-Content Low-Pressure All-Solid-State Li–Te Batteries",
+            abstract:"Tellurium (Te), with high volumetric capacity (2621 mAh cm–3) and decent electronic conductivity (2000 mS cm–1), has emerged as a promising cathode material for future lithium metal batteries. However, all-solid-state batteries (ASSBs) with ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`J. Sang†, B. Liu†, S. Jiang†, S. Liang, T. Liu, K. Tuo, H. Huang, L. Xie, Y. Yu*, G. Shao, X. Sun*, <b>C. Wang*</b>, <b>Journal of the American Chemical Society</b> 2026 `],
+            publink:"https://doi.org/10.1021/jacs.5c23309",
+            PDFdir:"data/firstauthor/ultrahigh-te-content-low-pressure-all-solid-state-li-te-batteries.pdf",
+            year:"2026",
+        },
+
          {
             imagesrc:"artical_img/anie72627-fig-0001-m.jpg",
             titles:"Li2CO3-Derived Low-Cost Li2S for Sulfide Solid Electrolytes Exceeding 11 mS cm−1",
