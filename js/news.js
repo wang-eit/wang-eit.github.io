@@ -1,5 +1,24 @@
 var recentNews={
     allnews: [
+
+        // { 
+        //     title:"⇰Congratulations: Congratulations to professor Changhong Wang on being recognized by Wiley as a Top Viewed Article author in Advanced Materials!",
+        //     time:"Posted on Mar. 31, 2026.",
+        //     desc:"",
+        //     imagesrc:"news_img/wangchanghong-260515.png",
+        //     imag_height:"350px",
+        //     imag_width:"450px",
+        // },
+        { 
+            title:"⇰Congratulations: 近日，王长虹团队相关研究成果发表在国际知名期刊《德国应用化学》（Angew. Chem. Int. Ed.）",
+            time:"Posted on Apr. 1, 2026.",
+            desc:"宁波东方理工大学讲席教授、中国工程院外籍院士孙学良，教授王长虹团队以工业基准原料碳酸锂（Li2CO3）为锂源，低成本的硫氰酸铵（NH4SCN）为硫源，通过“多级复分解”反应制备出低成本且高品质的硫化锂，攻克硫化物固态电解质的成本痛点。成本分析表明，使用这种由碳酸锂驱动的硫化锂合成的硫化物固态电解质，总成本降低了86.6%和88.5%，突显了其在推动硫化物固态电解质面向全固态电池商业化的重要技术经济优势。",
+            imagesrc:"artical_img/angw-zmf.png",
+            imag_height:"300px",
+            imag_width:"450px",
+        },
+        
+        
         { 
             title:"⇰Congratulations: Congratulations to professor Changhong Wang on being recognized by Wiley as a Top Viewed Article author in Advanced Materials!",
             time:"Posted on Mar. 31, 2026.",
@@ -8,6 +27,8 @@ var recentNews={
             imag_height:"350px",
             imag_width:"450px",
         },
+       
+        
         { 
             title:"⇰Congratulations: 中国科学报：《全固态电池电导率有望提升 5.8 倍》，报到本组最新科研进展",
             time:"Posted on Mar. 31, 2026.",
@@ -16,7 +37,22 @@ var recentNews={
             imag_height:"600px",
             imag_width:"450px",
         },
-
+         { 
+            title:"⇰Congratulations: 近日，王长虹团队相关研究成果发表在国际知名期刊《自然-通讯》（Nature Communications）",
+            time:"Posted on Mar. 6, 2026.",
+            desc:"近日，宁波东方理工大学讲席教授、中国工程院外籍院士孙学良，宁波东方理工大学助理教授王长虹团队在国际期刊《自然-通讯》（Nature Communications）上发表研究成果。研究团队以 PrCl₃ 基卤化物固态电解质作为模型体系，系统揭示了外来阳离子的结构作用与离子传导机制，并据此设计出一种适用于低温全固态电池的高性能电解质。",
+            imagesrc:"artical_img/nc-lupushun.png",
+            imag_height:"350px",
+            imag_width:"250px",
+        },
+        { 
+            title:"⇰Congratulations: 近日，王长虹团队相关研究成果发表在国际知名期刊《先进材料》（Advanced Materials）",
+            time:"Posted on Mar. 2, 2026.",
+            desc:"宁波东方理工大学讲席教授、中国工程院外籍院士孙学良，宁波东方理工大学物质与能源研究院副院长王长虹团队联合合作者，在卤化物固态电解质研究领域取得新进展，首次展示了一种低成本、高离子导2.55mS/cm、具有异步活性的氧卤化物固态电解质，近日，相关研究成果发表在国际知名期刊《先进材料》（Advanced Materials）",
+            imagesrc:"artical_img/am-zhouzhm-1.png",
+            imag_height:"350px",
+            imag_width:"450px",
+        },
 
         { 
             title:"⇰Group photo-2025 ",
