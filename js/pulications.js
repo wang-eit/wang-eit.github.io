@@ -21,6 +21,17 @@ var recentPubs={
             year:"2026",
         },
         {
+            imagesrc:"artical_img/nc_zhangjx.png",
+            titles:"Strain-Coordination Strategy Enabling Low-Pressure and Long-Cycling All-Solid-State Lithium-Sulfur Batteries",
+            abstract:"All-solid-state lithium-sulfur batteries (ASSLSBs) offer high energy density and enhanced safety. However, their practical application is hindered by the need for high external operating pressure to mitigate mechano-chemical failures at interfaces. Here, we leverage the opposing volume changes of electrodes upon cycling to ....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`J. Zhang†, S. Xia†, P. Lu, S. Liang, J. Fu, Z. Zhou, W. Yan, G. Hu, K. Tuo, J. Hong, S. Zhang, Z. Wang, X. Sun*, <b>C. Wang*</b>, <b>Nature Communications</b> 2026 `],
+            publink:"",
+            PDFdir:"",
+            year:"2026",
+        },
+        {
             imagesrc:"artical_img/sang-nc.png",
             titles:"Bulk-to-interface fluorination for stable and low-pressure all-solid-state lithium metal batteries",
             abstract:"All-solid-state lithium metal batteries are widely considered promising next-generation energy storage systems owing to high specific energy and enhanced safety. However, their practical deployment is hindered by high stack pressure and inferior electrochemical performance. Here, we exploit the fast thermodynamic diffusion ....",
