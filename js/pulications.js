@@ -8,7 +8,17 @@ var recentPubs={
         //     "imagesrc": "",
         //     "year":"2023",
         // },
-        
+        {
+            imagesrc:"artical_img/am-zhangshutao.png",
+            titles:"Dual-Solvent Supramolecular Assembly Enables Ampere-Hour Halide All-Solid-State Pouch Cell",
+            abstract:"Halide solid electrolytes (SSEs) hold promises for next-generation all-solid-state batteries (ASSBs), yet scalable fabrication of halide SSE films and ampere-hour-scale all-solid-state pouch cells (ASSPCs) via slurry coating has not been demonstrated. Here, we introduce a dual-solvent supramolecular assembly strategy....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`S. Zhang†, J. Fu†, G. Hu, Y. Zheng, C. Wang, S. Xia, P. Lu, J. Zhang, M. Zhang, M. Wei, J. Hong, Z. Wang, Z. Zhou, J. Peng, L. Chen*, X. Sun*, <b>C. Wang*</b>, <b>Advanced Materials</b> 2026 `],
+            publink:"",
+            PDFdir:"",
+            year:"2026",
+        },
         {
             imagesrc:"artical_img/Manuscript-Fig-4.png",
             titles:"Embedding Fe-based Redox Chemistry into Low-Cost Oxyhalide Solid Electrolytes for High-Performance All-Solid-State Batteries",
