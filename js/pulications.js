@@ -879,19 +879,38 @@ var recentPubs={
         //     "year":"2025",
         // },
         {
+            "titles": "Applying asymmetric-waveform alternating current in nickel-catalyzed asymmetric reductive cross-coupling",
+            "totalAuthor": `R. Duan, G. Cao, J. Li, Q. Jiang, C. Hou, H. Yang, J. Wang, W. Li, <b>C. Wang</b>, K. Zhang*, X. Sun*, X. Li*, <b>Advanced Functional Materials</b>. 2026`,
+            "publink": "https://doi.org/10.1002/adfm.202512936",
+            "abstract": "",
+            "PDFdir":"",
+            "imagesrc": "",
+            "year":"2026",
+        },
+        {
+            "titles": "Applying asymmetric-waveform alternating current in nickel-catalyzed asymmetric reductive cross-coupling",
+            "totalAuthor": `Z. Lin, C. Zhai, Y. Jiang, H. Wen, <b>C. Wang</b>, Z. Cai, C. Zhu*, <b>Nature Communications</b>. 2026`,
+            "publink": "https://doi.org/10.1038/s41467-026-72336-5",
+            "abstract": "",
+            "PDFdir":"",
+            "imagesrc": "",
+            "year":"2026",
+        },
+        {
+            "titles": "Tuning Reaction Pathways via Symmetric Fluorination Enables High-Temperature and High-Voltage Electrolytes",
+            "totalAuthor": `F. Cheng, W. Zhang, C. Fang*, Y. Fan, Z. Cheng, <b>C. Wang</b>, X. Li, J. Fu, S. Wang, W. Li*, X. Sun*, J. Peng*, <b>Angewandte Chemie International Edition</b>. 2026`,
+            "publink": "https://doi.org/10.1002/anie.5558984",
+            "abstract": "",
+            "PDFdir":"",
+            "imagesrc": "",
+            "year":"2026",
+        },
+        {
             "titles": "Three‐dimensional “Breathable” silicon anodes for durable all-solid-state lithium batteries",
             "totalAuthor": `X. Zhu†, S. Xia†, H. Zheng†, Y. Shi, X. Zhang, K. Liu, Z. Zhou, Z. Zhai, Y. Fu, Q. Wei, <b>C. Wang</b>, W. Chen*, W. Yang*, R. Yu*, <b>Energy Storage Materials</b>. 2026`,
             "publink": "https://doi.org/10.1016/j.ensm.2026.104939",
             "abstract": "",
             "PDFdir":"",
-            "equalContributions": [
-                "changhongwang",
-                "changhongwang"
-            ],
-            "correspondingAuthor": [
-                "xueliangsun",
-                "xueliangsun"
-            ],
             "imagesrc": "",
             "year":"2026",
         },

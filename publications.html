@@ -133,34 +133,70 @@
 		<!-- <button>Conferences</button> -->
 	</div>
 
-	<div id="high_light">
-		<ol>
-			<li>
-				<a href="https://doi.org/10.1038/s41557-025-01866-0" target="_blank" ><img src="artical_img/mchem.png" alt=""></a>
+	<div id="high_light" class="highlight-slider">
+	<div class="slider-viewport">
+		<ol class="slider-track">
+            <li>
+				<a href="ttps://doi.org/10.1021/jacs.5c23309" target="_blank">
+					<img src="artical_img/jacs-sang.jpg" alt="">
+				</a>
 			</li>
+
 			<li>
-				<a href="https://doi.org/10.1002/adma.202370029" target="_blank"><img src="artical_img/adma202370029-gra-0001-m.jpg" alt=""></a>
+				<a href="https://doi.org/10.1038/s41557-025-01866-0" target="_blank">
+					<img src="artical_img/mchem.png" alt="">
+				</a>
 			</li>
+
 			<li>
-				<a href="https://doi.org/10.1021/accountsmr.1c00137" target="_blank"><img src="artical_img/20230817165447.jpg" alt=""></a>
+				<a href="https://doi.org/10.1002/adma.202370029" target="_blank">
+					<img src="artical_img/adma202370029-gra-0001-m.jpg" alt="">
+				</a>
 			</li>
+
 			<li>
-				<a href="https://doi.org/10.1002/adma.202411237" target="_blank"><img src="artical_img/20241228131517.jpg" alt=""></a>
+				<a href="https://doi.org/10.1021/accountsmr.1c00137" target="_blank">
+					<img src="artical_img/20230817165447.jpg" alt="">
+				</a>
 			</li>
+
 			<li>
-				<a href="https://doi.org/10.1002/anie.2026-m1902093600" target="_blank" ><img src="artical_img/10115.jpg" alt=""></a>
+				<a href="https://doi.org/10.1002/adma.202411237" target="_blank">
+					<img src="artical_img/20241228131517.jpg" alt="">
+				</a>
 			</li>
+
 			<li>
-				<a href="https://pubs.acs.org/doi/10.1021/jacs.4c18340" target="_blank" ><img src="artical_img/jacsat.2025.jpg" alt=""></a>
+				<a href="https://doi.org/10.1002/anie.2026-m1902093600" target="_blank">
+					<img src="artical_img/10115.jpg" alt="">
+				</a>
 			</li>
+
 			<li>
-				<a href="https://doi.org/10.1002/smll.201603435" target="_blank" ><img src="artical_img/20230817210822.png" alt=""></a>
+				<a href="https://pubs.acs.org/doi/10.1021/jacs.4c18340" target="_blank">
+					<img src="artical_img/jacsat.2025.jpg" alt="">
+				</a>
 			</li>
+
+			<li>
+				<a href="https://doi.org/10.1002/smll.201603435" target="_blank">
+					<img src="artical_img/20230817210822.png" alt="">
+				</a>
+			</li>
+
 			
 		</ol>
-
-
 	</div>
+
+	<button class="slider-button slider-prev" type="button" aria-label="上一张">
+		&#10094;
+	</button>
+
+	<button class="slider-button slider-next" type="button" aria-label="下一张">
+		&#10095;
+	</button>
+</div>
+
 
 
 
@@ -237,6 +273,242 @@
 		</div> -->
 
 	</div>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+	const slider = document.querySelector("#high_light");
+
+	if (!slider) {
+		return;
+	}
+
+	const viewport = slider.querySelector(".slider-viewport");
+	const track = slider.querySelector(".slider-track");
+	const prevButton = slider.querySelector(".slider-prev");
+	const nextButton = slider.querySelector(".slider-next");
+
+	if (!viewport || !track || track.children.length === 0) {
+		return;
+	}
+
+	const autoplayDelay = 3000;
+	const animationDuration = 500;
+
+	let autoplayTimer = null;
+	let isAnimating = false;
+	let touchStartX = 0;
+
+	function getGap() {
+		const style = window.getComputedStyle(track);
+		return Number.parseFloat(style.columnGap || style.gap) || 0;
+	}
+
+	function getSlideDistance() {
+		const firstSlide = track.children[0];
+
+		if (!firstSlide) {
+			return 0;
+		}
+
+		return firstSlide.getBoundingClientRect().width + getGap();
+	}
+
+	/*
+	 * 下一张：
+	 * 1. 整个轨道向左移动一张
+	 * 2. 动画结束后，把第一张放到最后
+	 * 3. 瞬间恢复轨道位置
+	 */
+	function nextSlide() {
+		if (isAnimating) {
+			return;
+		}
+
+		isAnimating = true;
+
+		const distance = getSlideDistance();
+
+		track.style.transition =
+			`transform ${animationDuration}ms ease`;
+
+		track.style.transform =
+			`translate3d(-${distance}px, 0, 0)`;
+
+		function handleNextEnd(event) {
+			if (event.propertyName !== "transform") {
+				return;
+			}
+
+			track.removeEventListener(
+				"transitionend",
+				handleNextEnd
+			);
+
+			// 将最左侧图片移动到最右侧
+			track.appendChild(track.firstElementChild);
+
+			// 关闭动画并恢复原位
+			track.style.transition = "none";
+			track.style.transform = "translate3d(0, 0, 0)";
+
+			// 强制浏览器应用无动画状态
+			track.offsetHeight;
+
+			isAnimating = false;
+		}
+
+		track.addEventListener(
+			"transitionend",
+			handleNextEnd
+		);
+	}
+
+	/*
+	 * 上一张：
+	 * 1. 先把最后一张移动到最前面
+	 * 2. 轨道无动画地向左偏移一张
+	 * 3. 再播放动画回到原位
+	 */
+	function previousSlide() {
+		if (isAnimating) {
+			return;
+		}
+
+		isAnimating = true;
+
+		const distance = getSlideDistance();
+		const lastSlide = track.lastElementChild;
+
+		if (!lastSlide) {
+			isAnimating = false;
+			return;
+		}
+
+		track.insertBefore(lastSlide, track.firstElementChild);
+
+		track.style.transition = "none";
+		track.style.transform =
+			`translate3d(-${distance}px, 0, 0)`;
+
+		// 强制重排，否则浏览器可能不会播放后面的动画
+		track.offsetHeight;
+
+		track.style.transition =
+			`transform ${animationDuration}ms ease`;
+
+		track.style.transform =
+			"translate3d(0, 0, 0)";
+
+		function handlePreviousEnd(event) {
+			if (event.propertyName !== "transform") {
+				return;
+			}
+
+			track.removeEventListener(
+				"transitionend",
+				handlePreviousEnd
+			);
+
+			isAnimating = false;
+		}
+
+		track.addEventListener(
+			"transitionend",
+			handlePreviousEnd
+		);
+	}
+
+	function stopAutoplay() {
+		if (autoplayTimer !== null) {
+			window.clearInterval(autoplayTimer);
+			autoplayTimer = null;
+		}
+	}
+
+	function startAutoplay() {
+		stopAutoplay();
+
+		autoplayTimer = window.setInterval(function () {
+			nextSlide();
+		}, autoplayDelay);
+	}
+
+	function restartAutoplay() {
+		stopAutoplay();
+		startAutoplay();
+	}
+
+	if (nextButton) {
+		nextButton.addEventListener("click", function () {
+			nextSlide();
+			restartAutoplay();
+		});
+	}
+
+	if (prevButton) {
+		prevButton.addEventListener("click", function () {
+			previousSlide();
+			restartAutoplay();
+		});
+	}
+
+	// 鼠标放在轮播图上时暂停
+	slider.addEventListener("mouseenter", stopAutoplay);
+	slider.addEventListener("mouseleave", startAutoplay);
+
+	// 触摸滑动
+	viewport.addEventListener(
+		"touchstart",
+		function (event) {
+			touchStartX =
+				event.changedTouches[0].clientX;
+
+			stopAutoplay();
+		},
+		{ passive: true }
+	);
+
+	viewport.addEventListener(
+		"touchend",
+		function (event) {
+			const touchEndX =
+				event.changedTouches[0].clientX;
+
+			const distance = touchEndX - touchStartX;
+
+			if (distance > 50) {
+				previousSlide();
+			} else if (distance < -50) {
+				nextSlide();
+			}
+
+			startAutoplay();
+		},
+		{ passive: true }
+	);
+
+	// 页面切换到后台时暂停
+	document.addEventListener("visibilitychange", function () {
+		if (document.hidden) {
+			stopAutoplay();
+		} else {
+			startAutoplay();
+		}
+	});
+
+	// 窗口尺寸改变后，确保轨道回到正确位置
+	window.addEventListener("resize", function () {
+		track.style.transition = "none";
+		track.style.transform = "translate3d(0, 0, 0)";
+		isAnimating = false;
+	});
+
+	startAutoplay();
+});
+</script>
+
+
 
 </body>
 
