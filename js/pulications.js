@@ -109,12 +109,23 @@ var recentPubs={
             year:"2026",
         },
         {
+            imagesrc:"artical_img/aem-12174.jpg",
+            titles:"Weakening Ion Transport Anisotropy Activates Superionic Conduction in Li2ZrCl6",
+            abstract:"Halide solid-state electrolytes (SSEs) are promising for all-solid-state batteries (ASSBs) but are often limited by the challenge of simultaneously achieving sufficient ionic conductivity and cost-effectiveness. Herein, we demonstrate that weakening ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`T. Sun†, Z. Wang†, Y. Wang†, S. Liang*, F. Liang, Y. Wang, L. Bi, X. Wei, Y. Lin, J. Liao*, J. Peng, S. Wang*, <b>C. Wang*</b>, <b>Advanced Energy Materials</b> 2026 `],
+            publink:"https://doi.org/10.1002/aenm.71308",
+            PDFdir:"data/firstauthor/Sun 等 - 2026 - Weakening Ion Transport Anisotropy Activates Superionic Conduction in Li2 ZrCl6sub.pdf",
+            year:"2026",
+        },
+        {
             imagesrc:"artical_img/zjxaem.jpg",
             titles:"Ionic Elastomer Interface for Low-Pressure and Durable All-Solid-State Batteries",
             abstract:"All-solid-state batteries (ASSBs) hold significant promise as next-generation energy storage systems due to their high energy density and intrinsic safety. However, their practical deployment is impeded by the need for high external pressure (typically tens of megapascals) to maintain solid–solid interfacia ...",
             equalContributions:["changhongwang","changhongwang"],
             correspondingAuthor:["xueliangsun","xueliangsun"],
-            totalAuthor:[`J. Zhang†, S. Xia†, S. Zhang, Z. Wang, S. Liang, C. Wang, P. Lu, T. Liu, G. Hu, M. Wei, R. Yu*, Z. Wu, X. Zhai, D. Wang*, X. Sun*, <b>C. Wang*</b>,   <b>Advanced Energy Materials</b> 2026 `],
+            totalAuthor:[`J. Zhang†, S. Xia†, S. Zhang, Z. Wang, S. Liang, C. Wang, P. Lu, T. Liu, G. Hu, M. Wei, R. Yu*, Z. Wu, X. Zhai, D. Wang*, X. Sun*, <b>C. Wang*</b>, <b>Advanced Energy Materials</b> 2026 `],
             publink:"https://doi.org/10.1002/aenm.202504652",
             PDFdir:"data/firstauthor/Zhang 等 - 2026 - Ionic elastomer interface for low-pressure and durable all-solid-state batteries.pdf",
             year:"2026",
@@ -878,6 +889,7 @@ var recentPubs={
         //     "imagesrc": "",
         //     "year":"2025",
         // },
+
         {
             "titles": "Applying asymmetric-waveform alternating current in nickel-catalyzed asymmetric reductive cross-coupling",
             "totalAuthor": `R. Duan, G. Cao, J. Li, Q. Jiang, C. Hou, H. Yang, J. Wang, W. Li, <b>C. Wang</b>, K. Zhang*, X. Sun*, X. Li*, <b>Advanced Functional Materials</b>. 2026`,
