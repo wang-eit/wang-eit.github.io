@@ -2107,6 +2107,18 @@ var recentPubs={
 
     patents: [
         {
+            "titles": "王长虹，孙学良，朱蒙飞，一种氧化锂为原料合成的复合相硫化物固态电解质，2026，",
+            "totalAuthor": "申请号：；",
+            "publink": "javascript:;",
+           
+        },
+        {
+            "titles": "王长虹，孙学良，夏圣杰，一种全固态电池单元电芯的挑选与组装方法及全固态电池，2026，",
+            "totalAuthor": "申请号：；",
+            "publink": "javascript:;",
+           
+        },
+        {
             "titles": "王长虹，孙学良，朱蒙飞，夏圣杰，硫化锂及两步复分解制备方法和在全固态电池中的应用，2026，",
             "totalAuthor": "申请号：2026103434382；",
             "publink": "javascript:;",
@@ -2129,6 +2141,11 @@ var recentPubs={
             "totalAuthor": "申请号：；",
             "publink": "javascript:;",
           
+        },
+        {
+            "titles": "王长虹,孙学良,周志民，卤化物或卤氧化物固态电解质大批量合成方法，2026，",
+            "totalAuthor": "申请号：2026102014158；",
+            
         },
         {
             "titles": "王长虹,孙学良,周志民，一种卤化物固态电解质及其非晶化制备方法和全固态电池，2026，",
