@@ -11,16 +11,7 @@ var allStudentData={
             eduBj_2:"B.E.: Sichuan University (2012-2016)",
             selfEmail:"ypsun@eitech.edu.cn"
         },
-        {
-            imageSrc:"img/Team/liuborui.jpg",
-            imageWithHigh:[190,240],
-            studentName:"Borui Liu",
-            Supervisor:"Research Associate Professor",
-            CoSupervisor:"",
-            eduBj_1:"Postdoc: University of Sydney (2021-2024)",
-            eduBj_2:"Ph.D.: ANU (2018-2022)",
-            selfEmail:"brliu@eitech.edu.cn"
-        },
+        
     ],
 
     posPhD:[
@@ -357,6 +348,15 @@ var allStudentData={
       
     ],
     Alum:[
+{
+            imageSrc:"img/Team/liuborui.jpg",
+            imageWithHigh:[190,240],
+            studentName:"Borui Liu",
+            Institution:"Australian National University",
+            Position:"Assistant Professor",
+            selfEmail:"u6492399@anu.edu.au"
+        },
+
         {
             imageSrc:"img/Team/huguantai.jpg",
             imageWithHigh:[190,240],
@@ -382,6 +382,7 @@ var allStudentData={
             Position:"Position: Postdoctor",
             selfEmail:"jxzhang@eitech.edu.cn"
         },
+        
         
        
     ]
