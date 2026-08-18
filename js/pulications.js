@@ -9,6 +9,17 @@ var recentPubs={
         //     "year":"2023",
         // },
         {
+            imagesrc:"artical_img/wangchanghong-ne.jpg",
+            titles:"Electronic conductivity of solid electrolytes causes physical self-discharge in all-solid-state batteries",
+            abstract:"All-solid-state batteries (ASSBs) with inorganic solid-state electrolytes (SSEs) hold vast potential for next-generation electric vehicles (EVs) due to their high energy density and enhanced safety. However, their self-discharge behaviour, a critical factor for EVs, has not been adequately investigated so far. ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`<b>C. Wang</b>, R. Xu, Y. Zhong, H. Su, S. Liang, H. Ren, J. T. Kim, H. Huang, B. Xiao, L. Jiao, J. Tu, X. Sun*, <b>Nat Energy</b> 2026 `],
+            publink:"https://doi.org/10.1038/s41560-026-02090-x",
+            PDFdir:"",
+            year:"2026",
+        },
+        {
             imagesrc:"artical_img/am-zhangshutao.png",
             titles:"Dual-Solvent Supramolecular Assembly Enables Ampere-Hour Halide All-Solid-State Pouch Cell",
             abstract:"Halide solid electrolytes (SSEs) hold promises for next-generation all-solid-state batteries (ASSBs), yet scalable fabrication of halide SSE films and ampere-hour-scale all-solid-state pouch cells (ASSPCs) via slurry coating has not been demonstrated. Here, we introduce a dual-solvent supramolecular assembly strategy....",
