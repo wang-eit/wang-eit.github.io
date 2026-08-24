@@ -196,7 +196,17 @@ var recentPubs={
             PDFdir:"data/firstauthor/Liang 等 - 2026 - Thermal stability and safety challenges of all-solid-state batteries.pdf",
             year:"2026",
         },
-        
+         {
+            imagesrc:"artical_img/wangchao.jpg",
+            titles:"Organic-inorganic composite solid-state electrolytes: Filler-specific design strategies and practical prospects",
+            abstract:"Organic-inorganic composite solid-state electrolytes (CSSEs) represent a promising class of electrolyte materials for solid-state lithium batteries, as they effectively integrate the processability of polymers with the ionic transport, mechanical, and interfacial properties of inorganic solid-state electrolytes. ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`C. Wang, Z. Wang, S. Zhang, X. Sun*, Y. Sun*, <b>C. Wang*</b>,, Journal of Materiomics 2026`],
+            publink:"https://doi.org/10.1016/j.jmat.2026.101312",
+            PDFdir:"",
+            year:"2026",
+        },
         {
             imagesrc:"artical_img/nature250516.jpg",
             titles:"A Cost-Effective All-in-One Halide Material for All-Solid-State Batteries",
