@@ -16,7 +16,7 @@ var recentPubs={
             correspondingAuthor:["xueliangsun","xueliangsun"],
             totalAuthor:[`<b>C. Wang</b>, R. Xu, Y. Zhong, H. Su, S. Liang, H. Ren, J. T. Kim, H. Huang, B. Xiao, L. Jiao, J. Tu, X. Sun*, <b>Nat Energy</b> 2026 `],
             publink:"https://doi.org/10.1038/s41560-026-02090-x",
-            PDFdir:"",
+            PDFdir:"data/firstauthor/Wang 等 - 2026 - Electronic conductivity of solid electrolytes causes physical self-discharge in all-solid-state batt.pdf",
             year:"2026",
         },
         {
@@ -174,6 +174,19 @@ var recentPubs={
             PDFdir:"data/firstauthor/Ma 等 - Artificial amorphous interface matters for boosting high-voltage stable LiCoO2 cathode.pdf",
             year:"2026",
         },
+        {
+            imagesrc:"artical_img/nanoe-chengqian.jpg",
+            titles:"Dipole-dipole interaction immobilizing residual solvent for stable polymer-based solid-state lithium batteries",
+            abstract:"Poly(vinylidene fluoride) (PVDF)-based solid polymer electrolytes (SPEs) are regarded as promising candidates for solid-state lithium batteries due to their excellent flexibility and processability. However, their practical applications are hindered by insufficient ion transport and severe interfacial side reactions, which originate from the strong Li+ coordination and intrinsic.....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`Q. Cheng, C. Wang, K. Fan, Z. Lin, Y. Liu, S. Xia, J. Zhang, Y. Sun, <b>C. Wang*</b>, H. Chen*, X. Sun*, H. Huang*, <b>Nano Energy</b> 2026`],
+            publink:"https://doi.org/10.1016/j.nanoen.2026.112343",
+            PDFdir:"data/firstauthor/Cheng 等 - 2026 - Dipole-dipole interaction immobilizing residual solvent for stable polymer-based solid-state lithium.pdf",
+            year:"2026",
+        },
+
+
         {
             imagesrc:"artical_img/small_chenqian.jpg",
             titles:"Biomimetic Ion Channel Design for Simultaneous Lithium-Ion Flux Regulation and Interfacial Stabilization in Lithium Metal Batteries",
