@@ -96,6 +96,17 @@ var recentPubs={
             PDFdir:"data/firstauthor/ultrahigh-te-content-low-pressure-all-solid-state-li-te-batteries.pdf",
             year:"2026",
         },
+        {
+            imagesrc:"artical_img/anie74878-gra-0001-m.jpg",
+            titles:"Solid-State-Enabled Three-Stage Delithiation Pathway of Li5FeO4 for Silicon-Based All-Solid-State Batteries",
+            abstract:"Li5FeO4 is a prelithiation additive for compensating irreversible lithium loss in lithium-ion batteries, yet its function and mechanism in all-solid-state batteries (ASSBs) remain largely unexplored. Here, we demonstrate that nanosized Li5FeO4 serves as an effective cathode prelithiation additive in halide-based ASSBs. ...",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`T. Liu, S. Xia, K. Tuo, J. Fu, J. Sang, S. Liang, Z. Zhou, M. Zhu, M. Wei, Z. Wang, L. Xie, H. Huang, J. Peng, Q. Zhang*, X. Sun*, <b>C. Wang*</b>, <b>Angewandte Chemie International Edition</b> 2026 `],
+            publink:"https://doi.org/10.1002/anie.9668428",
+            PDFdir:"data/firstauthor/Liu 等 - 2026 - Solid‐State‐Enabled Three‐Stage Delithiation Pathway of Li5 FeO4 for Silicon‐B.pdf",
+            year:"2026",
+        },
 
          {
             imagesrc:"artical_img/anie72627-fig-0001-m.jpg",
