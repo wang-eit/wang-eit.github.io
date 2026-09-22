@@ -98,6 +98,16 @@ var allStudentData={
             eduBj_2:"M.S.: XTU(2014-2017)",
             selfEmail:"lgzhang@eitech.edu.cn"
         },
+        {
+            imageSrc:"img/Team/guyang.jpg",
+            imageWithHigh:[175,240],
+            studentName:"yang Gu",
+            Supervisor:"Supervisor: Prof. Xueliang Sun",
+            CoSupervisor:"Co-Supervisor: Prof. Changhong Wang",
+            eduBj_1:"USTB (2023-2026)",
+            eduBj_2:"KUST (2019-2022)",
+            selfEmail:"yanggu@eitech.edu.cn"
+        },
     ],
 
     PhDs:[
@@ -393,6 +403,42 @@ var allStudentData={
 
 window.onload = function (){
 
+    function setStudentImage(imgNode, student){
+        imgNode.src = student.imageSrc;
+        imgNode.width = student.imageWithHigh[0];
+        imgNode.height = student.imageWithHigh[1];
+        imgNode.alt = student.studentName || "Team member";
+        imgNode.loading = "lazy";
+        imgNode.decoding = "async";
+
+        imgNode.onerror = function () {
+            var currentHost = (window.location && window.location.hostname) ? window.location.hostname : "";
+
+            if (imgNode.dataset.remoteTried !== "1" && currentHost !== "wang.eitech.edu.cn") {
+                imgNode.dataset.remoteTried = "1";
+                imgNode.src = "https://wang.eitech.edu.cn/" + student.imageSrc.replace(/^\/+/, "");
+                return;
+            }
+
+            var fallback = document.createElement("div");
+            var words = (student.studentName || "Team member").trim().split(/\s+/);
+            var initials = words.slice(0, 2).map(function (word) {
+                return word.charAt(0).toUpperCase();
+            }).join("");
+
+            fallback.className = "team-photo-fallback";
+            fallback.style.width = student.imageWithHigh[0] + "px";
+            fallback.style.height = student.imageWithHigh[1] + "px";
+            fallback.textContent = initials || "Photo";
+            fallback.setAttribute("role", "img");
+            fallback.setAttribute(
+                "aria-label",
+                (student.studentName || "Team member") + " photo unavailable"
+            );
+            imgNode.replaceWith(fallback);
+        };
+    }
+
     LoadData();
     
 
@@ -412,9 +458,7 @@ window.onload = function (){
             divNode_line.className = "posdoc_bj_des";
             let imgNode = document.createElement('img');
             let aNode = document.createElement('a');
-            imgNode.src=posPhDStu[j].imageSrc;
-            imgNode.width=posPhDStu[j].imageWithHigh[0];
-            imgNode.height=posPhDStu[j].imageWithHigh[1];
+            setStudentImage(imgNode, posPhDStu[j]);
             let pNode = document.createElement('p');
             
             pNode.append(posPhDStu[j].studentName);
@@ -458,9 +502,7 @@ window.onload = function (){
             divNode_line.className = "posdoc_bj_des";
             let imgNode = document.createElement('img');
             let aNode = document.createElement('a');
-            imgNode.src=posPhDStu[j].imageSrc;
-            imgNode.width=posPhDStu[j].imageWithHigh[0];
-            imgNode.height=posPhDStu[j].imageWithHigh[1];
+            setStudentImage(imgNode, posPhDStu[j]);
             let pNode = document.createElement('p');
             
             pNode.append(posPhDStu[j].studentName);
@@ -493,9 +535,7 @@ window.onload = function (){
             divNode_line.className = "phd_researcher";
             let imgNode = document.createElement('img');
             let aNode = document.createElement('a');
-            imgNode.src=PhDStu[j].imageSrc;
-            imgNode.width=PhDStu[j].imageWithHigh[0];
-            imgNode.height=PhDStu[j].imageWithHigh[1];
+            setStudentImage(imgNode, PhDStu[j]);
             let pNode = document.createElement('p');
             
             pNode.append(PhDStu[j].studentName);
@@ -528,9 +568,7 @@ window.onload = function (){
             divNode_line.className = "phd_researcher";
             let imgNode = document.createElement('img');
             let aNode = document.createElement('a');
-            imgNode.src=RAsStu[j].imageSrc;
-            imgNode.width=RAsStu[j].imageWithHigh[0];
-            imgNode.height=RAsStu[j].imageWithHigh[1];
+            setStudentImage(imgNode, RAsStu[j]);
             let pNode = document.createElement('p');
             
             pNode.append(RAsStu[j].studentName);
@@ -563,9 +601,7 @@ window.onload = function (){
             divNode_line.className = "phd_researcher";
             let imgNode = document.createElement('img');
             let aNode = document.createElement('a');
-            imgNode.src=AluminStu[j].imageSrc;
-            imgNode.width=AluminStu[j].imageWithHigh[0];
-            imgNode.height=AluminStu[j].imageWithHigh[1];
+            setStudentImage(imgNode, AluminStu[j]);
             let pNode = document.createElement('p');
             
             pNode.append(AluminStu[j].studentName);

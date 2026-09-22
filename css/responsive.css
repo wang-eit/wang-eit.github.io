@@ -1,0 +1,1055 @@
+/*
+ * Responsive compatibility layer
+ * --------------------------------
+ * The legacy desktop layout is intentionally left untouched above 1600px.
+ * Rules below only activate on narrower terminals so the original large-screen
+ * appearance remains 1:1 while laptops, tablets and phones become usable.
+ */
+
+.mobile-nav-toggle {
+  display: none;
+}
+
+@media (max-width: 1600px) {
+  html,
+  body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  .header_nav,
+  .KTZ,
+  .KTZ_des,
+  .res_title_bj,
+  .pub_title_bj,
+  .pub_title,
+  .max_back,
+  .pub_1_bj,
+  .pub_2_bj,
+  .pub_3_bj,
+  .pub_1 {
+    min-width: 0 !important;
+  }
+
+  .KTZ_DFLG_wang,
+  .KTZ_des_word,
+  .res_sta_bj_z,
+  .res_doc1_bj {
+    width: calc(100% - 48px);
+    max-width: 1300px;
+  }
+
+  body > hr,
+  .header_bg + hr,
+  .phd_pos_ms + hr {
+    width: calc(100% - 48px) !important;
+    max-width: 1300px;
+  }
+
+  .KTZ_des_title {
+    width: 49.23%;
+  }
+
+  .KTZ_des_img {
+    width: 42.31%;
+  }
+
+  .new_item,
+  #positons_,
+  #bilibili,
+  #internal,
+  #template,
+  #high_light,
+  .team_bg {
+    width: calc(100% - 48px);
+    max-width: 1200px;
+  }
+
+  #template #allRec #RecLi {
+    width: 100%;
+  }
+
+  .team_pi {
+    width: calc(100% - 48px);
+    max-width: 1000px;
+  }
+
+  .phd_pos_ms {
+    width: calc(100% - 48px);
+    max-width: 1100px;
+  }
+
+  .rap_bj,
+  .posdoc_bj,
+  .phd_bj,
+  .assistent_bj,
+  .alumin_bj {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .team_img {
+    max-width: calc(100% - 48px);
+    background-size: contain;
+    background-position: center top;
+  }
+
+  #template .line {
+    border-left-width: min(41.6667vw, 500px);
+    border-right-width: min(41.6667vw, 500px);
+  }
+}
+
+@media (max-width: 1280px) {
+  .nav_div {
+    margin-right: 24px;
+    font-size: 18px;
+  }
+
+  .header_nav li {
+    margin-left: 16px;
+  }
+
+  .KTZ_DFLG_logo_div {
+    width: auto;
+  }
+
+  .KTZ_DFLG_logo_div img,
+  .KTZ_DFLG_logo {
+    width: 250px;
+    height: auto;
+  }
+
+  .pub_title {
+    width: calc(100% - 48px);
+    max-width: 1200px;
+    float: none;
+  }
+
+  #btn {
+    width: calc(100% - 48px);
+    max-width: 900px;
+    height: auto;
+    margin: 0 auto;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  #template #allRec #RecLi .Recdiv {
+    width: calc(100% - 370px);
+  }
+
+  #template #allRec #RecLi img {
+    width: 340px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .header_bg {
+    height: 145px;
+  }
+
+  .header_nav {
+    height: 72px;
+    min-width: 0;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.08);
+  }
+
+  .KTZ_DFLG_logo_div {
+    top: 0;
+    left: 16px;
+    width: auto;
+    margin-left: 0;
+  }
+
+  .KTZ_DFLG_logo_div img,
+  .KTZ_DFLG_logo {
+    width: 218px;
+    height: auto;
+    margin-top: 10px;
+    float: none;
+  }
+
+  .mobile-nav-toggle {
+    position: fixed;
+    z-index: 40;
+    top: 16px;
+    right: 18px;
+    display: inline-flex;
+    width: 42px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    border: 0;
+    border-radius: 6px;
+    background: transparent;
+    color: #333;
+    cursor: pointer;
+  }
+
+  .mobile-nav-toggle::before,
+  .mobile-nav-toggle::after,
+  .mobile-nav-toggle span {
+    position: absolute;
+    width: 24px;
+    height: 2px;
+    border-radius: 999px;
+    background: currentColor;
+    content: "";
+    transition: transform 0.2s ease, opacity 0.2s ease, top 0.2s ease;
+  }
+
+  .mobile-nav-toggle::before {
+    top: 12px;
+  }
+
+  .mobile-nav-toggle span {
+    top: 19px;
+  }
+
+  .mobile-nav-toggle::after {
+    top: 26px;
+  }
+
+  .header_nav.is-open .mobile-nav-toggle::before {
+    top: 19px;
+    transform: rotate(45deg);
+  }
+
+  .header_nav.is-open .mobile-nav-toggle span {
+    opacity: 0;
+  }
+
+  .header_nav.is-open .mobile-nav-toggle::after {
+    top: 19px;
+    transform: rotate(-45deg);
+  }
+
+  .nav_div {
+    position: fixed;
+    z-index: 35;
+    top: 72px;
+    left: 0;
+    right: 0;
+    display: none;
+    width: 100%;
+    max-height: calc(100vh - 72px);
+    margin: 0;
+    padding: 8px 18px 18px;
+    overflow-y: auto;
+    float: none;
+    background: rgba(255, 255, 255, 0.985);
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
+    font-size: 18px;
+  }
+
+  .header_nav.is-open .nav_div {
+    display: block;
+  }
+
+  .nav_div li,
+  .header_nav li {
+    width: 100%;
+    margin: 0;
+    float: none;
+    border-bottom: 1px solid #eef1f4;
+  }
+
+  .nav_div li:last-child {
+    border-bottom: 0;
+  }
+
+  .nav_div a,
+  .nav_div p {
+    display: block;
+    width: 100%;
+  }
+
+  .nav_div p {
+    padding: 12px 6px;
+  }
+
+  body.nav-open {
+    overflow: hidden;
+  }
+
+  .KTZ {
+    height: 73px;
+    margin-top: 72px;
+  }
+
+  .KTZ_Team,
+  .KTZ_DFLG_wang {
+    height: 73px;
+  }
+
+  .KTZ_Team_span {
+    padding-top: 21px;
+    font-size: 34px;
+  }
+
+  .KTZ_DFLG_wang_span {
+    display: block;
+    margin-top: 0;
+    padding-top: 13px;
+    font-size: 34px;
+  }
+
+  .KTZ_des {
+    height: auto;
+    min-height: 0;
+    margin-top: 16px;
+    padding: 24px 0;
+    float: none;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .KTZ_des_word {
+    position: relative;
+    inset: auto;
+    display: flex;
+    height: auto;
+    gap: 28px;
+    align-items: center;
+  }
+
+  .KTZ_des_title,
+  .KTZ_des_img {
+    height: auto;
+    margin: 0;
+    float: none;
+  }
+
+  .KTZ_des_title {
+    width: 52%;
+  }
+
+  .KTZ_des_img {
+    width: calc(48% - 28px);
+    aspect-ratio: 55 / 38;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .lb-box {
+    width: calc(100% - 48px);
+    max-width: 960px;
+    height: auto;
+    aspect-ratio: 48 / 29;
+  }
+
+  .lb-content,
+  .lb-item,
+  .lb-item > a {
+    height: 100%;
+  }
+
+  .lb-item > a > img {
+    object-fit: cover;
+  }
+
+  .team_des_pi {
+    height: auto;
+    min-height: 450px;
+  }
+
+  .team_pi {
+    min-height: 420px;
+  }
+
+  .res_sta_bj_z,
+  .res_doc1_bj,
+  .res_title {
+    width: calc(100% - 48px);
+    max-width: 100%;
+  }
+
+  .res_baterry_left img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .res_title_bj {
+    height: auto;
+    min-height: 30px;
+  }
+
+  .res_title {
+    height: auto;
+  }
+
+  .pub_title_bj,
+  .pub_title {
+    height: auto;
+  }
+
+  .pub_title_bj {
+    margin-bottom: 12px;
+  }
+
+  .highlight-slider {
+    width: calc(100% - 48px);
+  }
+
+  #template {
+    margin-top: 50px;
+  }
+
+  #template .line {
+    margin-top: 70px;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 2px dashed #e9efe9;
+    line-height: 1.4;
+    padding-bottom: 8px;
+  }
+
+  #template #allRec #RecLi {
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+    height: auto;
+    min-height: 200px;
+  }
+
+  #template #allRec #RecLi .Recdiv {
+    position: static;
+    flex: 1 1 auto;
+    width: auto;
+    height: auto;
+    min-width: 0;
+  }
+
+  #template #allRec #RecLi .Recdiv p {
+    height: auto;
+    max-height: 120px;
+  }
+
+  #template #allRec #RecLi img {
+    flex: 0 0 30%;
+    width: 30%;
+    max-width: 300px;
+    height: 180px;
+    object-fit: contain;
+    float: none;
+  }
+
+  .new_item {
+    top: 30px;
+  }
+
+  .new_item ol li img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  #positons_ {
+    top: 35px;
+    height: auto;
+    padding-bottom: 70px;
+    font-size: 21px;
+    line-height: 1.5;
+  }
+
+  #bilibili {
+    height: auto;
+    padding-bottom: 30px;
+  }
+
+  #bilibili iframe {
+    width: min(700px, 100%);
+    height: auto;
+    aspect-ratio: 700 / 410;
+  }
+
+  #internal {
+    padding: 16px 0 30px;
+  }
+
+  #internal_res {
+    height: auto;
+    min-height: 120px;
+  }
+
+  .pv_num {
+    clear: both;
+    height: auto;
+    min-height: 50px;
+    padding: 14px 12px;
+    box-sizing: border-box;
+  }
+}
+
+@media (max-width: 768px) {
+  .KTZ_DFLG_wang,
+  .KTZ_des_word,
+  .res_sta_bj_z,
+  .res_doc1_bj,
+  .res_title,
+  .new_item,
+  #positons_,
+  #bilibili,
+  #internal,
+  #template,
+  #high_light,
+  .team_bg,
+  .team_pi,
+  .phd_pos_ms,
+  body > hr,
+  .header_bg + hr,
+  .phd_pos_ms + hr {
+    width: calc(100% - 32px) !important;
+  }
+
+  .KTZ_des_word {
+    display: block;
+  }
+
+  .KTZ_des_title,
+  .KTZ_des_img {
+    width: 100%;
+  }
+
+  .KTZ_des_title {
+    margin-bottom: 18px;
+  }
+
+  .KTZ_des_img {
+    aspect-ratio: 16 / 9;
+  }
+
+  .KTZ_des_title span[style*="font-size:18px"] {
+    line-height: 1.75 !important;
+  }
+
+  .lb_img_title {
+    height: auto;
+    padding: 8px 16px 0;
+    box-sizing: border-box;
+  }
+
+  .lb_img_title h2 {
+    font-size: 24px !important;
+  }
+
+  .lb_img_title hr {
+    max-width: 70%;
+  }
+
+  .lb-box {
+    width: calc(100% - 32px);
+    aspect-ratio: 4 / 3;
+  }
+
+  .lb-item > a > span {
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 12px;
+  }
+
+  .lb-sign {
+    transform: scale(0.85);
+    transform-origin: top right;
+  }
+
+  .team_des_pi {
+    margin-top: 45px;
+    min-height: 0;
+  }
+
+  .team_pi {
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+  }
+
+  .pi_img {
+    width: min(240px, 72vw);
+    height: 350px;
+    margin: 0 auto 24px;
+    float: none;
+  }
+
+  .pi_des {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .pi_des_span1 {
+    text-align: center;
+  }
+
+  .pi_img_email2 {
+    display: flex;
+    width: 100%;
+    height: auto;
+    min-height: 32px;
+    padding: 8px 0;
+    align-items: center;
+    gap: 10px;
+    float: none;
+    flex-wrap: wrap;
+  }
+
+  .pi_img_email2 img,
+  .pi_img_email2 a,
+  .pi_img_email2 span {
+    position: static;
+    margin: 0;
+  }
+
+  .pi_img_email2 span {
+    margin-left: auto;
+  }
+
+  .pi_img_email3 {
+    width: 100%;
+    margin-top: 6px;
+  }
+
+  .rap_bj,
+  .posdoc_bj,
+  .phd_bj,
+  .assistent_bj,
+  .alumin_bj {
+    gap: 16px;
+  }
+
+  .posdoc_bj_des,
+  .phd_researcher,
+  .assistent_researcher {
+    width: calc(50% - 8px);
+    height: auto;
+    min-height: 330px;
+  }
+
+  .posdoc_bj_des img,
+  .phd_researcher img,
+  .assistent_researcher img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .res_sta_doc_sp {
+    font-size: 10.5pt;
+    line-height: 1.65;
+  }
+
+  .res_title_ys {
+    font-size: 17pt;
+  }
+
+  #btn button {
+    flex: 1 1 180px;
+    font-size: 16px;
+    padding: 8px 12px;
+  }
+
+  #template #allRec #RecLi {
+    display: block;
+    margin-top: 36px;
+  }
+
+  #template #allRec #RecLi .Recdiv {
+    width: 100%;
+  }
+
+  #template #allRec #RecLi .Recdiv p {
+    max-height: none;
+  }
+
+  #template #allRec #RecLi img {
+    display: block;
+    width: min(340px, 100%);
+    max-width: 100%;
+    height: auto;
+    margin: 16px auto 0;
+  }
+
+  .slider-button {
+    width: 36px;
+    height: 36px;
+    font-size: 18px;
+  }
+
+  .new_item ol {
+    font-size: 16px;
+  }
+
+  .new_item ol li span {
+    font-size: 18px;
+  }
+
+  #positons_ {
+    font-size: 18px;
+  }
+
+  #positons_ h2 {
+    font-size: 22px;
+  }
+
+  #positons_ ol li {
+    list-style-position: outside;
+    margin-left: 24px;
+    text-indent: 0;
+  }
+
+  #bilibili {
+    padding-top: 24px;
+  }
+
+  #bilibili h2 {
+    font-size: 18px;
+    line-height: 1.45;
+  }
+
+  #internal h2 {
+    font-size: 30px;
+  }
+
+  #internal input {
+    max-width: 100%;
+    margin: 5px 2px;
+    box-sizing: border-box;
+  }
+
+  .team_bg {
+    height: auto;
+    min-height: 130px;
+  }
+
+  .team_des {
+    height: auto;
+    min-height: 130px;
+    padding: 12px 0;
+  }
+
+  .team_img {
+    width: calc(100% - 32px);
+    height: auto;
+    aspect-ratio: 16 / 7;
+  }
+}
+
+@media (max-width: 480px) {
+  .header_bg {
+    height: 132px;
+  }
+
+  .header_nav {
+    height: 64px;
+  }
+
+  .KTZ_DFLG_logo_div {
+    left: 10px;
+  }
+
+  .KTZ_DFLG_logo_div img,
+  .KTZ_DFLG_logo {
+    width: 185px;
+    margin-top: 9px;
+  }
+
+  .mobile-nav-toggle {
+    top: 12px;
+    right: 10px;
+  }
+
+  .nav_div {
+    top: 64px;
+    max-height: calc(100vh - 64px);
+  }
+
+  .KTZ {
+    height: 68px;
+    margin-top: 64px;
+  }
+
+  .KTZ_Team,
+  .KTZ_DFLG_wang {
+    height: 68px;
+  }
+
+  .KTZ_Team_span {
+    padding-top: 21px;
+    font-size: 29px;
+  }
+
+  .KTZ_DFLG_wang_span {
+    padding-top: 16px;
+    font-size: 28px;
+    line-height: 1.2;
+  }
+
+  .KTZ_des {
+    margin-top: 10px;
+    padding: 18px 0;
+  }
+
+  .KTZ_des_title span[style*="font-size:20px"] {
+    font-size: 18px !important;
+  }
+
+  .KTZ_des_title p[style*="font-size:18px"] {
+    font-size: 15px !important;
+    line-height: 1.45;
+  }
+
+  .KTZ_des_title span[style*="font-size:18px"] {
+    font-size: 15px !important;
+  }
+
+  .lb-box {
+    aspect-ratio: 1 / 1;
+    margin-top: 8px;
+  }
+
+  .lb-sign {
+    display: none;
+  }
+
+  .lb-ctrl {
+    font-size: 28px;
+  }
+
+  .pi_des_span1 {
+    font-size: 24px;
+  }
+
+  .pi_des_span2 {
+    font-size: 14px;
+  }
+
+  .pi_des_style1 {
+    padding-inline-start: 22px;
+  }
+
+  .pi_img_email2 span {
+    width: 100%;
+    margin-left: 30px;
+  }
+
+  .team_phd_std {
+    height: auto;
+    min-height: 50px;
+    margin-top: 22px;
+  }
+
+  .posdoc_bj_des,
+  .phd_researcher,
+  .assistent_researcher {
+    width: 100%;
+    min-height: 0;
+    margin: 18px 0;
+  }
+
+  .pub_title h1 {
+    font-size: 17px !important;
+    line-height: 1.55 !important;
+  }
+
+  #btn {
+    width: calc(100% - 32px);
+  }
+
+  #btn button {
+    flex-basis: 100%;
+  }
+
+  .highlight-slider {
+    width: calc(100% - 32px);
+  }
+
+  .slider-track img {
+    height: 240px;
+  }
+
+  #template {
+    margin-top: 28px;
+  }
+
+  #template #allRec {
+    font-size: 18px;
+  }
+
+  #template #allRec #RecLi .Recdiv h2,
+  #template #allRec #RecLi .Recdiv h5,
+  #template #allRec #RecLi .Recdiv p,
+  #template #allRec #RecLi .Recdiv a {
+    overflow-wrap: anywhere;
+  }
+
+  #template #allRec #RecLi .Recdiv p {
+    font-size: 16px;
+  }
+
+  .new_item {
+    top: 18px;
+  }
+
+  #positons_ {
+    top: 20px;
+    font-size: 16px;
+    line-height: 1.55;
+  }
+
+  #positons_ h2 {
+    font-size: 19px;
+  }
+
+  #positons_ h5 {
+    line-height: 1.5;
+  }
+
+  #internal h2 {
+    font-size: 26px;
+  }
+
+  #internal input,
+  #internal #inputPN {
+    width: 100%;
+    margin: 5px 0;
+  }
+
+  .pv_num {
+    margin-top: 28px;
+    font-size: 11px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mobile-nav-toggle::before,
+  .mobile-nav-toggle::after,
+  .mobile-nav-toggle span,
+  .slider-track,
+  .slider-track img {
+    transition: none !important;
+  }
+}
+
+
+/* v2 fixes: team row alignment + co-authored publication reflow */
+@media (max-width: 1600px) {
+  .rap_bj,
+  .posdoc_bj,
+  .phd_bj,
+  .assistent_bj,
+  .alumin_bj {
+    justify-content: flex-start;
+  }
+}
+
+.team-photo-fallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background: #eef2f5;
+  color: #67727e;
+  font-family: 'PT Sans', Arial, sans-serif;
+  font-size: 42px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+@media (max-width: 1024px) {
+  #template > ol#allpub {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    padding-left: 32px;
+    list-style-position: outside;
+    font-size: 20px;
+  }
+
+  #template > ol#allpub > li {
+    position: static;
+    width: 100%;
+    height: auto;
+    min-height: 0;
+    margin: 30px 0 0;
+    padding-left: 4px;
+    box-sizing: border-box;
+  }
+
+  #template > ol#allpub > li > div {
+    position: static;
+    float: none;
+    width: 100%;
+    height: auto;
+    min-height: 0;
+  }
+
+  #template > ol#allpub > li > div h2 {
+    height: auto;
+    margin-top: 0;
+    font-size: 16px;
+    line-height: 1.4;
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+
+  #template > ol#allpub > li > div h5 {
+    height: auto;
+    margin-top: 8px;
+    font-size: 14px;
+    line-height: 1.5;
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+
+  #template > ol#allpub > li > div a {
+    font-size: 16px;
+    line-height: inherit;
+  }
+}
+
+@media (max-width: 768px) {
+  .rap_bj,
+  .posdoc_bj,
+  .phd_bj,
+  .assistent_bj,
+  .alumin_bj {
+    justify-content: flex-start;
+  }
+
+  #template > ol#allpub {
+    padding-left: 28px;
+    font-size: 18px;
+  }
+
+  #template > ol#allpub > li {
+    margin-top: 26px;
+  }
+}
+
+@media (max-width: 480px) {
+  #template > ol#allpub {
+    padding-left: 24px;
+    font-size: 17px;
+  }
+
+  #template > ol#allpub > li {
+    margin-top: 22px;
+    padding-left: 2px;
+  }
+
+  #template > ol#allpub > li > div h2 {
+    font-size: 15px;
+    line-height: 1.45;
+  }
+
+  #template > ol#allpub > li > div h5 {
+    font-size: 13px;
+    line-height: 1.5;
+  }
+
+  #template > ol#allpub > li > div a {
+    font-size: 15px;
+  }
+}
