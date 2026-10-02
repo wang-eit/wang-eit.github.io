@@ -20,6 +20,17 @@ var recentPubs={
             year:"2026",
         },
         {
+            imagesrc:"artical_img/EES-zhouzhm.jpg",
+            titles:"A Novel Amorphization Strategy Unlocks Fast Ionic Transport in Low-Cost Halide Solid Electrolytes for High-Loading All-Solid-State Batteries",
+            abstract:" Structural amorphization offers a promising route to enhance halide solid electrolytes (SEs) by improving ionic conductivity and electrochemical stability. However, current amorphization strategies largely rely on anion/cation doping, limiting further progress. Here, we report an innovative Si3N4-assisted amorphization strategy that enables fast ion transport in low-cost halide SEs without relying on conventional compositional doping.....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`Z. Zhou, P. Lu, A. Tang, S. Liang, K. Tuo, J. Fu, S. Xia, Z. Wang, Z.Wang, S. Zhang, G. Hu, J. Hong, M. Zhu, C. Wang, T. Liu, M. Wei, H. Huang, N. Zhang, W. Li, L. Chen*, X. Sun*, <b>C. Wang*</b>, <b>Energy & Environmental Science</b> 2026 `],
+            publink:"https://doi.org/10.1039/d6ee05713f",
+            PDFdir:"",
+            year:"2026",
+        },
+        {
             imagesrc:"artical_img/am-zhangshutao.png",
             titles:"Dual-Solvent Supramolecular Assembly Enables Ampere-Hour Halide All-Solid-State Pouch Cell",
             abstract:"Halide solid electrolytes (SSEs) hold promises for next-generation all-solid-state batteries (ASSBs), yet scalable fabrication of halide SSE films and ampere-hour-scale all-solid-state pouch cells (ASSPCs) via slurry coating has not been demonstrated. Here, we introduce a dual-solvent supramolecular assembly strategy....",
