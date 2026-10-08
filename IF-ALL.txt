@@ -23,6 +23,7 @@ Scientific Reports 4.38
 Journal of Material Chemistry A 10.7
 Nano Letters 9.6
 Chemical Communications 4.3
+ACS Appl. Mater. Interfaces 8.2
 
 
 
