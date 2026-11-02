@@ -31,6 +31,17 @@ var recentPubs={
             year:"2026",
         },
         {
+            imagesrc:"artical_img/adma75592-fig-0001-m.jpg",
+            titles:"Submolecular Selenium Enables Low-Pressure and Recyclable All-Solid-State Li–Se Batteries",
+            abstract:"All-solid-state lithium-selenium (Li–Se) batteries offer high energy density and intrinsic safety, but their practical deployment is hindered by sluggish solid-state redox kinetics, large volume fluctuations, and unstable solid-solid interfaces, particularly under low stack pressure. Here we report a submolecular Sex cathode by converting crystalline ....",
+            equalContributions:["changhongwang","changhongwang"],
+            correspondingAuthor:["xueliangsun","xueliangsun"],
+            totalAuthor:[`J. Sang, W. Yuan, S. Liang, S. Jiang, D. Huang, X. Kong, X. Cheng, Y. Li, T. Liu, H. Huang, Y. Tian, Y.-Z. Fang, B. Liu, P. Zhang, G. Shao, Y.-B. He, Z. Zhou*, X. Sun*, <b>C. Wang*</b>, <b>Advanced Materials</b> 2026 `],
+            publink:"",
+            PDFdir:"",
+            year:"2026",
+        },
+        {
             imagesrc:"artical_img/am-zhangshutao.png",
             titles:"Dual-Solvent Supramolecular Assembly Enables Ampere-Hour Halide All-Solid-State Pouch Cell",
             abstract:"Halide solid electrolytes (SSEs) hold promises for next-generation all-solid-state batteries (ASSBs), yet scalable fabrication of halide SSE films and ampere-hour-scale all-solid-state pouch cells (ASSPCs) via slurry coating has not been demonstrated. Here, we introduce a dual-solvent supramolecular assembly strategy....",
